@@ -8,6 +8,8 @@ This is Xsixel running xeyes inside wezterm
 
 Extract xorg_x86-64_release1.tgz to /xorg
 
+Start with: `/xorg/startx.sh` which will tell you how to run apps like `DISPLAY=:1 xeyes`
+
 # Compiling
 
 Use src/xserver-SIXEL/build-xsixel.sh to build from sources into /xorg
