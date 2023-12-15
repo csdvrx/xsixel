@@ -1,0 +1,69 @@
+#!/usr/bin/make -f
+# debian/rules for the Debian xutils package.
+# Copyright © 2004 Scott James Remnant <scott@netsplit.com>
+# Copyright © 2005 Daniel Stone <daniel@fooishbar.org>
+# Copyright © 2005 David Nusinow <dnusinow@debian.org>
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+STAMP_DIR = stampdir
+
+# This package contains multiple modules as shipped by upstream. Each module is
+# contained in a subdirectory in the root dir of the package. You must list each
+# subdirectory explicitly so that the build system knows what to build
+XKB_SUBDIRS=setxkbmap xkbcomp xkbevd xkbprint xkbutils
+SUBDIRS=$(XKB_SUBDIRS)
+CONFIG_STAMPS = $(addprefix $(STAMP_DIR)/configure-,$(SUBDIRS))
+BUILD_STAMPS = $(addprefix $(STAMP_DIR)/build-,$(SUBDIRS))
+
+%:
+	dh $@ --with quilt
+
+override_dh_autoreconf:
+	dh_autoreconf debian/rules -- autoreconf
+
+autoreconf-%:
+	cd $* && autoreconf -vfi
+
+.PHONY: autoreconf
+autoreconf: $(addprefix autoreconf-, $(SUBDIRS))
+
+override_dh_auto_configure: $(CONFIG_STAMPS)
+
+$(STAMP_DIR)/configure-%:
+	mkdir -p $(STAMP_DIR)
+	dh_auto_configure -D$* -B$*-build -- \
+		--disable-silent-rules
+	>$@
+
+override_dh_auto_build: $(BUILD_STAMPS)
+
+$(STAMP_DIR)/build-%:
+	mkdir -p $(STAMP_DIR)
+	dh_auto_build -D$* -B$*-build
+	>$@
+
+override_dh_auto_install:
+	for FILE in $(SUBDIRS); do \
+		cd "$$FILE"-build && $(MAKE) DESTDIR=$(CURDIR)/debian/tmp install ; \
+		cd ..; \
+	done
+	install -d debian/tmp/usr/share/doc/x11-xkb-utils
+	install -m 644 xkbevd/example.cf debian/tmp/usr/share/doc/x11-xkb-utils/xkbevd-example.cf
+
+override_dh_missing:
+	dh_missing --fail-missing
+
+override_dh_auto_clean: $(addprefix clean-, $(SUBDIRS))
+	rm -rf $(STAMP_DIR)
+
+clean-%:
+	dh_auto_clean -D$* -B$*-build
+
+.PHONY: get-tarballs
+get-tarballs: $(addprefix get-tarball-,$(SUBDIRS))
+
+.PHONY: get-tarball-%
+get-tarball-%:
+	uscan --no-conf --destdir . --download --no-symlink --package $* --upstream-version $(shell awk -F = '/^PACKAGE_VERSION=/ { print $$2 }' < $*/configure ) --watchfile debian/watch.$* || test $$? = 1

@@ -1,0 +1,4 @@
+usr/bin/*
+usr/share/man/man1/*
+usr/share/doc/x11-xkb-utils
+usr/lib/*/pkgconfig usr/share

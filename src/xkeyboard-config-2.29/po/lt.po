@@ -1,0 +1,6304 @@
+# Lithuanian message catalog for xkeyboard-config.
+# Copyright (C) 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the xkeyboard-config package.
+# Rimas Kudelis <rq@akl.lt>, 2009, 2010, 2011, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: xkeyboard-config 2.12.99\n"
+"Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
+"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"PO-Revision-Date: 2014-12-16 20:53+0300\n"
+"Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: rules/base.xml:8
+msgid "Generic 101-key PC"
+msgstr "Įprastinė PC 101 klavišo"
+
+#: rules/base.xml:15
+#, fuzzy
+msgid "Generic 102-key PC (intl.)"
+msgstr "Įprastinė PC 102 klavišų (europinė)"
+
+#: rules/base.xml:22
+msgid "Generic 104-key PC"
+msgstr "Įprastinė PC 104 klavišų"
+
+#: rules/base.xml:29
+#, fuzzy
+msgid "Generic 105-key PC (intl.)"
+msgstr "Įprastinė PC 105 klavišų (europinė)"
+
+#: rules/base.xml:36
+msgid "Dell 101-key PC"
+msgstr "Dell 101 klavišo PC klaviatūra"
+
+#: rules/base.xml:43
+#, fuzzy
+msgid "Dell Latitude laptop"
+msgstr "„Dell Latitude“ serijos skreitinis kompiuteris"
+
+#: rules/base.xml:50
+#, fuzzy
+msgid "Dell Precision M65 laptop"
+msgstr "„Dell Precision M65“"
+
+#: rules/base.xml:57
+msgid "Everex STEPnote"
+msgstr "„Everex STEPnote“"
+
+#: rules/base.xml:64
+msgid "Keytronic FlexPro"
+msgstr "„Keytronic FlexPro“"
+
+#: rules/base.xml:71
+msgid "Microsoft Natural"
+msgstr "„Microsoft Natural“"
+
+#: rules/base.xml:78
+msgid "Northgate OmniKey 101"
+msgstr "„Northgate OmniKey 101“"
+
+#: rules/base.xml:85
+msgid "Winbook Model XP5"
+msgstr "„Winbook Model XP5“"
+
+#: rules/base.xml:92
+msgid "PC-98"
+msgstr ""
+
+#: rules/base.xml:99
+msgid "A4Tech KB-21"
+msgstr "„A4Tech KB-21“"
+
+#: rules/base.xml:106
+msgid "A4Tech KBS-8"
+msgstr "„A4Tech KBS-8“"
+
+#: rules/base.xml:113
+msgid "A4Tech Wireless Desktop RFKB-23"
+msgstr "„A4Tech Wireless Desktop RFKB-23“"
+
+#: rules/base.xml:120
+msgid "Acer AirKey V"
+msgstr "„Acer AirKey V“"
+
+#: rules/base.xml:127
+#, fuzzy
+msgid "Azona RF2300 wireless Internet"
+msgstr "„Azona RF2300“ belaidė internetinė klaviatūra"
+
+#: rules/base.xml:134
+msgid "Advance Scorpius KI"
+msgstr "„Advance Scorpius KI“"
+
+#: rules/base.xml:141
+#, fuzzy
+msgid "Brother Internet"
+msgstr "„Brother“ internetinė klaviatūra"
+
+#: rules/base.xml:148
+msgid "BTC 5113RF Multimedia"
+msgstr "„BTC 5113RF Multimedia“"
+
+#: rules/base.xml:155
+msgid "BTC 5126T"
+msgstr "„BTC 5126T“"
+
+#: rules/base.xml:162
+msgid "BTC 6301URF"
+msgstr "„BTC 6301URF“"
+
+#: rules/base.xml:169
+msgid "BTC 9000"
+msgstr "„BTC 9000“"
+
+#: rules/base.xml:176
+msgid "BTC 9000A"
+msgstr "„BTC 9000A“"
+
+#: rules/base.xml:183
+msgid "BTC 9001AH"
+msgstr "„BTC 9001AH“"
+
+#: rules/base.xml:190
+msgid "BTC 5090"
+msgstr "„BTC 5090“"
+
+#: rules/base.xml:197
+msgid "BTC 9019U"
+msgstr "„BTC 9019U“"
+
+#: rules/base.xml:204
+msgid "BTC 9116U Mini Wireless Internet and Gaming"
+msgstr "„BTC 9116U Mini Wireless Internet and Gaming“"
+
+#: rules/base.xml:210
+msgid "Cherry Blue Line CyBo@rd"
+msgstr "„Cherry Blue Line CyBo@rd“"
+
+#: rules/base.xml:216
+msgid "Cherry CyMotion Master XPress"
+msgstr "„Cherry CyMotion Master XPress“"
+
+#: rules/base.xml:223
+#, fuzzy
+msgid "Cherry Blue Line CyBo@rd (alt.)"
+msgstr "„Cherry Blue Line CyBo@rd“"
+
+#: rules/base.xml:230
+msgid "Cherry CyBo@rd USB-Hub"
+msgstr "„Cherry CyBo@rd USB-Hub“"
+
+#: rules/base.xml:237
+msgid "Cherry CyMotion Expert"
+msgstr "„Cherry CyMotion Expert“"
+
+#: rules/base.xml:244
+msgid "Cherry B.UNLIMITED"
+msgstr "„Cherry B.UNLIMITED“"
+
+#: rules/base.xml:251
+#, fuzzy
+msgid "Chicony Internet"
+msgstr "„Chicony“ internetinė klaviatūra"
+
+#: rules/base.xml:258
+msgid "Chicony KU-0108"
+msgstr "„Chicony KU-0108“"
+
+#: rules/base.xml:265
+msgid "Chicony KU-0420"
+msgstr "„Chicony KU-0420“"
+
+#: rules/base.xml:272
+msgid "Chicony KB-9885"
+msgstr "„Chicony KB-9885“"
+
+#: rules/base.xml:279
+#, fuzzy
+msgid "Compaq Easy Access"
+msgstr "„Compaq Easy Access“ klaviatūra"
+
+#: rules/base.xml:286
+#, fuzzy
+msgid "Compaq Internet (7 keys)"
+msgstr "„Compaq“ internetinė klaviatūra (7 spec. klavišai)"
+
+#: rules/base.xml:293
+#, fuzzy
+msgid "Compaq Internet (13 keys)"
+msgstr "„Compaq“ internetinė klaviatūra (13 spec. klavišų)"
+
+#: rules/base.xml:300
+#, fuzzy
+msgid "Compaq Internet (18 keys)"
+msgstr "„Compaq“ internetinė klaviatūra (18 spec. klavišų)"
+
+#: rules/base.xml:307
+msgid "Cherry CyMotion Master Linux"
+msgstr "„Cherry CyMotion Master Linux“"
+
+#: rules/base.xml:314
+msgid "Compaq Armada laptop"
+msgstr ""
+
+#: rules/base.xml:321
+msgid "Compaq Presario laptop"
+msgstr ""
+
+#: rules/base.xml:328
+#, fuzzy
+msgid "Compaq iPaq"
+msgstr "„Compaq iPaq“ klaviatūra"
+
+#: rules/base.xml:335
+msgid "Dell"
+msgstr "„Dell“"
+
+#: rules/base.xml:342
+msgid "Dell SK-8125"
+msgstr "„Dell SK-8125“"
+
+#: rules/base.xml:349
+msgid "Dell SK-8135"
+msgstr "„Dell SK-8135“"
+
+#: rules/base.xml:356
+#, fuzzy
+msgid "Dell USB Multimedia"
+msgstr "„Dell“ USB multimedinė klaviatūra"
+
+#: rules/base.xml:363
+msgid "Dell Inspiron 6000/8000 laptop"
+msgstr ""
+
+#: rules/base.xml:370
+#, fuzzy
+msgid "Dell Precision M laptop"
+msgstr "„Dell Precision M65“"
+
+#: rules/base.xml:377
+#, fuzzy
+msgid "Dexxa Wireless Desktop"
+msgstr "„Dexxa Wireless Desktop“ klaviatūra"
+
+#: rules/base.xml:384
+#, fuzzy
+msgid "Diamond 9801/9802"
+msgstr "„Diamond 9801 / 9802“ serijos klaviatūra"
+
+#: rules/base.xml:391
+msgid "DTK2000"
+msgstr "„DTK2000“"
+
+#: rules/base.xml:397
+msgid "Ennyah DKB-1008"
+msgstr "„Ennyah DKB-1008“"
+
+#: rules/base.xml:404
+#, fuzzy
+msgid "Fujitsu-Siemens Amilo laptop"
+msgstr "„Fujitsu-Siemens Computers AMILO“ skreitinis kompiuteris"
+
+#: rules/base.xml:411
+#, fuzzy
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
+msgstr "„Genius Comfy KB-16M“ / „Genius MM Keyboard KWD-910“"
+
+#: rules/base.xml:418
+msgid "Genius Comfy KB-12e"
+msgstr "„Genius Comfy KB-12e“"
+
+#: rules/base.xml:425
+msgid "Genius Comfy KB-21e-Scroll"
+msgstr "„Genius Comfy KB-21e-Scroll“"
+
+#: rules/base.xml:432
+msgid "Genius KB-19e NB"
+msgstr "„Genius KB-19e NB“"
+
+#: rules/base.xml:439
+msgid "Genius KKB-2050HS"
+msgstr "„Genius KKB-2050HS“"
+
+#: rules/base.xml:446
+msgid "Gyration"
+msgstr "„Gyration“"
+
+#: rules/base.xml:453
+msgid "Kinesis"
+msgstr "„Kinesis“"
+
+#: rules/base.xml:460
+#, fuzzy
+msgid "Logitech"
+msgstr "„Logitech iTouch“"
+
+#: rules/base.xml:467
+msgid "Logitech G15 extra keys via G15daemon"
+msgstr "„Logitech G15“ (papildomi klavišai „G15daemon“ pagalba)"
+
+#: rules/base.xml:474
+#, fuzzy
+msgid "Hewlett-Packard Internet"
+msgstr "„Hewlett-Packard“ internetinė klaviatūra"
+
+#: rules/base.xml:481
+#, fuzzy
+msgid "Hewlett-Packard NEC SK-2500 Multimedia"
+msgstr "„Hewlett-Packard SK-250x“ multimedinė klaviatūra"
+
+#: rules/base.xml:488
+msgid "Hewlett-Packard Omnibook XE3 GC"
+msgstr "„Hewlett-Packard Omnibook XE3 GC“"
+
+#: rules/base.xml:495
+msgid "Hewlett-Packard Omnibook XE3 GF"
+msgstr "„Hewlett-Packard Omnibook XE3 GF“"
+
+#: rules/base.xml:502
+msgid "Hewlett-Packard Omnibook XT1000"
+msgstr "„Hewlett-Packard Omnibook XT1000“"
+
+#: rules/base.xml:509
+msgid "Hewlett-Packard Pavilion dv5"
+msgstr "„Hewlett-Packard Pavilion dv5“"
+
+#: rules/base.xml:516
+#, fuzzy
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr "„Hewlett-Packard Pavilion ZT11xx“"
+
+#: rules/base.xml:523
+msgid "Hewlett-Packard Omnibook 500 FA"
+msgstr "„Hewlett-Packard Omnibook 500 FA“"
+
+#: rules/base.xml:530
+#, fuzzy
+msgid "Hewlett-Packard Omnibook 500"
+msgstr "„Hewlett-Packard Omnibook 500 FA“"
+
+#: rules/base.xml:537
+msgid "Hewlett-Packard nx9020"
+msgstr "„Hewlett-Packard nx9020“"
+
+#: rules/base.xml:544
+msgid "Hewlett-Packard Omnibook 6000/6100"
+msgstr "„Hewlett-Packard Omnibook 6000/6100“"
+
+#: rules/base.xml:551
+msgid "Honeywell Euroboard"
+msgstr "„Honeywell Euroboard“"
+
+#: rules/base.xml:558
+#, fuzzy
+msgid "Hewlett-Packard Mini 110 laptop"
+msgstr "„Hewlett-Packard Mini 110“ skreitinis kompiuteris"
+
+#: rules/base.xml:565
+msgid "IBM Rapid Access"
+msgstr "„IBM Rapid Access“"
+
+#: rules/base.xml:572
+msgid "IBM Rapid Access II"
+msgstr "„IBM Rapid Access II“"
+
+#: rules/base.xml:579
+msgid "IBM ThinkPad 560Z/600/600E/A22E"
+msgstr "„IBM ThinkPad 560Z/600/600E/A22E“"
+
+#: rules/base.xml:586
+msgid "IBM ThinkPad R60/T60/R61/T61"
+msgstr "„IBM ThinkPad R60/T60/R61/T61“"
+
+#: rules/base.xml:593
+msgid "IBM ThinkPad Z60m/Z60t/Z61m/Z61t"
+msgstr "„IBM ThinkPad Z60m/Z60t/Z61m/Z61t“"
+
+#: rules/base.xml:600
+msgid "IBM Space Saver"
+msgstr "„IBM Space Saver“"
+
+#: rules/base.xml:607
+#, fuzzy
+msgid "Logitech Access"
+msgstr "„Logitech Access“ klaviatūra"
+
+#: rules/base.xml:614
+msgid "Logitech Cordless Desktop LX-300"
+msgstr "„Logitech Cordless Desktop LX-300“"
+
+#: rules/base.xml:621 rules/base.xml:629
+#, fuzzy
+msgid "Logitech Internet 350"
+msgstr "„Logitech Internet 350“ klaviatūra"
+
+#: rules/base.xml:636
+msgid "Logitech Cordless Desktop"
+msgstr "„Logitech Cordless Desktop“"
+
+#: rules/base.xml:643
+msgid "Logitech Cordless Desktop iTouch"
+msgstr "„Logitech Cordless Desktop iTouch“"
+
+#: rules/base.xml:650 rules/base.xml:685
+msgid "Logitech Cordless Desktop Navigator"
+msgstr "„Logitech Cordless Desktop Navigator“"
+
+#: rules/base.xml:657
+msgid "Logitech Cordless Desktop Optical"
+msgstr "„Logitech Cordless Desktop Optical“"
+
+#: rules/base.xml:664
+#, fuzzy
+msgid "Logitech Cordless Desktop (alt.)"
+msgstr "„Logitech Cordless Desktop“"
+
+#: rules/base.xml:671
+#, fuzzy
+msgid "Logitech Cordless Desktop Pro (2nd alt.)"
+msgstr "„Logitech Cordless Desktop Pro“ (antrasis alternatyvus variantas)"
+
+#: rules/base.xml:678
+msgid "Logitech Cordless Freedom/Desktop Navigator"
+msgstr "„Logitech Cordless Freedom/Desktop Navigator“"
+
+#: rules/base.xml:692
+#, fuzzy
+msgid "Logitech iTouch Cordless Y-RB6"
+msgstr "„Logitech iTouch Cordless Keyboard“ (modelis Y-RB6)"
+
+#: rules/base.xml:699
+#, fuzzy
+msgid "Logitech Internet"
+msgstr "„Logitech“ internetinė klaviatūra"
+
+#: rules/base.xml:706
+msgid "Logitech iTouch"
+msgstr "„Logitech iTouch“"
+
+#: rules/base.xml:713
+#, fuzzy
+msgid "Logitech Internet Navigator"
+msgstr "„Logitech Internet Navigator“ klaviatūra"
+
+#: rules/base.xml:720
+msgid "Logitech Cordless Desktop EX110"
+msgstr "„Logitech Cordless Desktop EX110“"
+
+#: rules/base.xml:727
+#, fuzzy
+msgid "Logitech iTouch Internet Navigator SE"
+msgstr "„Logitech iTouch Internet Navigator Keyboard SE“"
+
+#: rules/base.xml:734
+#, fuzzy
+msgid "Logitech iTouch Internet Navigator SE USB"
+msgstr "„Logitech iTouch Internet Navigator Keyboard SE“ (USB)"
+
+#: rules/base.xml:741
+#, fuzzy
+msgid "Logitech Ultra-X"
+msgstr "„Logitech Ultra-X“ klaviatūra"
+
+#: rules/base.xml:748
+#, fuzzy
+msgid "Logitech Ultra-X Cordless Media Desktop"
+msgstr "„Logitech Ultra-X Cordless Media Desktop“ klaviatūra"
+
+#: rules/base.xml:755
+#, fuzzy
+msgid "Logitech diNovo"
+msgstr "„Logitech diNovo“ klaviatūra"
+
+#: rules/base.xml:762
+#, fuzzy
+msgid "Logitech diNovo Edge"
+msgstr "„Logitech diNovo Edge“ klaviatūra"
+
+#: rules/base.xml:769
+msgid "Memorex MX1998"
+msgstr "„Memorex MX1998“"
+
+#: rules/base.xml:776
+#, fuzzy
+msgid "Memorex MX2500 EZ-Access"
+msgstr "„Memorex MX2500 EZ-Access“ klaviatūra"
+
+#: rules/base.xml:783
+msgid "Memorex MX2750"
+msgstr "„Memorex MX2750“"
+
+#: rules/base.xml:790
+#, fuzzy
+msgid "Microsoft Natural Ergonomic 4000"
+msgstr "„Microsoft Natural Ergonomic Keyboard 4000“"
+
+#: rules/base.xml:797
+#, fuzzy
+msgid "Microsoft Natural Wireless Ergonomic 7000"
+msgstr "„Microsoft Natural Wireless Ergonomic Keyboard 7000“"
+
+#: rules/base.xml:804
+#, fuzzy
+msgid "Microsoft Internet"
+msgstr "„Microsoft“ internetinė klaviatūra"
+
+#: rules/base.xml:811
+#, fuzzy
+msgid "Microsoft Natural Pro/Internet Pro"
+msgstr "„Microsoft Natural Keyboard Pro OEM“"
+
+#: rules/base.xml:818
+#, fuzzy
+msgid "Microsoft Natural Pro USB/Internet Pro"
+msgstr ""
+"„Microsoft Natural Keyboard Pro USB“ / „Microsoft Internet Keyboard Pro“"
+
+#: rules/base.xml:825
+#, fuzzy
+msgid "Microsoft Natural Pro OEM"
+msgstr "„Microsoft Natural Keyboard Pro OEM“"
+
+#: rules/base.xml:832
+#, fuzzy
+msgid "ViewSonic KU-306 Internet"
+msgstr "„ViewSonic KU-306“ internetinė klaviatūra"
+
+#: rules/base.xml:839
+#, fuzzy
+msgid "Microsoft Internet Pro (Swedish)"
+msgstr "„Microsoft Internet Keyboard Pro“ (švediška)"
+
+#: rules/base.xml:846
+msgid "Microsoft Office Keyboard"
+msgstr "„Microsoft Office“ klaviatūra"
+
+#: rules/base.xml:853
+#, fuzzy
+msgid "Microsoft Wireless Multimedia 1.0A"
+msgstr "„Microsoft Wireless Multimedia Keyboard 1.0A“"
+
+#: rules/base.xml:860
+#, fuzzy
+msgid "Microsoft Surface"
+msgstr "„Microsoft Natural“"
+
+#: rules/base.xml:867
+#, fuzzy
+msgid "Microsoft Natural Elite"
+msgstr "„Microsoft Natural“"
+
+#: rules/base.xml:874
+#, fuzzy
+msgid "Microsoft Comfort Curve 2000"
+msgstr "„Microsoft Comfort Curve Keyboard 2000“"
+
+#: rules/base.xml:881
+msgid "Ortek Multimedia/Internet MCK-800"
+msgstr ""
+
+#: rules/base.xml:888
+#, fuzzy
+msgid "Propeller Voyager KTEZ-1000"
+msgstr "„Propeller Voyager“ („KTEZ-1000“)"
+
+#: rules/base.xml:895
+msgid "QTronix Scorpius 98N+"
+msgstr "„QTronix Scorpius 98N+“"
+
+#: rules/base.xml:902
+msgid "Samsung SDM 4500P"
+msgstr "„Samsung SDM 4500P“"
+
+#: rules/base.xml:909
+msgid "Samsung SDM 4510P"
+msgstr "„Samsung SDM 4510P“"
+
+#: rules/base.xml:916
+msgid "Sanwa Supply SKB-KG3"
+msgstr "„Sanwa Supply SKB-KG3“"
+
+#: rules/base.xml:923
+#, fuzzy
+msgid "NEC SK-1300"
+msgstr "„SK-1300“"
+
+#: rules/base.xml:930
+#, fuzzy
+msgid "NEC SK-2500"
+msgstr "„SK-2500“"
+
+#: rules/base.xml:937
+#, fuzzy
+msgid "NEC SK-6200"
+msgstr "„SK-6200“"
+
+#: rules/base.xml:944
+#, fuzzy
+msgid "NEC SK-7100"
+msgstr "„SK-7100“"
+
+#: rules/base.xml:951
+#, fuzzy
+msgid "Super Power Multimedia"
+msgstr "„Super Power“ multimedinė klaviatūra"
+
+#: rules/base.xml:958
+msgid "SVEN Ergonomic 2500"
+msgstr "„SVEN Ergonomic 2500“"
+
+#: rules/base.xml:965
+msgid "SVEN Slim 303"
+msgstr "„SVEN Slim 303“"
+
+#: rules/base.xml:972
+#, fuzzy
+msgid "Symplon PaceBook tablet"
+msgstr "„Symplon PaceBook“ planšetinis kompiuteris"
+
+#: rules/base.xml:979
+msgid "Toshiba Satellite S3000"
+msgstr "„Toshiba Satellite S3000“"
+
+#: rules/base.xml:986
+#, fuzzy
+msgid "Trust Wireless Classic"
+msgstr "„Trust“ klasikinė belaidė klaviatūra"
+
+#: rules/base.xml:993
+#, fuzzy
+msgid "Trust Direct Access"
+msgstr "„Trust Direct Access“ klaviatūra"
+
+#: rules/base.xml:1000
+msgid "Trust Slimline"
+msgstr "„Trust Slimline“"
+
+#: rules/base.xml:1007
+msgid "TypeMatrix EZ-Reach 2020"
+msgstr "„TypeMatrix EZ-Reach 2020“"
+
+#: rules/base.xml:1014
+msgid "TypeMatrix EZ-Reach 2030 PS2"
+msgstr "„TypeMatrix EZ-Reach 2030 PS2“"
+
+#: rules/base.xml:1021
+msgid "TypeMatrix EZ-Reach 2030 USB"
+msgstr "„TypeMatrix EZ-Reach 2030 USB“"
+
+#: rules/base.xml:1028
+msgid "TypeMatrix EZ-Reach 2030 USB (102/105:EU mode)"
+msgstr "„TypeMatrix EZ-Reach 2030 USB“ (102/105 klavišų europinis variantas)"
+
+#: rules/base.xml:1035
+msgid "TypeMatrix EZ-Reach 2030 USB (106:JP mode)"
+msgstr "„TypeMatrix EZ-Reach 2030 USB“ (106 klavišų japoninis variantas)"
+
+#: rules/base.xml:1042
+#, fuzzy
+msgid "Yahoo! Internet"
+msgstr "„Yahoo!“ internetinė klaviatūra"
+
+#: rules/base.xml:1049
+msgid "MacBook/MacBook Pro"
+msgstr "„MacBook“/„MacBook Pro“"
+
+#: rules/base.xml:1056
+#, fuzzy
+msgid "MacBook/MacBook Pro (intl.)"
+msgstr "„MacBook“/„MacBook Pro“ (europinė)"
+
+#: rules/base.xml:1063
+msgid "Macintosh"
+msgstr "„Macintosh“"
+
+#: rules/base.xml:1070
+msgid "Macintosh Old"
+msgstr "„Macintosh“ (senoji)"
+
+#: rules/base.xml:1077
+#, fuzzy
+msgid "Happy Hacking for Mac"
+msgstr "„Happy Hacking Keyboard for Mac“"
+
+#: rules/base.xml:1084
+msgid "Acer C300"
+msgstr "„Acer C300“"
+
+#: rules/base.xml:1091
+msgid "Acer Ferrari 4000"
+msgstr "„Acer Ferrari 4000“"
+
+#: rules/base.xml:1098
+#, fuzzy
+msgid "Acer laptop"
+msgstr "„Acer“ skreitinis kompiuteris"
+
+#: rules/base.xml:1105
+#, fuzzy
+msgid "Asus laptop"
+msgstr "„Asus“ skreitinis kompiuteris"
+
+#: rules/base.xml:1112
+msgid "Apple"
+msgstr "„Apple“"
+
+#: rules/base.xml:1119
+#, fuzzy
+msgid "Apple laptop"
+msgstr "„Apple“ skreitinis kompiuteris"
+
+#: rules/base.xml:1126
+#, fuzzy
+msgid "Apple Aluminium (ANSI)"
+msgstr "„Apple“ aliumininė klaviatūra (ANSI)"
+
+#: rules/base.xml:1133
+#, fuzzy
+msgid "Apple Aluminium (ISO)"
+msgstr "„Apple“ aliumininė klaviatūra (ISO)"
+
+#: rules/base.xml:1140
+#, fuzzy
+msgid "Apple Aluminium (JIS)"
+msgstr "„Apple“ aliumininė klaviatūra (JIS)"
+
+#: rules/base.xml:1147
+msgid "Silvercrest Multimedia Wireless"
+msgstr ""
+
+#: rules/base.xml:1154
+msgid "eMachines m6800 laptop"
+msgstr ""
+
+#: rules/base.xml:1161
+msgid "BenQ X-Touch"
+msgstr "„BenQ X-Touch“"
+
+#: rules/base.xml:1168
+msgid "BenQ X-Touch 730"
+msgstr "„BenQ X-Touch 730“"
+
+#: rules/base.xml:1175
+msgid "BenQ X-Touch 800"
+msgstr "„BenQ X-Touch 800“"
+
+#: rules/base.xml:1182
+#, fuzzy
+msgid "Happy Hacking"
+msgstr "„Happy Hacking Keyboard“"
+
+#: rules/base.xml:1189
+msgid "Classmate PC"
+msgstr "„Classmate PC“"
+
+#: rules/base.xml:1196
+msgid "OLPC"
+msgstr "„OLPC“"
+
+#: rules/base.xml:1203
+msgid "Sun Type 7 USB"
+msgstr "„Sun Type 7“ USB"
+
+#: rules/base.xml:1210
+#, fuzzy
+msgid "Sun Type 7 USB (European)"
+msgstr "„Sun Type 7“ USB (europinė)"
+
+#: rules/base.xml:1217
+#, fuzzy
+msgid "Sun Type 7 USB (Unix)"
+msgstr "„Sun Type 7“ USB („UNIX“ tipo)"
+
+#: rules/base.xml:1224
+#, fuzzy
+msgid "Sun Type 7 USB (Japanese)/Japanese 106-key"
+msgstr "„Sun Type 7“ USB (japoninė) / Japoninė 106 klavišų"
+
+#: rules/base.xml:1231
+msgid "Sun Type 6/7 USB"
+msgstr "„Sun Type 6/7“ USB"
+
+#: rules/base.xml:1238
+#, fuzzy
+msgid "Sun Type 6/7 USB (European)"
+msgstr "„Sun Type 6/7 USB“ (europinė)"
+
+#: rules/base.xml:1245
+#, fuzzy
+msgid "Sun Type 6 USB (Unix)"
+msgstr "„Sun Type 6“ USB („UNIX“ tipo)"
+
+#: rules/base.xml:1252
+#, fuzzy
+msgid "Sun Type 6 USB (Japanese)"
+msgstr "„Sun Type 6“ USB (japoninė)"
+
+#: rules/base.xml:1259
+#, fuzzy
+msgid "Sun Type 6 (Japanese)"
+msgstr "„Sun Type 6“ (japoninė)"
+
+#: rules/base.xml:1266
+msgid "Targa Visionary 811"
+msgstr "„Targa Visionary 811“"
+
+#: rules/base.xml:1273
+msgid "Unitek KB-1925"
+msgstr "„Unitek KB-1925“"
+
+#: rules/base.xml:1280
+msgid "FL90"
+msgstr "„FL90“"
+
+#: rules/base.xml:1287
+msgid "Creative Desktop Wireless 7000"
+msgstr "„Creative Desktop Wireless 7000“"
+
+#: rules/base.xml:1294
+#, fuzzy
+msgid "Truly Ergonomic 227"
+msgstr "Ergonominis"
+
+#: rules/base.xml:1301
+#, fuzzy
+msgid "Truly Ergonomic 229"
+msgstr "Ergonominis"
+
+#: rules/base.xml:1308
+msgid "SteelSeries Apex 300 (Apex RAW)"
+msgstr ""
+
+#: rules/base.xml:1315
+msgid "Chromebook"
+msgstr ""
+
+#: rules/base.xml:1322
+msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
+msgstr ""
+
+#: rules/base.xml:1329
+msgid ""
+"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
+"additional Super and Menu key)"
+msgstr ""
+
+#. Keyboard indicator for English layouts
+#. Keyboard indicator for Australian layouts
+#. Keyboard indicator for English layouts
+#: rules/base.xml:1339 rules/base.xml:1737 rules/base.xml:2257
+#: rules/base.xml:2684 rules/base.xml:3362 rules/base.xml:5576
+#: rules/base.xml:5823 rules/base.xml:5866 rules/base.xml:6011
+#: rules/base.xml:6022 rules/base.extras.xml:337 rules/base.extras.xml:1171
+msgid "en"
+msgstr "en"
+
+#: rules/base.xml:1340 rules/base.extras.xml:338
+msgid "English (US)"
+msgstr "Anglų (JAV)"
+
+#. Keyboard indicator for Cherokee layouts
+#: rules/base.xml:1350
+msgid "chr"
+msgstr "chr"
+
+#: rules/base.xml:1351
+msgid "Cherokee"
+msgstr "Čerokių"
+
+#: rules/base.xml:1360
+#, fuzzy
+msgid "English (US, euro on 5)"
+msgstr "Anglų (JAV, su Euro ženklu ant klavišo 5)"
+
+#: rules/base.xml:1366
+#, fuzzy
+msgid "English (US, intl., with dead keys)"
+msgstr "Anglų (JAV tarptautinis su tęsties klavišais)"
+
+#: rules/base.xml:1372
+#, fuzzy
+msgid "English (US, alt. intl.)"
+msgstr "Anglų (JK, „Macintosh“)"
+
+#: rules/base.xml:1378
+msgid "English (Colemak)"
+msgstr "Anglų („Colemak“)"
+
+#: rules/base.xml:1384
+msgid "English (Dvorak)"
+msgstr "Anglų (Dvorako)"
+
+#: rules/base.xml:1390
+#, fuzzy
+msgid "English (Dvorak, intl., with dead keys)"
+msgstr "Anglų (Dvorako, tarptautinis, su tęsties klavišais)"
+
+#: rules/base.xml:1396
+#, fuzzy
+msgid "English (Dvorak, alt. intl.)"
+msgstr "Anglų (Dvorako)"
+
+#: rules/base.xml:1402
+#, fuzzy
+msgid "English (Dvorak, left-handed)"
+msgstr "Anglų (Dvorako)"
+
+#: rules/base.xml:1408
+#, fuzzy
+msgid "English (Dvorak, right-handed)"
+msgstr "Anglų (Dvorako, dešiniarankiams)"
+
+#: rules/base.xml:1414
+msgid "English (classic Dvorak)"
+msgstr "Anglų (klasikinis Dvorako)"
+
+#: rules/base.xml:1420
+msgid "English (programmer Dvorak)"
+msgstr "Anglų (programuotojų Dvorako)"
+
+#. Keyboard indicator for Russian layouts
+#: rules/base.xml:1427 rules/base.xml:2908 rules/base.xml:3488
+#: rules/base.xml:3626 rules/base.xml:4055 rules/base.xml:4549
+#: rules/base.xml:4669 rules/base.xml:5069 rules/base.xml:5080
+#: rules/base.extras.xml:177 rules/base.extras.xml:188
+#: rules/base.extras.xml:566 rules/base.extras.xml:582
+#: rules/base.extras.xml:618
+msgid "ru"
+msgstr "ru"
+
+#: rules/base.xml:1428
+msgid "Russian (US, phonetic)"
+msgstr "Rusų (JAV, fonetinis)"
+
+#: rules/base.xml:1437
+msgid "English (Macintosh)"
+msgstr "Anglų („Macintosh“)"
+
+#: rules/base.xml:1443
+#, fuzzy
+msgid "English (intl., with AltGr dead keys)"
+msgstr "Anglų (tarptautinis, tęsties klavišai pasiekiami per Lyg3 klavišą)"
+
+#: rules/base.xml:1454
+msgid "English (the divide/multiply keys toggle the layout)"
+msgstr "Anglų (dalybos / daugybos klavišai perjungia išdėstymą)"
+
+#: rules/base.xml:1460
+msgid "Serbo-Croatian (US)"
+msgstr "Serbų-kroatų (JAV)"
+
+#: rules/base.xml:1473
+msgid "English (Norman)"
+msgstr "Anglų („Norman“)"
+
+#: rules/base.xml:1479
+msgid "English (Workman)"
+msgstr "Anglų („Workman“)"
+
+#: rules/base.xml:1485
+#, fuzzy
+msgid "English (Workman, intl., with dead keys)"
+msgstr "Anglų („Workman“, tarptautinis, su tęsties klavišais)"
+
+#. Keyboard indicator for Afghani layouts
+#. Keyboard indicator for Persian layouts
+#: rules/base.xml:1494 rules/base.xml:1535 rules/base.xml:3037
+#: rules/base.extras.xml:226
+msgid "fa"
+msgstr "fa"
+
+#: rules/base.xml:1495
+msgid "Afghani"
+msgstr "Afganų"
+
+#. Keyboard indicator for Pashto layouts
+#: rules/base.xml:1502 rules/base.xml:1524
+msgid "ps"
+msgstr "ps"
+
+#: rules/base.xml:1503
+msgid "Pashto"
+msgstr "Puštūnų"
+
+#. Keyboard indicator for Uzbek layouts
+#: rules/base.xml:1513 rules/base.xml:1543 rules/base.xml:5642
+msgid "uz"
+msgstr "uz"
+
+#: rules/base.xml:1514
+msgid "Uzbek (Afghanistan)"
+msgstr "Uzbekų (Afganistanas)"
+
+#: rules/base.xml:1525
+msgid "Pashto (Afghanistan, OLPC)"
+msgstr "Puštūnų (Afganistanas, OLPC)"
+
+#: rules/base.xml:1536
+msgid "Persian (Afghanistan, Dari OLPC)"
+msgstr "Persų (Afganistanas, Dari OLPC)"
+
+#: rules/base.xml:1544
+msgid "Uzbek (Afghanistan, OLPC)"
+msgstr "Uzbekų (Afganistanas, OLPC)"
+
+#. Keyboard indicator for Arabic layouts
+#. Keyboard indicator for Iraqi layouts
+#. Keyboard indicator for Arabic layouts
+#: rules/base.xml:1556 rules/base.xml:2400 rules/base.xml:2413
+#: rules/base.xml:3100 rules/base.xml:5223 rules/base.xml:5787
+#: rules/base.extras.xml:734
+msgid "ar"
+msgstr "ar"
+
+#: rules/base.xml:1557 rules/base.extras.xml:735
+msgid "Arabic"
+msgstr "Arabų"
+
+#: rules/base.xml:1587
+#, fuzzy
+msgid "Arabic (AZERTY)"
+msgstr "Arabų (Sirija)"
+
+#: rules/base.xml:1593
+#, fuzzy
+msgid "Arabic (AZERTY/digits)"
+msgstr "Arabų (skaitmenys)"
+
+#: rules/base.xml:1599
+msgid "Arabic (digits)"
+msgstr "Arabų (skaitmenys)"
+
+#: rules/base.xml:1605
+#, fuzzy
+msgid "Arabic (QWERTY)"
+msgstr "Arabų (Sirija)"
+
+#: rules/base.xml:1611
+msgid "Arabic (qwerty/digits)"
+msgstr "Arabų (QWERTY/skaitmenys)"
+
+#: rules/base.xml:1617
+msgid "Arabic (Buckwalter)"
+msgstr "Arabų (Bukvolterio)"
+
+#: rules/base.xml:1623
+#, fuzzy
+msgid "Arabic (OLPC)"
+msgstr "Arabų (Sirija)"
+
+#: rules/base.xml:1629
+#, fuzzy
+msgid "Arabic (Macintosh)"
+msgstr "Danų („Macintosh“)"
+
+#. Keyboard indicator for Albanian layouts
+#: rules/base.xml:1638
+msgid "sq"
+msgstr "sq"
+
+#: rules/base.xml:1639
+msgid "Albanian"
+msgstr "Albanų"
+
+#: rules/base.xml:1648
+#, fuzzy
+msgid "Albanian (Plisi)"
+msgstr "Albanų („Plisi D1“)"
+
+#: rules/base.xml:1654
+#, fuzzy
+msgid "Albanian (Veqilharxhi)"
+msgstr "Albanų („Plisi D1“)"
+
+#. Keyboard indicator for Armenian layouts
+#: rules/base.xml:1663 rules/base.extras.xml:695
+msgid "hy"
+msgstr "hy"
+
+#: rules/base.xml:1664 rules/base.extras.xml:696
+msgid "Armenian"
+msgstr "Armėnų"
+
+#: rules/base.xml:1673
+msgid "Armenian (phonetic)"
+msgstr "Armėnų (fonetinis)"
+
+#: rules/base.xml:1679
+#, fuzzy
+msgid "Armenian (alt. phonetic)"
+msgstr "Armėnų (fonetinis)"
+
+#: rules/base.xml:1685
+msgid "Armenian (eastern)"
+msgstr "Armėnų (Rytų)"
+
+#: rules/base.xml:1691
+msgid "Armenian (western)"
+msgstr "Armėnų (Vakarų)"
+
+#: rules/base.xml:1697
+#, fuzzy
+msgid "Armenian (alt. eastern)"
+msgstr "Armėnų (Rytų)"
+
+#. Keyboard indicator for German layouts
+#: rules/base.xml:1706 rules/base.xml:3510 rules/base.xml:5135
+#: rules/base.xml:5153 rules/base.xml:5161 rules/base.xml:5213
+#: rules/base.extras.xml:95 rules/base.extras.xml:1120
+msgid "de"
+msgstr "de"
+
+#: rules/base.xml:1707
+msgid "German (Austria)"
+msgstr "Vokiečių (Austrija)"
+
+#: rules/base.xml:1716
+#, fuzzy
+msgid "German (Austria, no dead keys)"
+msgstr "Vokiečių (Austrija, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:1722
+#, fuzzy
+msgid "German (Austria, with Sun dead keys)"
+msgstr "Vokiečių (Austrija, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:1728
+msgid "German (Austria, Macintosh)"
+msgstr "Vokiečių (Austrija, „Macintosh“)"
+
+#: rules/base.xml:1738
+#, fuzzy
+msgid "English (Australian)"
+msgstr "Anglų („Norman“)"
+
+#. Keyboard indicator for Azerbaijani layouts
+#: rules/base.xml:1748
+msgid "az"
+msgstr "az"
+
+#: rules/base.xml:1749
+msgid "Azerbaijani"
+msgstr "Azerbaidžaniečių"
+
+#: rules/base.xml:1758
+msgid "Azerbaijani (Cyrillic)"
+msgstr "Azerbaidžaniečių (kirilica)"
+
+#. Keyboard indicator for Belarusian layouts
+#: rules/base.xml:1767
+msgid "by"
+msgstr "by"
+
+#: rules/base.xml:1768
+msgid "Belarusian"
+msgstr "Baltarusių"
+
+#: rules/base.xml:1777
+msgid "Belarusian (legacy)"
+msgstr "Baltarusių (senasis)"
+
+#: rules/base.xml:1783
+msgid "Belarusian (Latin)"
+msgstr "Baltarusių (lotyniški rašmenys)"
+
+#. Keyboard indicator for Belgian layouts
+#: rules/base.xml:1792 rules/base.extras.xml:767
+msgid "be"
+msgstr "be"
+
+#: rules/base.xml:1793 rules/base.extras.xml:768
+msgid "Belgian"
+msgstr "Belgų"
+
+#: rules/base.xml:1804
+#, fuzzy
+msgid "Belgian (alt.)"
+msgstr "Belgų (alternatyvus)"
+
+#: rules/base.xml:1810
+#, fuzzy
+msgid "Belgian (alt., Latin-9 only)"
+msgstr "Belgų (alternatyvus, tik „Latin-9“ simboliai)"
+
+#: rules/base.xml:1816
+#, fuzzy
+msgid "Belgian (alt., with Sun dead keys)"
+msgstr "Belgų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:1822
+#, fuzzy
+msgid "Belgian (alt. ISO)"
+msgstr "Belgų (alternatyvus)"
+
+#: rules/base.xml:1828
+#, fuzzy
+msgid "Belgian (no dead keys)"
+msgstr "Belgų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:1834
+#, fuzzy
+msgid "Belgian (with Sun dead keys)"
+msgstr "Belgų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:1840
+#, fuzzy
+msgid "Belgian (Wang 724 AZERTY)"
+msgstr "Belgų („Wang 724“, AZERTY variantas)"
+
+#. Keyboard indicator for Bangla layouts
+#: rules/base.xml:1849 rules/base.xml:1878 rules/base.xml:1891
+msgid "bn"
+msgstr "bn"
+
+#: rules/base.xml:1850
+msgid "Bangla"
+msgstr "Bengalų"
+
+#: rules/base.xml:1861
+msgid "Bangla (Probhat)"
+msgstr "Bengalų (Probhat)"
+
+#. Keyboard indicator for Indian layouts
+#: rules/base.xml:1870
+msgid "in"
+msgstr "in"
+
+#: rules/base.xml:1871
+msgid "Indian"
+msgstr "Indų"
+
+#: rules/base.xml:1879
+msgid "Bangla (India)"
+msgstr "Bengalų (Indija)"
+
+#: rules/base.xml:1892
+msgid "Bangla (India, Probhat)"
+msgstr "Bengalų (Indija, Probhat)"
+
+#: rules/base.xml:1903
+msgid "Bangla (India, Baishakhi)"
+msgstr "Bengalų (Indija, Baishakhi)"
+
+#: rules/base.xml:1914
+msgid "Bangla (India, Bornona)"
+msgstr "Bengalų (Indija, Bornona)"
+
+#: rules/base.xml:1925
+msgid "Bangla (India, Uni Gitanjali)"
+msgstr "Bengalų (Indija, Uni Gitanjali)"
+
+#: rules/base.xml:1936
+msgid "Bangla (India, Baishakhi Inscript)"
+msgstr "Bengalų (Indija, Baishakhi Inscript)"
+
+#: rules/base.xml:1947
+msgid "Manipuri (Eeyek)"
+msgstr "Manipuriečių („Eeyek“)"
+
+#. Keyboard indicator for Gujarati layouts
+#: rules/base.xml:1957
+msgid "gu"
+msgstr "gu"
+
+#: rules/base.xml:1958
+msgid "Gujarati"
+msgstr "Gudžaratų"
+
+#. Keyboard indicator for Punjabi layouts
+#: rules/base.xml:1968 rules/base.xml:1979
+msgid "pa"
+msgstr "pa"
+
+#: rules/base.xml:1969
+msgid "Punjabi (Gurmukhi)"
+msgstr "Pendžabų (Gurmukhi)"
+
+#: rules/base.xml:1980
+msgid "Punjabi (Gurmukhi Jhelum)"
+msgstr "Pendžabų (Gurmukhi Jhelum)"
+
+#. Keyboard indicator for Kannada layouts
+#: rules/base.xml:1990 rules/base.xml:2001
+msgid "kn"
+msgstr "kn"
+
+#: rules/base.xml:1991
+msgid "Kannada"
+msgstr "Kanadų"
+
+#: rules/base.xml:2002
+msgid "Kannada (KaGaPa phonetic)"
+msgstr "Kanadų („KaGaPa“ fonetinis)"
+
+#. Keyboard indicator for Malayalam layouts
+#: rules/base.xml:2012 rules/base.xml:2023 rules/base.xml:2034
+msgid "ml"
+msgstr "ml"
+
+#: rules/base.xml:2013
+msgid "Malayalam"
+msgstr "Malajalių"
+
+#: rules/base.xml:2024
+msgid "Malayalam (Lalitha)"
+msgstr "Malajalių (Lalitha)"
+
+#: rules/base.xml:2035
+#, fuzzy
+msgid "Malayalam (enhanced Inscript, with rupee)"
+msgstr "Malajalių (papildytas „Inscript“ su Rupijos ženklu)"
+
+#. Keyboard indicator for Oriya layouts
+#: rules/base.xml:2045
+msgid "or"
+msgstr "or"
+
+#: rules/base.xml:2046
+msgid "Oriya"
+msgstr "Orijų"
+
+#. Keyboard indicator for Ol Chiki layouts
+#: rules/base.xml:2058
+#, fuzzy
+msgid "sat"
+msgstr "sa"
+
+#: rules/base.xml:2059
+msgid "Ol Chiki"
+msgstr ""
+
+#. Keyboard indicator for Tamil layouts
+#: rules/base.xml:2070 rules/base.xml:2081 rules/base.xml:2092
+#: rules/base.xml:2103 rules/base.xml:2114 rules/base.xml:5315
+msgid "ta"
+msgstr "ta"
+
+#: rules/base.xml:2071
+msgid "Tamil (TamilNet '99)"
+msgstr ""
+
+#: rules/base.xml:2082
+#, fuzzy
+msgid "Tamil (TamilNet '99 with Tamil numerals)"
+msgstr "Tamilų (klaviatūra su tamilų skaitmenimis)"
+
+#: rules/base.xml:2093
+msgid "Tamil (TamilNet '99, TAB encoding)"
+msgstr ""
+
+#: rules/base.xml:2104
+msgid "Tamil (TamilNet '99, TSCII encoding)"
+msgstr ""
+
+#: rules/base.xml:2115
+#, fuzzy
+msgid "Tamil (Inscript)"
+msgstr "Tamilų (unikodas)"
+
+#. Keyboard indicator for Telugu layouts
+#: rules/base.xml:2125 rules/base.xml:2136 rules/base.xml:2147
+#: rules/base.xml:2158
+msgid "te"
+msgstr "te"
+
+#: rules/base.xml:2126
+msgid "Telugu"
+msgstr "Telugų"
+
+#: rules/base.xml:2137 rules/base.xml:2159
+msgid "Telugu (KaGaPa phonetic)"
+msgstr "Telugų („KaGaPa“ fonetinis)"
+
+#: rules/base.xml:2148
+#, fuzzy
+msgid "Telugu (Sarala)"
+msgstr "Telugų („KaGaPa“ fonetinis)"
+
+#. Keyboard indicator for Urdu layouts
+#: rules/base.xml:2169 rules/base.xml:2180 rules/base.xml:2191
+#: rules/base.xml:5765
+msgid "ur"
+msgstr "ur"
+
+#: rules/base.xml:2170
+msgid "Urdu (phonetic)"
+msgstr "Urdu (fonetinis)"
+
+#: rules/base.xml:2181
+#, fuzzy
+msgid "Urdu (alt. phonetic)"
+msgstr "Urdu (fonetinis)"
+
+#: rules/base.xml:2192
+#, fuzzy
+msgid "Urdu (Win keys)"
+msgstr "Urdu („Windows“)"
+
+#. Keyboard indicator for Hindi layouts
+#: rules/base.xml:2202 rules/base.xml:2213 rules/base.xml:2224
+msgid "hi"
+msgstr "hi"
+
+#: rules/base.xml:2203
+msgid "Hindi (Bolnagri)"
+msgstr "Hindi (Bolnagri)"
+
+#: rules/base.xml:2214
+msgid "Hindi (Wx)"
+msgstr "Hindi (Wx)"
+
+#: rules/base.xml:2225
+msgid "Hindi (KaGaPa phonetic)"
+msgstr "Hindi („KaGaPa“ fonetinis)"
+
+#. Keyboard indicator for Sanskrit layouts
+#: rules/base.xml:2235
+msgid "sa"
+msgstr "sa"
+
+#: rules/base.xml:2236
+msgid "Sanskrit (KaGaPa phonetic)"
+msgstr "Sanskritas („KaGaPa“ fonetinis)"
+
+#. Keyboard indicator for Marathi layouts
+#: rules/base.xml:2246
+msgid "mr"
+msgstr "mr"
+
+#: rules/base.xml:2247
+msgid "Marathi (KaGaPa phonetic)"
+msgstr "Marathų („KaGaPa“ fonetinis)"
+
+#: rules/base.xml:2258
+#, fuzzy
+msgid "English (India, with rupee)"
+msgstr "Anglų (Indija, su Rupijos ženklu)"
+
+#. Keyboard indicator for Bosnian layouts
+#: rules/base.xml:2270
+msgid "bs"
+msgstr "bs"
+
+#: rules/base.xml:2271
+msgid "Bosnian"
+msgstr "Bosnių"
+
+#: rules/base.xml:2280
+#, fuzzy
+msgid "Bosnian (with guillemets)"
+msgstr "Serbų (su kampinėmis kabutėmis)"
+
+#: rules/base.xml:2286
+msgid "Bosnian (with Bosnian digraphs)"
+msgstr "Bosnių (su bosniškais dviraidžiais)"
+
+#: rules/base.xml:2292
+#, fuzzy
+msgid "Bosnian (US, with Bosnian digraphs)"
+msgstr "Bosnių (su bosniškais dviraidžiais)"
+
+#: rules/base.xml:2298
+#, fuzzy
+msgid "Bosnian (US, with Bosnian letters)"
+msgstr "Bosnių (JAV klaviatūra su bosniškais rašmenimis)"
+
+#. Keyboard indicator for Portuguese layouts
+#: rules/base.xml:2307 rules/base.xml:4568 rules/base.extras.xml:782
+#: rules/base.extras.xml:1024 rules/base.extras.xml:1039
+msgid "pt"
+msgstr "pt"
+
+#: rules/base.xml:2308 rules/base.extras.xml:783
+msgid "Portuguese (Brazil)"
+msgstr "Portugalų (Brazilija)"
+
+#: rules/base.xml:2317
+#, fuzzy
+msgid "Portuguese (Brazil, no dead keys)"
+msgstr "Portugalų (Brazilija, be tęsties klavišų)"
+
+#: rules/base.xml:2323
+msgid "Portuguese (Brazil, Dvorak)"
+msgstr "Portugalų (Brazilija, Dvorako)"
+
+#: rules/base.xml:2329
+msgid "Portuguese (Brazil, Nativo)"
+msgstr "Portugalų (Brazilija, „Nativo“)"
+
+#: rules/base.xml:2335
+msgid "Portuguese (Brazil, Nativo for US keyboards)"
+msgstr "Portugalų (Brazilija, „Nativo“ JAV klaviatūroms)"
+
+#: rules/base.xml:2341
+msgid "Esperanto (Brazil, Nativo)"
+msgstr "Esperanto (Brazilija, „Nativo“)"
+
+#: rules/base.xml:2350
+#, fuzzy
+msgid "Portuguese (Brazil, IBM/Lenovo ThinkPad)"
+msgstr "Portugalų (Brazilija, Dvorako)"
+
+#. Keyboard indicator for Bulgarian layouts
+#: rules/base.xml:2359
+msgid "bg"
+msgstr "bg"
+
+#: rules/base.xml:2360
+msgid "Bulgarian"
+msgstr "Bulgarų"
+
+#: rules/base.xml:2369
+msgid "Bulgarian (traditional phonetic)"
+msgstr "Bulgarų (tradicinis fonetinis)"
+
+#: rules/base.xml:2375
+msgid "Bulgarian (new phonetic)"
+msgstr "Bulgarų (naujasis fonetinis)"
+
+#: rules/base.xml:2383
+#, fuzzy
+msgid "la"
+msgstr "Fula"
+
+#: rules/base.xml:2384
+#, fuzzy
+msgid "Berber (Algeria, Latin)"
+msgstr "Baltarusių (lotyniški rašmenys)"
+
+#. Keyboard indicator for Berber layouts
+#: rules/base.xml:2390 rules/base.xml:2432 rules/base.xml:2443
+#: rules/base.xml:2454 rules/base.xml:2465 rules/base.xml:2476
+#: rules/base.xml:2487
+msgid "ber"
+msgstr "ber"
+
+#: rules/base.xml:2391
+#, fuzzy
+msgid "Berber (Algeria, Tifinagh)"
+msgstr "Berberų (Marokas, tifinagas)"
+
+#: rules/base.xml:2401
+#, fuzzy
+msgid "Arabic (Algeria)"
+msgstr "Arabų (Sirija)"
+
+#: rules/base.xml:2414
+msgid "Arabic (Morocco)"
+msgstr "Arabų (Marokas)"
+
+#. Keyboard indicator for French layouts
+#: rules/base.xml:2421 rules/base.xml:2628 rules/base.xml:2639
+#: rules/base.xml:2647 rules/base.xml:2697 rules/base.xml:3223
+#: rules/base.xml:3453 rules/base.xml:5169 rules/base.xml:5180
+#: rules/base.xml:5191 rules/base.xml:5202 rules/base.xml:6000
+#: rules/base.extras.xml:63 rules/base.extras.xml:908
+msgid "fr"
+msgstr "fr"
+
+#: rules/base.xml:2422
+msgid "French (Morocco)"
+msgstr "Prancūzų (Marokas)"
+
+#: rules/base.xml:2433
+msgid "Berber (Morocco, Tifinagh)"
+msgstr "Berberų (Marokas, tifinagas)"
+
+#: rules/base.xml:2444
+#, fuzzy
+msgid "Berber (Morocco, Tifinagh alt.)"
+msgstr "Berberų (Marokas, tifinagas)"
+
+#: rules/base.xml:2455
+#, fuzzy
+msgid "Berber (Morocco, Tifinagh alt. phonetic)"
+msgstr "Berberų (Marokas, tifinago fonetinis)"
+
+#: rules/base.xml:2466
+msgid "Berber (Morocco, Tifinagh extended)"
+msgstr "Berberų (Marokas, tifinago išplėstasis)"
+
+#: rules/base.xml:2477
+msgid "Berber (Morocco, Tifinagh phonetic)"
+msgstr "Berberų (Marokas, tifinago fonetinis)"
+
+#: rules/base.xml:2488
+msgid "Berber (Morocco, Tifinagh extended phonetic)"
+msgstr "Berberų (Marokas, tifinago išplėstasis fonetinis)"
+
+#. Keyboard indicator for Cameroon layouts
+#: rules/base.xml:2500 rules/base.extras.xml:1253
+msgid "cm"
+msgstr "cm"
+
+#: rules/base.xml:2501 rules/base.extras.xml:1254
+msgid "English (Cameroon)"
+msgstr "Anglų (Kamerūnas)"
+
+#: rules/base.xml:2510
+msgid "French (Cameroon)"
+msgstr "Prancūzų (Kamerūnas)"
+
+#: rules/base.xml:2519
+#, fuzzy
+msgid "Cameroon Multilingual (QWERTY)"
+msgstr "Kamerūno daugiakalbis (QWERTY)"
+
+#: rules/base.xml:2556
+#, fuzzy
+msgid "Cameroon Multilingual (AZERTY)"
+msgstr "Kamerūno daugiakalbis (QWERTY)"
+
+#: rules/base.xml:2593
+msgid "Cameroon Multilingual (Dvorak)"
+msgstr "Kamerūno daugiakalbis (Dvorako)"
+
+#: rules/base.xml:2599 rules/base.extras.xml:1260
+msgid "Mmuock"
+msgstr "Mmuock"
+
+#. Keyboard indicator for Burmese layouts
+#: rules/base.xml:2608
+msgid "my"
+msgstr "my"
+
+#: rules/base.xml:2609
+msgid "Burmese"
+msgstr "Birmiečių"
+
+#: rules/base.xml:2618
+msgid "zg"
+msgstr ""
+
+#: rules/base.xml:2619
+#, fuzzy
+msgid "Burmese Zawgyi"
+msgstr "Birmiečių"
+
+#: rules/base.xml:2629 rules/base.extras.xml:64
+msgid "French (Canada)"
+msgstr "Prancūzų (Kanada)"
+
+#: rules/base.xml:2640
+msgid "French (Canada, Dvorak)"
+msgstr "Prancūzų (Kanada, Dvorako)"
+
+#: rules/base.xml:2648
+msgid "French (Canada, legacy)"
+msgstr "Prancūzų (Kanada, senasis)"
+
+#: rules/base.xml:2654
+msgid "Canadian Multilingual"
+msgstr "Kanadiečių daugiakalbis"
+
+#: rules/base.xml:2660
+#, fuzzy
+msgid "Canadian Multilingual (1st part)"
+msgstr "Kanadiečių daugiakalbis (pirmoji dalis)"
+
+#: rules/base.xml:2666
+#, fuzzy
+msgid "Canadian Multilingual (2nd part)"
+msgstr "Kanadiečių daugiakalbis (antroji dalis)"
+
+#. Keyboard indicator for Inuktikut layouts
+#: rules/base.xml:2673
+msgid "ike"
+msgstr "ike"
+
+#: rules/base.xml:2674
+msgid "Inuktitut"
+msgstr "Inuktitutas"
+
+#: rules/base.xml:2685
+msgid "English (Canada)"
+msgstr "Anglų (Kanada)"
+
+#: rules/base.xml:2698
+msgid "French (Democratic Republic of the Congo)"
+msgstr "Prancūzų (Kongo Demokratinė Respublika)"
+
+#. Keyboard indicator for Chinese layouts
+#. Keyboard indicator for Taiwanese layouts
+#: rules/base.xml:2709 rules/base.xml:5473
+msgid "zh"
+msgstr "zh"
+
+#: rules/base.xml:2710
+msgid "Chinese"
+msgstr "Kinų"
+
+#: rules/base.xml:2720
+#, fuzzy
+msgid "Mongolian (Bichig)"
+msgstr "Mongolų"
+
+#: rules/base.xml:2729
+#, fuzzy
+msgid "Mongolian Todo"
+msgstr "Mongolų"
+
+#: rules/base.xml:2738
+#, fuzzy
+msgid "Mongolian Xibe"
+msgstr "Mongolų"
+
+#: rules/base.xml:2747
+#, fuzzy
+msgid "Mongolian Manchu"
+msgstr "Mongolų"
+
+#: rules/base.xml:2756
+#, fuzzy
+msgid "Mongolian Galik"
+msgstr "Mongolų"
+
+#: rules/base.xml:2765
+#, fuzzy
+msgid "Mongolian Todo Galik"
+msgstr "Mongolų"
+
+#: rules/base.xml:2774
+msgid "Mongolian Manchu Galik"
+msgstr ""
+
+#: rules/base.xml:2784
+msgid "Tibetan"
+msgstr "Tibetiečių"
+
+#: rules/base.xml:2793
+msgid "Tibetan (with ASCII numerals)"
+msgstr "Tibetiečių (su ASCII skaitmenimis)"
+
+#: rules/base.xml:2802
+msgid "ug"
+msgstr "ug"
+
+#: rules/base.xml:2803
+msgid "Uyghur"
+msgstr "Uigūrų"
+
+#: rules/base.xml:2812
+msgid "Hanyu Pinyin (altgr)"
+msgstr ""
+
+#. Keyboard indicator for Croatian layouts
+#: rules/base.xml:2824
+msgid "hr"
+msgstr "hr"
+
+#: rules/base.xml:2825
+msgid "Croatian"
+msgstr "Kroatų"
+
+#: rules/base.xml:2834
+#, fuzzy
+msgid "Croatian (with guillemets)"
+msgstr "Serbų (su kampinėmis kabutėmis)"
+
+#: rules/base.xml:2840
+msgid "Croatian (with Croatian digraphs)"
+msgstr "Kroatų (su kroatiškais dviraidžiais)"
+
+#: rules/base.xml:2846
+#, fuzzy
+msgid "Croatian (US, with Croatian digraphs)"
+msgstr "Kroatų (su kroatiškais dviraidžiais)"
+
+#: rules/base.xml:2852
+#, fuzzy
+msgid "Croatian (US, with Croatian letters)"
+msgstr "Kroatų (JAV klaviatūra su kroatiškais rašmenimis)"
+
+#. Keyboard indicator for Chech layouts
+#: rules/base.xml:2861 rules/base.extras.xml:797
+msgid "cs"
+msgstr "cs"
+
+#: rules/base.xml:2862 rules/base.extras.xml:798
+msgid "Czech"
+msgstr "Čekų"
+
+#: rules/base.xml:2871
+msgid "Czech (with &lt;\\|&gt; key)"
+msgstr "Čekų (Su &lt;\\|&gt; klavišu)"
+
+#: rules/base.xml:2877
+msgid "Czech (QWERTY)"
+msgstr ""
+
+#: rules/base.xml:2883
+#, fuzzy
+msgid "Czech (QWERTY, extended backslash)"
+msgstr "Čekų (QWERTY, išplėstas kairinis brūkšnys)"
+
+#: rules/base.xml:2889
+#, fuzzy
+msgid "Czech (QWERTY, Macintosh)"
+msgstr "Prancūzų („Macintosh“)"
+
+#: rules/base.xml:2895
+#, fuzzy
+msgid "Czech (UCW, only accented letters)"
+msgstr "Čekų (UCW išdėstymas, tik raidės su diakritikais)"
+
+#: rules/base.xml:2901
+#, fuzzy
+msgid "Czech (US, Dvorak, UCW support)"
+msgstr "Čekų (JAV Dvorako išdėstymas su CZ UCW palaikymu)"
+
+#: rules/base.xml:2909
+#, fuzzy
+msgid "Russian (Czech, phonetic)"
+msgstr "Rusų (JAV, fonetinis)"
+
+#. Keyboard indicator for Danish layouts
+#: rules/base.xml:2921 rules/base.extras.xml:836
+msgid "da"
+msgstr "da"
+
+#: rules/base.xml:2922 rules/base.extras.xml:837
+msgid "Danish"
+msgstr "Danų"
+
+#: rules/base.xml:2931
+#, fuzzy
+msgid "Danish (no dead keys)"
+msgstr "Ispanų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:2937
+#, fuzzy
+msgid "Danish (Win keys)"
+msgstr "Danų („Windows“)"
+
+#: rules/base.xml:2943
+msgid "Danish (Macintosh)"
+msgstr "Danų („Macintosh“)"
+
+#: rules/base.xml:2949
+#, fuzzy
+msgid "Danish (Macintosh, no dead keys)"
+msgstr "Danų („Macintosh“, be tęsties klavišų)"
+
+#: rules/base.xml:2955
+msgid "Danish (Dvorak)"
+msgstr "Danų (Dvorako)"
+
+#. Keyboard indicator for Dutch layouts
+#: rules/base.xml:2964 rules/base.extras.xml:851
+msgid "nl"
+msgstr "nl"
+
+#: rules/base.xml:2965 rules/base.extras.xml:852
+msgid "Dutch"
+msgstr "Olandų"
+
+#: rules/base.xml:2974
+#, fuzzy
+msgid "Dutch (with Sun dead keys)"
+msgstr "Olandų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:2980
+msgid "Dutch (Macintosh)"
+msgstr "Olandų („Macintosh“)"
+
+#: rules/base.xml:2986
+msgid "Dutch (standard)"
+msgstr "Olandų (standartinis)"
+
+#. Keyboard indicator for Dzongkha layouts
+#: rules/base.xml:2995
+msgid "dz"
+msgstr "dz"
+
+#: rules/base.xml:2996
+msgid "Dzongkha"
+msgstr "Botijų"
+
+#. Keyboard indicator for Estonian layouts
+#: rules/base.xml:3006 rules/base.extras.xml:866
+msgid "et"
+msgstr "et"
+
+#: rules/base.xml:3007 rules/base.extras.xml:867
+msgid "Estonian"
+msgstr "Estų"
+
+#: rules/base.xml:3016
+#, fuzzy
+msgid "Estonian (no dead keys)"
+msgstr "Estų (be tęsties ženklų)"
+
+#: rules/base.xml:3022
+msgid "Estonian (Dvorak)"
+msgstr "Estų (Dvorako)"
+
+#: rules/base.xml:3028
+#, fuzzy
+msgid "Estonian (US, with Estonian letters)"
+msgstr "Estų (JAV klaviatūra su estiškais rašmenimis)"
+
+#: rules/base.xml:3038 rules/base.extras.xml:227
+msgid "Persian"
+msgstr "Persų"
+
+#: rules/base.xml:3047
+msgid "Persian (with Persian keypad)"
+msgstr "Persų (su persiška skaitmenų sritimi)"
+
+#. Keyboard indicator for Kurdish layouts
+#: rules/base.xml:3054 rules/base.xml:3065 rules/base.xml:3076
+#: rules/base.xml:3087 rules/base.xml:3112 rules/base.xml:3123
+#: rules/base.xml:3134 rules/base.xml:3145 rules/base.xml:5250
+#: rules/base.xml:5261 rules/base.xml:5272 rules/base.xml:5399
+#: rules/base.xml:5410 rules/base.xml:5421
+msgid "ku"
+msgstr "ku"
+
+#: rules/base.xml:3055
+msgid "Kurdish (Iran, Latin Q)"
+msgstr "Kurdų (Iranas, lotyniški rašmenys, Q)"
+
+#: rules/base.xml:3066
+msgid "Kurdish (Iran, F)"
+msgstr "Kurdų (Iranas, F)"
+
+#: rules/base.xml:3077
+msgid "Kurdish (Iran, Latin Alt-Q)"
+msgstr "Kurdų (Iranas, lotyniški rašmenys, Alt-Q)"
+
+#: rules/base.xml:3088
+msgid "Kurdish (Iran, Arabic-Latin)"
+msgstr "Kurdų (Iranas, arabiški ir lotyniški rašmenys)"
+
+#: rules/base.xml:3101
+msgid "Iraqi"
+msgstr "Irakiečių"
+
+#: rules/base.xml:3113
+msgid "Kurdish (Iraq, Latin Q)"
+msgstr "Kurdų (Irakas, lotyniški rašmenys, Q)"
+
+#: rules/base.xml:3124
+msgid "Kurdish (Iraq, F)"
+msgstr "Kurdų (Irakas, F)"
+
+#: rules/base.xml:3135
+msgid "Kurdish (Iraq, Latin Alt-Q)"
+msgstr "Kurdų (Irakas, lotyniški rašmenys, Alt-Q)"
+
+#: rules/base.xml:3146
+msgid "Kurdish (Iraq, Arabic-Latin)"
+msgstr "Kurdų (Irakas, arabiški ir lotyniški rašmenys)"
+
+#. Keyboard indicator for Faroese layouts
+#: rules/base.xml:3158
+msgid "fo"
+msgstr "fo"
+
+#: rules/base.xml:3159
+msgid "Faroese"
+msgstr "Fareriečių"
+
+#: rules/base.xml:3168
+#, fuzzy
+msgid "Faroese (no dead keys)"
+msgstr "Fareriečių (be tęsties klavišų)"
+
+#. Keyboard indicator for Finnish layouts
+#: rules/base.xml:3177 rules/base.extras.xml:881
+msgid "fi"
+msgstr "fi"
+
+#: rules/base.xml:3178 rules/base.extras.xml:882
+msgid "Finnish"
+msgstr "Suomių"
+
+#: rules/base.xml:3187
+msgid "Finnish (Winkeys)"
+msgstr "Suomių („Windows“)"
+
+#: rules/base.xml:3193
+msgid "Finnish (classic)"
+msgstr "Suomių (klasikinis)"
+
+#: rules/base.xml:3199
+#, fuzzy
+msgid "Finnish (classic, no dead keys)"
+msgstr "Suomių (klasikinis, be tęsties klavišų)"
+
+#: rules/base.xml:3205
+msgid "Northern Saami (Finland)"
+msgstr "Šiaurės samių (Suomija)"
+
+#: rules/base.xml:3214
+msgid "Finnish (Macintosh)"
+msgstr "Suomių („Macintosh“)"
+
+#: rules/base.xml:3224 rules/base.extras.xml:909
+msgid "French"
+msgstr "Prancūzų"
+
+#: rules/base.xml:3233
+#, fuzzy
+msgid "French (no dead keys)"
+msgstr "Prancūzų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3239
+#, fuzzy
+msgid "French (with Sun dead keys)"
+msgstr "Prancūzų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3245
+#, fuzzy
+msgid "French (alt.)"
+msgstr "Prancūzų (alternatyvus)"
+
+#: rules/base.xml:3251
+#, fuzzy
+msgid "French (alt., Latin-9 only)"
+msgstr "Prancūzų (alternatyvus, tik „Latin-9“ simboliai)"
+
+#: rules/base.xml:3257
+#, fuzzy
+msgid "French (alt., no dead keys)"
+msgstr "Prancūzų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3263
+#, fuzzy
+msgid "French (alt., with Sun dead keys)"
+msgstr "Prancūzų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3269
+#, fuzzy
+msgid "French (legacy, alt.)"
+msgstr "Prancūzų (senasis, alternatyvus)"
+
+#: rules/base.xml:3275
+#, fuzzy
+msgid "French (legacy, alt., no dead keys)"
+msgstr "Prancūzų (senasis, alternatyvus, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3281
+#, fuzzy
+msgid "French (legacy, alt., with Sun dead keys)"
+msgstr "Prancūzų (senasis, alternatyvus, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3287
+msgid "French (Bepo, ergonomic, Dvorak way)"
+msgstr "Prancūzų (Bepo, ergonominis pagal Dvoraką)"
+
+#: rules/base.xml:3293
+msgid "French (Bepo, ergonomic, Dvorak way, Latin-9 only)"
+msgstr "Prancūzų (Bepo, ergonominis pagal Dvoraką, tik „Latin-9“ simboliai)"
+
+#: rules/base.xml:3299
+#, fuzzy
+msgid "French (Bepo, ergonomic, Dvorak way, AFNOR)"
+msgstr "Prancūzų (Bepo, ergonominis pagal Dvoraką)"
+
+#: rules/base.xml:3305
+msgid "French (Dvorak)"
+msgstr "Prancūzų (Dvorako)"
+
+#: rules/base.xml:3311
+msgid "French (Macintosh)"
+msgstr "Prancūzų („Macintosh“)"
+
+#: rules/base.xml:3317
+#, fuzzy
+msgid "French (AZERTY)"
+msgstr "Prancūzų (Kanada)"
+
+#: rules/base.xml:3323
+msgid "French (AFNOR standardized AZERTY)"
+msgstr ""
+
+#: rules/base.xml:3329
+msgid "French (Breton)"
+msgstr "Prancūzų (bretonų)"
+
+#: rules/base.xml:3335
+msgid "Occitan"
+msgstr "Očitarų"
+
+#: rules/base.xml:3344
+msgid "Georgian (France, AZERTY Tskapo)"
+msgstr "Gruzinų (Prancūzija, AZERTY Tskapo)"
+
+#: rules/base.xml:3353
+#, fuzzy
+msgid "French (US, with French letters)"
+msgstr "Vokiečių (JAV klaviatūra su vokiškomis raidėmis)"
+
+#: rules/base.xml:3363
+msgid "English (Ghana)"
+msgstr "Anglų (Gana)"
+
+#: rules/base.xml:3372
+msgid "English (Ghana, multilingual)"
+msgstr "Anglų (Gana, daugiakalbis)"
+
+#. Keyboard indicator for Akan layouts
+#: rules/base.xml:3379
+msgid "ak"
+msgstr "ak"
+
+#: rules/base.xml:3380
+msgid "Akan"
+msgstr "Akan"
+
+#. Keyboard indicator for Ewe layouts
+#: rules/base.xml:3390
+msgid "ee"
+msgstr "ee"
+
+#: rules/base.xml:3391
+msgid "Ewe"
+msgstr "Ewe"
+
+#. Keyboard indicator for Fula layouts
+#: rules/base.xml:3401
+msgid "ff"
+msgstr "ff"
+
+#: rules/base.xml:3402
+msgid "Fula"
+msgstr "Fula"
+
+#. Keyboard indicator for Ga layouts
+#: rules/base.xml:3412
+msgid "gaa"
+msgstr "gaa"
+
+#: rules/base.xml:3413
+msgid "Ga"
+msgstr "Ga"
+
+#. Keyboard indicator for Hausa layouts
+#: rules/base.xml:3423 rules/base.xml:5899
+msgid "ha"
+msgstr "ha"
+
+#: rules/base.xml:3424
+#, fuzzy
+msgid "Hausa (Ghana)"
+msgstr "Anglų (Gana)"
+
+#. Keyboard indicator for Avatime layouts
+#: rules/base.xml:3434
+msgid "avn"
+msgstr "avn"
+
+#: rules/base.xml:3435
+msgid "Avatime"
+msgstr "Avatime"
+
+#: rules/base.xml:3444
+msgid "English (Ghana, GILLBT)"
+msgstr "Anglų (Gana, GILLBT)"
+
+#: rules/base.xml:3454
+msgid "French (Guinea)"
+msgstr "Prancūzų (Gvinėja)"
+
+#. Keyboard indicator for Georgian layouts
+#: rules/base.xml:3465
+msgid "ka"
+msgstr "ka"
+
+#: rules/base.xml:3466
+msgid "Georgian"
+msgstr "Gruzinų"
+
+#: rules/base.xml:3475
+msgid "Georgian (ergonomic)"
+msgstr "Gruzinų (ergonominis)"
+
+#: rules/base.xml:3481
+msgid "Georgian (MESS)"
+msgstr "Gruzinų (MESS)"
+
+#: rules/base.xml:3489
+msgid "Russian (Georgia)"
+msgstr "Rusų (Gruzija)"
+
+#: rules/base.xml:3498
+msgid "Ossetian (Georgia)"
+msgstr "Osetinų (Gruzija)"
+
+#: rules/base.xml:3511 rules/base.extras.xml:96
+msgid "German"
+msgstr "Vokiečių"
+
+#: rules/base.xml:3520
+msgid "German (dead acute)"
+msgstr "Vokiečių (tęsties klavišas – dešininis kirtis)"
+
+#: rules/base.xml:3526
+msgid "German (dead grave acute)"
+msgstr "Vokiečių (tęsties klavišai – kairinis ir dešininis kirčiai)"
+
+#: rules/base.xml:3532
+#, fuzzy
+msgid "German (no dead keys)"
+msgstr "Vokiečių (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3538
+msgid "German (T3)"
+msgstr "Vokiečių (T3)"
+
+#: rules/base.xml:3544
+msgid "Romanian (Germany)"
+msgstr "Rumunų (Vokietija)"
+
+#: rules/base.xml:3553
+#, fuzzy
+msgid "Romanian (Germany, no dead keys)"
+msgstr "Rumunų (Vokietija, be tęsties klavišų)"
+
+#: rules/base.xml:3562
+msgid "German (Dvorak)"
+msgstr "Vokiečių (Dvorako)"
+
+#: rules/base.xml:3568
+#, fuzzy
+msgid "German (with Sun dead keys)"
+msgstr "Vokiečių (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3574
+msgid "German (Neo 2)"
+msgstr "Vokiečių („Neo 2“)"
+
+#: rules/base.xml:3580
+msgid "German (Macintosh)"
+msgstr "Vokiečių („Macintosh“)"
+
+#: rules/base.xml:3586
+#, fuzzy
+msgid "German (Macintosh, no dead keys)"
+msgstr "Vokiečių („Macintosh“, be tęsties klavišų)"
+
+#: rules/base.xml:3592
+msgid "Lower Sorbian"
+msgstr "Žemutinių sorbų"
+
+#: rules/base.xml:3601
+#, fuzzy
+msgid "Lower Sorbian (QWERTZ)"
+msgstr "Žemutinių sorbų"
+
+#: rules/base.xml:3610
+#, fuzzy
+msgid "German (QWERTY)"
+msgstr "Vokiečių (T3)"
+
+#: rules/base.xml:3616
+msgid "Turkish (Germany)"
+msgstr "Turkų (Vokietija)"
+
+#: rules/base.xml:3627
+msgid "Russian (Germany, phonetic)"
+msgstr "Rusų (Vokietija, fonetinis)"
+
+#: rules/base.xml:3636
+#, fuzzy
+msgid "German (dead tilde)"
+msgstr "Vokiečių (tęsties klavišas – dešininis kirtis)"
+
+#. Keyboard indicator for Greek layouts
+#: rules/base.xml:3645 rules/base.extras.xml:935
+msgid "gr"
+msgstr "gr"
+
+#: rules/base.xml:3646 rules/base.extras.xml:936
+msgid "Greek"
+msgstr "Graikų"
+
+#: rules/base.xml:3655
+msgid "Greek (simple)"
+msgstr "Graikų (paprastas)"
+
+#: rules/base.xml:3661
+msgid "Greek (extended)"
+msgstr "Graikų (išplėstasis)"
+
+#: rules/base.xml:3667
+#, fuzzy
+msgid "Greek (no dead keys)"
+msgstr "Graikų (be tęsties klavišų)"
+
+#: rules/base.xml:3673
+msgid "Greek (polytonic)"
+msgstr "Graikų (politoninis)"
+
+#. Keyboard indicator for Hungarian layouts
+#: rules/base.xml:3682
+msgid "hu"
+msgstr "hu"
+
+#: rules/base.xml:3683 rules/base.extras.xml:211
+msgid "Hungarian"
+msgstr "Vengrų"
+
+#: rules/base.xml:3692
+msgid "Hungarian (standard)"
+msgstr "Vengrų (standartinis)"
+
+#: rules/base.xml:3698
+#, fuzzy
+msgid "Hungarian (no dead keys)"
+msgstr "Vengrų (be tęsties klavišų)"
+
+#: rules/base.xml:3704
+#, fuzzy
+msgid "Hungarian (QWERTY)"
+msgstr "Vengrų (QWERTY)"
+
+#: rules/base.xml:3710
+#, fuzzy
+msgid "Hungarian (101/QWERTZ/comma/dead keys)"
+msgstr ""
+"Vengrų (101 klavišo, QWERTZ, dešimtainis kablelis, su tęsties klavišais)"
+
+#: rules/base.xml:3716
+#, fuzzy
+msgid "Hungarian (101/QWERTZ/comma/no dead keys)"
+msgstr ""
+"Vengrų (101 klavišo, QWERTZ, dešimtainis kablelis, su tęsties klavišais)"
+
+#: rules/base.xml:3722
+#, fuzzy
+msgid "Hungarian (101/QWERTZ/dot/dead keys)"
+msgstr "Vengrų (101 klavišo, QWERTZ, dešimtainis taškas, su tęsties klavišais)"
+
+#: rules/base.xml:3728
+#, fuzzy
+msgid "Hungarian (101/QWERTZ/dot/no dead keys)"
+msgstr "Vengrų (101 klavišo, QWERTZ, dešimtainis taškas, su tęsties klavišais)"
+
+#: rules/base.xml:3734
+#, fuzzy
+msgid "Hungarian (101/QWERTY/comma/dead keys)"
+msgstr ""
+"Vengrų (101 klavišo, QWERTZ, dešimtainis kablelis, su tęsties klavišais)"
+
+#: rules/base.xml:3740
+#, fuzzy
+msgid "Hungarian (101/QWERTY/comma/no dead keys)"
+msgstr ""
+"Vengrų (101 klavišo, QWERTZ, dešimtainis kablelis, su tęsties klavišais)"
+
+#: rules/base.xml:3746
+#, fuzzy
+msgid "Hungarian (101/QWERTY/dot/dead keys)"
+msgstr "Vengrų (101 klavišo, QWERTZ, dešimtainis taškas, su tęsties klavišais)"
+
+#: rules/base.xml:3752
+#, fuzzy
+msgid "Hungarian (101/QWERTY/dot/no dead keys)"
+msgstr "Vengrų (101 klavišo, QWERTZ, dešimtainis taškas, su tęsties klavišais)"
+
+#: rules/base.xml:3758
+#, fuzzy
+msgid "Hungarian (102/QWERTZ/comma/dead keys)"
+msgstr ""
+"Vengrų (102 klavišų, QWERTZ, dešimtainis kablelis, su tęsties klavišais)"
+
+#: rules/base.xml:3764
+#, fuzzy
+msgid "Hungarian (102/QWERTZ/comma/no dead keys)"
+msgstr ""
+"Vengrų (102 klavišų, QWERTZ, dešimtainis kablelis, su tęsties klavišais)"
+
+#: rules/base.xml:3770
+#, fuzzy
+msgid "Hungarian (102/QWERTZ/dot/dead keys)"
+msgstr "Vengrų (102 klavišų, QWERTZ, dešimtainis taškas, su tęsties klavišais)"
+
+#: rules/base.xml:3776
+#, fuzzy
+msgid "Hungarian (102/QWERTZ/dot/no dead keys)"
+msgstr "Vengrų (102 klavišų, QWERTZ, dešimtainis taškas, su tęsties klavišais)"
+
+#: rules/base.xml:3782
+#, fuzzy
+msgid "Hungarian (102/QWERTY/comma/dead keys)"
+msgstr ""
+"Vengrų (102 klavišų, QWERTZ, dešimtainis kablelis, su tęsties klavišais)"
+
+#: rules/base.xml:3788
+#, fuzzy
+msgid "Hungarian (102/QWERTY/comma/no dead keys)"
+msgstr ""
+"Vengrų (102 klavišų, QWERTZ, dešimtainis kablelis, su tęsties klavišais)"
+
+#: rules/base.xml:3794
+#, fuzzy
+msgid "Hungarian (102/QWERTY/dot/dead keys)"
+msgstr "Vengrų (102 klavišų, QWERTZ, dešimtainis taškas, su tęsties klavišais)"
+
+#: rules/base.xml:3800
+#, fuzzy
+msgid "Hungarian (102/QWERTY/dot/no dead keys)"
+msgstr "Vengrų (102 klavišų, QWERTZ, dešimtainis taškas, su tęsties klavišais)"
+
+#. Keyboard indicator for Icelandic layouts
+#: rules/base.xml:3809
+msgid "is"
+msgstr "is"
+
+#: rules/base.xml:3810
+msgid "Icelandic"
+msgstr "Islandų"
+
+#: rules/base.xml:3819
+#, fuzzy
+msgid "Icelandic (with Sun dead keys)"
+msgstr "Islandų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3825
+#, fuzzy
+msgid "Icelandic (no dead keys)"
+msgstr "Islandų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:3831
+msgid "Icelandic (Macintosh, legacy)"
+msgstr "Islandų („Macintosh“, senasis)"
+
+#: rules/base.xml:3837
+msgid "Icelandic (Macintosh)"
+msgstr "Islandų („Macintosh“)"
+
+#: rules/base.xml:3843
+msgid "Icelandic (Dvorak)"
+msgstr "Islandų (Dvorako)"
+
+#. Keyboard indicator for Hebrew layouts
+#: rules/base.xml:3852 rules/base.extras.xml:713
+msgid "he"
+msgstr "he"
+
+#: rules/base.xml:3853 rules/base.extras.xml:714
+msgid "Hebrew"
+msgstr "Hebrajų"
+
+#: rules/base.xml:3862
+msgid "Hebrew (lyx)"
+msgstr "Hebrajų (lyx)"
+
+#: rules/base.xml:3868
+msgid "Hebrew (phonetic)"
+msgstr "Hebrajų (fonetinis)"
+
+#: rules/base.xml:3874
+msgid "Hebrew (Biblical, Tiro)"
+msgstr "Hebrajų (biblinė, Tiro)"
+
+#. Keyboard indicator for Italian layouts
+#: rules/base.xml:3883 rules/base.extras.xml:956
+msgid "it"
+msgstr "it"
+
+#: rules/base.xml:3884 rules/base.extras.xml:957
+msgid "Italian"
+msgstr "Italų"
+
+#: rules/base.xml:3893
+#, fuzzy
+msgid "Italian (no dead keys)"
+msgstr "Italų (be tęsties klavišų)"
+
+#: rules/base.xml:3899
+msgid "Italian (Winkeys)"
+msgstr "Italų („Windows“)"
+
+#: rules/base.xml:3905
+msgid "Italian (Macintosh)"
+msgstr "Italų („Macintosh“)"
+
+#: rules/base.xml:3911
+#, fuzzy
+msgid "Italian (US, with Italian letters)"
+msgstr "Italų (JAV klaviatūra su itališkais rašmenimis)"
+
+#: rules/base.xml:3917
+msgid "Georgian (Italy)"
+msgstr "Gruzinų (Italija)"
+
+#: rules/base.xml:3926
+msgid "Italian (IBM 142)"
+msgstr "Italų (IBM 142)"
+
+#: rules/base.xml:3932
+#, fuzzy
+msgid "Italian (intl., with dead keys)"
+msgstr "Italų (be tęsties klavišų)"
+
+#: rules/base.xml:3948
+msgid "Sicilian"
+msgstr ""
+
+#: rules/base.xml:3958
+#, fuzzy
+msgid "Friulian (Italy)"
+msgstr "Gruzinų (Italija)"
+
+#. Keyboard indicator for Japaneses
+#: rules/base.xml:3970 rules/base.xml:5705 rules/base.extras.xml:982
+msgid "ja"
+msgstr "ja"
+
+#: rules/base.xml:3971 rules/base.extras.xml:983
+msgid "Japanese"
+msgstr "Japonų"
+
+#: rules/base.xml:3980
+msgid "Japanese (Kana)"
+msgstr "Japonų (Kana)"
+
+#: rules/base.xml:3986
+msgid "Japanese (Kana 86)"
+msgstr "Japonų (Kana 86)"
+
+#: rules/base.xml:3992
+msgid "Japanese (OADG 109A)"
+msgstr "Japonų (OADG 109A)"
+
+#: rules/base.xml:3998
+msgid "Japanese (Macintosh)"
+msgstr "Japonų („Macintosh“)"
+
+#: rules/base.xml:4004
+msgid "Japanese (Dvorak)"
+msgstr "Japonų (Dvorako)"
+
+#. Keyboard indicator for Kyrgyz layouts
+#. Keyboard indicator for Kikuyu layouts
+#: rules/base.xml:4013 rules/base.xml:6084
+msgid "ki"
+msgstr "ki"
+
+#: rules/base.xml:4014
+msgid "Kyrgyz"
+msgstr "Kirgizų"
+
+#: rules/base.xml:4023
+msgid "Kyrgyz (phonetic)"
+msgstr "Kirgizų (fonetinis)"
+
+#. Keyboard indicator for Khmer layouts
+#: rules/base.xml:4032
+msgid "km"
+msgstr "km"
+
+#: rules/base.xml:4033
+msgid "Khmer (Cambodia)"
+msgstr "Khmerų (Kambodža)"
+
+#. Keyboard indicator for Kazakh layouts
+#: rules/base.xml:4044
+msgid "kk"
+msgstr "kk"
+
+#: rules/base.xml:4045
+msgid "Kazakh"
+msgstr "Kazachų"
+
+#: rules/base.xml:4056
+msgid "Russian (Kazakhstan, with Kazakh)"
+msgstr "Rusų (Kazachstanas, su kazachų rašmenimis)"
+
+#: rules/base.xml:4066
+msgid "Kazakh (with Russian)"
+msgstr "Kazachų (su rusiškais rašmenimis)"
+
+#: rules/base.xml:4076
+#, fuzzy
+msgid "Kazakh (extended)"
+msgstr "Graikų (išplėstasis)"
+
+#: rules/base.xml:4085
+#, fuzzy
+msgid "Kazakh (Latin)"
+msgstr "Uzbekų (lotyniški rašmenys)"
+
+#. Keyboard indicator for Lao layouts
+#: rules/base.xml:4097
+msgid "lo"
+msgstr "lo"
+
+#: rules/base.xml:4098
+msgid "Lao"
+msgstr "Laosiečių"
+
+#: rules/base.xml:4107
+msgid "Lao (STEA proposed standard layout)"
+msgstr "Laosiečių (STEA siūlomas standartinis išdėstymas)"
+
+#. Keyboard indicator for Spanish layouts
+#: rules/base.xml:4119 rules/base.xml:4977 rules/base.extras.xml:1075
+msgid "es"
+msgstr "es"
+
+#: rules/base.xml:4120
+msgid "Spanish (Latin American)"
+msgstr "Ispanų (Lotynų Amerika)"
+
+#: rules/base.xml:4152
+#, fuzzy
+msgid "Spanish (Latin American, no dead keys)"
+msgstr "Ispanų (Lotynų Amerika, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:4158
+#, fuzzy
+msgid "Spanish (Latin American, dead tilde)"
+msgstr "Ispanų (Lotynų Amerika, tildė veikia tęsties klavišas)"
+
+#: rules/base.xml:4164
+#, fuzzy
+msgid "Spanish (Latin American, with Sun dead keys)"
+msgstr "Ispanų (Lotynų Amerika, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:4170
+#, fuzzy
+msgid "Spanish (Latin American, Dvorak)"
+msgstr "Ispanų (Lotynų Amerika)"
+
+#: rules/base.xml:4176
+#, fuzzy
+msgid "Spanish (Latin American, Colemak)"
+msgstr "Ispanų (Lotynų Amerika)"
+
+#: rules/base.xml:4182
+#, fuzzy
+msgid "Spanish (Latin American, Colemak for gaming)"
+msgstr "Ispanų (Lotynų Amerika)"
+
+#. Keyboard indicator for Lithuanian layouts
+#: rules/base.xml:4191 rules/base.extras.xml:247
+msgid "lt"
+msgstr "lt"
+
+#: rules/base.xml:4192 rules/base.extras.xml:248
+msgid "Lithuanian"
+msgstr "Lietuvių"
+
+#: rules/base.xml:4201
+msgid "Lithuanian (standard)"
+msgstr "Lietuvių (standartinis)"
+
+#: rules/base.xml:4207
+#, fuzzy
+msgid "Lithuanian (US, with Lithuanian letters)"
+msgstr "Lietuvių (JAV Dvorako klaviatūra su lietuviškais rašmenimis)"
+
+#: rules/base.xml:4213
+msgid "Lithuanian (IBM LST 1205-92)"
+msgstr "Lietuvių (IBM, LST 1205-92)"
+
+#: rules/base.xml:4219
+msgid "Lithuanian (LEKP)"
+msgstr "Lietuvių (LEKP)"
+
+#: rules/base.xml:4225
+msgid "Lithuanian (LEKPa)"
+msgstr "Lietuvių (LEKPa)"
+
+#: rules/base.xml:4231
+msgid "Samogitian"
+msgstr ""
+
+#. Keyboard indicator for Latvian layouts
+#: rules/base.xml:4243 rules/base.extras.xml:271
+msgid "lv"
+msgstr "lv"
+
+#: rules/base.xml:4244 rules/base.extras.xml:272
+msgid "Latvian"
+msgstr "Latvių"
+
+#: rules/base.xml:4253
+#, fuzzy
+msgid "Latvian (apostrophe)"
+msgstr "Latvių (apostrofo variantas)"
+
+#: rules/base.xml:4259
+#, fuzzy
+msgid "Latvian (tilde)"
+msgstr "Latvių (tildės variantas)"
+
+#: rules/base.xml:4265
+#, fuzzy
+msgid "Latvian (F)"
+msgstr "Latvių"
+
+#: rules/base.xml:4271
+msgid "Latvian (modern)"
+msgstr "Latvių (šiuolaikinis)"
+
+#: rules/base.xml:4277
+msgid "Latvian (ergonomic, ŪGJRMV)"
+msgstr "Latvių (ergonominis, ŪGJRMV)"
+
+#: rules/base.xml:4283
+msgid "Latvian (adapted)"
+msgstr "Latvių (pritaikytas)"
+
+#. Keyboard indicator for Maori layouts
+#: rules/base.xml:4292
+msgid "mi"
+msgstr "mi"
+
+#: rules/base.xml:4293
+msgid "Maori"
+msgstr "Maorių"
+
+#. Keyboard indicator for Montenegrin layouts
+#. Keyboard indicator for Serbian layouts
+#: rules/base.xml:4304 rules/base.xml:4857 rules/base.extras.xml:548
+msgid "sr"
+msgstr "sr"
+
+#: rules/base.xml:4305
+msgid "Montenegrin"
+msgstr "Juodkalniečių"
+
+#: rules/base.xml:4314
+msgid "Montenegrin (Cyrillic)"
+msgstr "Juodkalniečių (kirilica)"
+
+#: rules/base.xml:4320
+msgid "Montenegrin (Cyrillic, ZE and ZHE swapped)"
+msgstr "Juodkalniečių (kirilica, raidės Z ir Ž sukeistos)"
+
+#: rules/base.xml:4326
+#, fuzzy
+msgid "Montenegrin (Latin, Unicode)"
+msgstr "Juodkalniečių (lotyniški rašmenys, unikodas)"
+
+#: rules/base.xml:4332
+#, fuzzy
+msgid "Montenegrin (Latin, QWERTY)"
+msgstr "Juodkalniečių (lotyniški rašmenys, QWERTY)"
+
+#: rules/base.xml:4338
+#, fuzzy
+msgid "Montenegrin (Latin, Unicode, QWERTY)"
+msgstr "Juodkalniečių (lotyniški rašmenys, unikodas)"
+
+#: rules/base.xml:4344
+msgid "Montenegrin (Cyrillic with guillemets)"
+msgstr "Juodkalniečių (kirilica, su kampinėmis kabutėmis)"
+
+#: rules/base.xml:4350
+msgid "Montenegrin (Latin with guillemets)"
+msgstr "Juodkalniečių (lotyniški rašmenys, su kampinėmis kabutėmis)"
+
+#. Keyboard indicator for Macedonian layouts
+#: rules/base.xml:4359
+msgid "mk"
+msgstr "mk"
+
+#: rules/base.xml:4360
+msgid "Macedonian"
+msgstr "Makedonų"
+
+#: rules/base.xml:4369
+#, fuzzy
+msgid "Macedonian (no dead keys)"
+msgstr "Makedonų (be tęsties klavišų)"
+
+#. Keyboard indicator for Maltese layouts
+#: rules/base.xml:4378
+msgid "mt"
+msgstr "mt"
+
+#: rules/base.xml:4379
+msgid "Maltese"
+msgstr "Maltiečių"
+
+#: rules/base.xml:4388
+msgid "Maltese (with US layout)"
+msgstr "Maltiečių (su JAV išdėstymu)"
+
+#: rules/base.xml:4394
+msgid "Maltese (US layout with AltGr overrides)"
+msgstr ""
+
+#: rules/base.xml:4400
+msgid "Maltese (UK layout with AltGr overrides)"
+msgstr ""
+
+#. Keyboard indicator for Mongolian layouts
+#: rules/base.xml:4409
+msgid "mn"
+msgstr "mn"
+
+#: rules/base.xml:4410
+msgid "Mongolian"
+msgstr "Mongolų"
+
+#. Keyboard indicator for Norwegian layouts
+#: rules/base.xml:4421 rules/base.extras.xml:1009
+msgid "no"
+msgstr "no"
+
+#: rules/base.xml:4422 rules/base.extras.xml:1010
+msgid "Norwegian"
+msgstr "Norvegų"
+
+#: rules/base.xml:4433
+#, fuzzy
+msgid "Norwegian (no dead keys)"
+msgstr "Norvegų (be tęsties klavišų)"
+
+#: rules/base.xml:4439
+#, fuzzy
+msgid "Norwegian (Win keys)"
+msgstr "Norvegų („Windows“)"
+
+#: rules/base.xml:4445
+msgid "Norwegian (Dvorak)"
+msgstr "Norvegų (Dvorako)"
+
+#: rules/base.xml:4451
+msgid "Northern Saami (Norway)"
+msgstr "Šiaurės samių (Norvegija)"
+
+#: rules/base.xml:4460
+#, fuzzy
+msgid "Northern Saami (Norway, no dead keys)"
+msgstr "Šiaurės samių (Norvegija, be tęsties klavišų)"
+
+#: rules/base.xml:4469
+msgid "Norwegian (Macintosh)"
+msgstr "Norvegų („Macintosh“)"
+
+#: rules/base.xml:4475
+#, fuzzy
+msgid "Norwegian (Macintosh, no dead keys)"
+msgstr "Norvegų („Macintosh“, be tęsties klavišų)"
+
+#: rules/base.xml:4481
+msgid "Norwegian (Colemak)"
+msgstr "Norvegų („Colemak“)"
+
+#. Keyboard indicator for Polish layouts
+#: rules/base.xml:4490 rules/base.xml:5629 rules/base.extras.xml:478
+msgid "pl"
+msgstr "pl"
+
+#: rules/base.xml:4491 rules/base.extras.xml:479
+msgid "Polish"
+msgstr "Lenkų"
+
+#: rules/base.xml:4500
+msgid "Polish (legacy)"
+msgstr "Lenkų (senasis)"
+
+#: rules/base.xml:4506
+#, fuzzy
+msgid "Polish (QWERTZ)"
+msgstr "Lenkų (senasis)"
+
+#: rules/base.xml:4512
+msgid "Polish (Dvorak)"
+msgstr "Lenkų (Dvorako)"
+
+#: rules/base.xml:4518
+#, fuzzy
+msgid "Polish (Dvorak, with Polish quotes on quotemark key)"
+msgstr "Lenkų (Dvorako, lenkiškos kabutės ant kabučių klavišo)"
+
+#: rules/base.xml:4524
+#, fuzzy
+msgid "Polish (Dvorak, with Polish quotes on key 1)"
+msgstr "Lenkų (Dvorako, lenkiškos kabutės ant klavišo „1“)"
+
+#: rules/base.xml:4530
+msgid "Kashubian"
+msgstr "Kašubų"
+
+#: rules/base.xml:4539
+msgid "Silesian"
+msgstr "Sileziečių"
+
+#: rules/base.xml:4550
+msgid "Russian (Poland, phonetic Dvorak)"
+msgstr "Rusų (Lenkija, fonetinis Dvorako)"
+
+#: rules/base.xml:4559
+msgid "Polish (programmer Dvorak)"
+msgstr "Lenkų (programuotojų Dvorako)"
+
+#: rules/base.xml:4569 rules/base.extras.xml:1025 rules/base.extras.xml:1040
+msgid "Portuguese"
+msgstr "Portugalų"
+
+#: rules/base.xml:4578
+#, fuzzy
+msgid "Portuguese (no dead keys)"
+msgstr "Portugalų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:4584
+#, fuzzy
+msgid "Portuguese (with Sun dead keys)"
+msgstr "Portugalų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:4590
+msgid "Portuguese (Macintosh)"
+msgstr "Portugalų („Macintosh“)"
+
+#: rules/base.xml:4596
+#, fuzzy
+msgid "Portuguese (Macintosh, no dead keys)"
+msgstr "Portugalų („Macintosh“, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:4602
+#, fuzzy
+msgid "Portuguese (Macintosh, with Sun dead keys)"
+msgstr "Portugalų („Macintosh“, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:4608
+msgid "Portuguese (Nativo)"
+msgstr "Portugalų („Nativo“)"
+
+#: rules/base.xml:4614
+msgid "Portuguese (Nativo for US keyboards)"
+msgstr "Portugalų („Nativo“ JAV klaviatūroms)"
+
+#: rules/base.xml:4620
+msgid "Esperanto (Portugal, Nativo)"
+msgstr "Esperanto (Portugalija, „Nativo“)"
+
+#. Keyboard indicator for Romanian layouts
+#: rules/base.xml:4632 rules/base.extras.xml:514
+msgid "ro"
+msgstr "ro"
+
+#: rules/base.xml:4633 rules/base.extras.xml:515
+msgid "Romanian"
+msgstr "Rumunų"
+
+#: rules/base.xml:4642
+msgid "Romanian (cedilla)"
+msgstr "Rumunų (su cedila)"
+
+#: rules/base.xml:4648
+msgid "Romanian (standard)"
+msgstr "Rumunų (standartinis)"
+
+#: rules/base.xml:4654
+msgid "Romanian (standard cedilla)"
+msgstr "Rumunų (standartinis su cedila)"
+
+#: rules/base.xml:4660
+#, fuzzy
+msgid "Romanian (Win keys)"
+msgstr "Rumunų („Windows“)"
+
+#: rules/base.xml:4670 rules/base.extras.xml:567
+msgid "Russian"
+msgstr "Rusų"
+
+#: rules/base.xml:4679
+msgid "Russian (phonetic)"
+msgstr "Rusų (fonetinis)"
+
+#: rules/base.xml:4685
+#, fuzzy
+msgid "Russian (phonetic, with Win keys)"
+msgstr "Rusų („Windows“ fonetinis)"
+
+#: rules/base.xml:4691
+#, fuzzy
+msgid "Russian (phonetic yazherty)"
+msgstr "Rusų (fonetinis)"
+
+#: rules/base.xml:4697
+msgid "Russian (typewriter)"
+msgstr "Rusų (rašomosios mašinėlės išdėstymas)"
+
+#: rules/base.xml:4703
+msgid "Russian (legacy)"
+msgstr "Rusų (senasis)"
+
+#: rules/base.xml:4709
+msgid "Russian (typewriter, legacy)"
+msgstr "Rusų (rašomosios mašinėlės išdėstymas, senasis)"
+
+#: rules/base.xml:4715
+msgid "Tatar"
+msgstr "Totorių"
+
+#: rules/base.xml:4724
+msgid "Ossetian (legacy)"
+msgstr "Osetinų (senasis)"
+
+#: rules/base.xml:4733
+#, fuzzy
+msgid "Ossetian (Win keys)"
+msgstr "Osetinų („Windows“)"
+
+#: rules/base.xml:4742
+msgid "Chuvash"
+msgstr "Čiuvašų"
+
+#: rules/base.xml:4751
+msgid "Chuvash (Latin)"
+msgstr "Čiuvašų (lotyniški rašmenys)"
+
+#: rules/base.xml:4760
+msgid "Udmurt"
+msgstr "Udmurtų"
+
+#: rules/base.xml:4769
+msgid "Komi"
+msgstr "Komija"
+
+#: rules/base.xml:4778
+msgid "Yakut"
+msgstr "Jakutų"
+
+#: rules/base.xml:4787
+msgid "Kalmyk"
+msgstr "Kalmukų"
+
+#: rules/base.xml:4796
+msgid "Russian (DOS)"
+msgstr "Rusų (DOS)"
+
+#: rules/base.xml:4802
+msgid "Russian (Macintosh)"
+msgstr "Rusų („Macintosh“)"
+
+#: rules/base.xml:4808
+msgid "Serbian (Russia)"
+msgstr "Serbų (Rusija)"
+
+#: rules/base.xml:4818
+msgid "Bashkirian"
+msgstr "Baškirų"
+
+#: rules/base.xml:4827
+msgid "Mari"
+msgstr "Marių"
+
+#: rules/base.xml:4836
+#, fuzzy
+msgid "Russian (phonetic, AZERTY)"
+msgstr "Rusų (fonetinis)"
+
+#: rules/base.xml:4842
+#, fuzzy
+msgid "Russian (phonetic, Dvorak)"
+msgstr "Rusų (Lenkija, fonetinis Dvorako)"
+
+#: rules/base.xml:4848
+#, fuzzy
+msgid "Russian (phonetic, French)"
+msgstr "Rusų (fonetinis)"
+
+#: rules/base.xml:4858 rules/base.extras.xml:549
+msgid "Serbian"
+msgstr "Serbų"
+
+#: rules/base.xml:4867
+msgid "Serbian (Cyrillic, ZE and ZHE swapped)"
+msgstr "Serbų (kirilica, raidės Z ir Ž sukeistos)"
+
+#: rules/base.xml:4873
+msgid "Serbian (Latin)"
+msgstr "Serbų (lotyniški rašmenys)"
+
+#: rules/base.xml:4879
+#, fuzzy
+msgid "Serbian (Latin, Unicode)"
+msgstr "Serbų (lotyniški rašmenys, unikodas)"
+
+#: rules/base.xml:4885
+#, fuzzy
+msgid "Serbian (Latin, QWERTY)"
+msgstr "Serbų (lotyniški rašmenys)"
+
+#: rules/base.xml:4891
+#, fuzzy
+msgid "Serbian (Latin, Unicode, QWERTY)"
+msgstr "Serbų (lotyniški rašmenys, unikodas)"
+
+#: rules/base.xml:4897
+msgid "Serbian (Cyrillic with guillemets)"
+msgstr "Serbų (kirilica, su kampinėmis kabutėmis)"
+
+#: rules/base.xml:4903
+msgid "Serbian (Latin with guillemets)"
+msgstr "Serbų (lotyniški rašmenys, su kampinėmis kabutėmis)"
+
+#: rules/base.xml:4909
+msgid "Pannonian Rusyn"
+msgstr "Panonijos rusinų"
+
+#. Keyboard indicator for Slovenian layouts
+#: rules/base.xml:4921
+msgid "sl"
+msgstr "sl"
+
+#: rules/base.xml:4922
+msgid "Slovenian"
+msgstr "Slovėnų"
+
+#: rules/base.xml:4931
+#, fuzzy
+msgid "Slovenian (with guillemets)"
+msgstr "Serbų (su kampinėmis kabutėmis)"
+
+#: rules/base.xml:4937
+#, fuzzy
+msgid "Slovenian (US, with Slovenian letters)"
+msgstr "Slovėnų (JAV klaviatūra su slovėniškais rašmenimis)"
+
+#. Keyboard indicator for Slovak layouts
+#: rules/base.xml:4946 rules/base.extras.xml:1054
+msgid "sk"
+msgstr "sk"
+
+#: rules/base.xml:4947 rules/base.extras.xml:1055
+msgid "Slovak"
+msgstr "Slovakų"
+
+#: rules/base.xml:4956
+#, fuzzy
+msgid "Slovak (extended backslash)"
+msgstr "Slovakų (išplėstasis kairinis brūkšnys)"
+
+#: rules/base.xml:4962
+#, fuzzy
+msgid "Slovak (QWERTY)"
+msgstr "Slovakų (QWERTY)"
+
+#: rules/base.xml:4968
+#, fuzzy
+msgid "Slovak (QWERTY, extended backslash)"
+msgstr "Slovakų (išplėstasis kairinis brūkšnys)"
+
+#: rules/base.xml:4978 rules/base.extras.xml:1076
+msgid "Spanish"
+msgstr "Ispanų"
+
+#: rules/base.xml:4987
+#, fuzzy
+msgid "Spanish (no dead keys)"
+msgstr "Ispanų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:4993
+#, fuzzy
+msgid "Spanish (Win keys)"
+msgstr "Ispanų („Windows“)"
+
+#: rules/base.xml:4999
+#, fuzzy
+msgid "Spanish (dead tilde)"
+msgstr "Ispanų (tildė veikia kaip tęsties klavišas)"
+
+#: rules/base.xml:5005
+#, fuzzy
+msgid "Spanish (with Sun dead keys)"
+msgstr "Ispanų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:5011
+msgid "Spanish (Dvorak)"
+msgstr "Ispanų (Dvorako)"
+
+#: rules/base.xml:5017
+#, fuzzy
+msgid "ast"
+msgstr "Est"
+
+#: rules/base.xml:5018
+msgid "Asturian (Spain, with bottom-dot H and bottom-dot L)"
+msgstr "Asturų (Ispanija, su H ir L raidėmis su taškais apačioje)"
+
+#: rules/base.xml:5027
+msgid "ca"
+msgstr "ca"
+
+#: rules/base.xml:5028
+msgid "Catalan (Spain, with middle-dot L)"
+msgstr "Katalonų (Ispanija, su L raide su tašku per vidurį)"
+
+#: rules/base.xml:5037
+msgid "Spanish (Macintosh)"
+msgstr "Ispanų („Macintosh“)"
+
+#. Keyboard indicator for Swedish layouts
+#: rules/base.xml:5046 rules/base.extras.xml:1090
+msgid "sv"
+msgstr "sv"
+
+#: rules/base.xml:5047 rules/base.extras.xml:1091
+msgid "Swedish"
+msgstr "Švedų"
+
+#: rules/base.xml:5056
+#, fuzzy
+msgid "Swedish (no dead keys)"
+msgstr "Švedų (be tęsties klavišų)"
+
+#: rules/base.xml:5062
+msgid "Swedish (Dvorak)"
+msgstr "Švedų (Dvorako)"
+
+#: rules/base.xml:5070
+msgid "Russian (Sweden, phonetic)"
+msgstr "Rusų (Švedija, fonetinis)"
+
+#: rules/base.xml:5081
+#, fuzzy
+msgid "Russian (Sweden, phonetic, no dead keys)"
+msgstr "Rusų (Švedija, fonetinis, be tęsties klavišų)"
+
+#: rules/base.xml:5090
+msgid "Northern Saami (Sweden)"
+msgstr "Šiaurės samių (Švedija)"
+
+#: rules/base.xml:5099
+msgid "Swedish (Macintosh)"
+msgstr "Švedų („Macintosh“)"
+
+#: rules/base.xml:5105
+msgid "Swedish (Svdvorak)"
+msgstr "Švedų („Svdvorak“)"
+
+#: rules/base.xml:5111
+#, fuzzy
+msgid "Swedish (based on US Intl. Dvorak)"
+msgstr "Švedų (Dvorako)"
+
+#: rules/base.xml:5117
+#, fuzzy
+msgid "Swedish (US, with Swedish letters)"
+msgstr "Slovėnų (JAV klaviatūra su slovėniškais rašmenimis)"
+
+#: rules/base.xml:5123
+msgid "Swedish Sign Language"
+msgstr "Švedų gestų kalba"
+
+#: rules/base.xml:5136 rules/base.extras.xml:1121
+msgid "German (Switzerland)"
+msgstr "Vokiečių (Šveicarija)"
+
+#: rules/base.xml:5146
+msgid "German (Switzerland, legacy)"
+msgstr "Vokiečių (Šveicarija, senasis)"
+
+#: rules/base.xml:5154
+#, fuzzy
+msgid "German (Switzerland, no dead keys)"
+msgstr "Vokiečių (Šveicarija, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:5162
+#, fuzzy
+msgid "German (Switzerland, with Sun dead keys)"
+msgstr "Vokiečių (Šveicarija, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:5170
+msgid "French (Switzerland)"
+msgstr "Prancūzų (Šveicarija)"
+
+#: rules/base.xml:5181
+#, fuzzy
+msgid "French (Switzerland, no dead keys)"
+msgstr "Prancūzų (Šveicarija, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:5192
+#, fuzzy
+msgid "French (Switzerland, with Sun dead keys)"
+msgstr "Prancūzų (Šveicarija, su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:5203
+msgid "French (Switzerland, Macintosh)"
+msgstr "Prancūzų (Šveicacija, „Macintosh“)"
+
+#: rules/base.xml:5214
+msgid "German (Switzerland, Macintosh)"
+msgstr "Vokiečių (Šveicarija, „Macintosh“)"
+
+#: rules/base.xml:5224
+msgid "Arabic (Syria)"
+msgstr "Arabų (Sirija)"
+
+#. Keyboard indicator for Syriac layouts
+#: rules/base.xml:5234 rules/base.xml:5242
+msgid "syc"
+msgstr "syc"
+
+#: rules/base.xml:5235
+msgid "Syriac"
+msgstr "Sirijos"
+
+#: rules/base.xml:5243
+msgid "Syriac (phonetic)"
+msgstr "Sirų (fonetinis)"
+
+#: rules/base.xml:5251
+msgid "Kurdish (Syria, Latin Q)"
+msgstr "Kurdų (Sirija, lotyniški rašmenys, Q)"
+
+#: rules/base.xml:5262
+msgid "Kurdish (Syria, F)"
+msgstr "Kurdų (Sirija, F)"
+
+#: rules/base.xml:5273
+msgid "Kurdish (Syria, Latin Alt-Q)"
+msgstr "Kurdų (Sirija, lotyniški rašmenys, Alt-Q)"
+
+#. Keyboard indicator for Tajik layouts
+#: rules/base.xml:5285
+msgid "tg"
+msgstr "tg"
+
+#: rules/base.xml:5286
+msgid "Tajik"
+msgstr "Tadžikų"
+
+#: rules/base.xml:5295
+msgid "Tajik (legacy)"
+msgstr "Tadžikų (senasis)"
+
+#. Keyboard indicator for Sinhala layouts
+#: rules/base.xml:5304
+msgid "si"
+msgstr "si"
+
+#: rules/base.xml:5305
+msgid "Sinhala (phonetic)"
+msgstr "Sinhalų (fonetinis)"
+
+#: rules/base.xml:5316
+#, fuzzy
+msgid "Tamil (Sri Lanka, TamilNet '99)"
+msgstr "Tamilų (Šri Lanka, unikodas)"
+
+#: rules/base.xml:5325
+#, fuzzy
+msgid "Tamil (Sri Lanka, TamilNet '99, TAB encoding)"
+msgstr "Tamilų (Šri Lanka, unikodas)"
+
+#. Keyboard indicator for US layouts
+#: rules/base.xml:5335
+#, fuzzy
+msgid "us"
+msgstr "Rus"
+
+#: rules/base.xml:5336
+#, fuzzy
+msgid "Sinhala (US, with Sinhala letters)"
+msgstr "Lietuvių (JAV Dvorako klaviatūra su lietuviškais rašmenimis)"
+
+#. Keyboard indicator for Thai layouts
+#: rules/base.xml:5345
+msgid "th"
+msgstr "th"
+
+#: rules/base.xml:5346
+msgid "Thai"
+msgstr "Tajų"
+
+#: rules/base.xml:5355
+msgid "Thai (TIS-820.2538)"
+msgstr "Tajų (TIS-820.2538)"
+
+#: rules/base.xml:5361
+msgid "Thai (Pattachote)"
+msgstr "Tajų („Pattachote“)"
+
+#. Keyboard indicator for Turkish layouts
+#: rules/base.xml:5370 rules/base.extras.xml:1141
+msgid "tr"
+msgstr "tr"
+
+#: rules/base.xml:5371 rules/base.extras.xml:1142
+msgid "Turkish"
+msgstr "Turkų"
+
+#: rules/base.xml:5380
+msgid "Turkish (F)"
+msgstr "Turkų (F)"
+
+#: rules/base.xml:5386
+msgid "Turkish (Alt-Q)"
+msgstr "Turkų (Alt-Q)"
+
+#: rules/base.xml:5392
+#, fuzzy
+msgid "Turkish (with Sun dead keys)"
+msgstr "Turkų (su „Sun“ tęsties klavišais)"
+
+#: rules/base.xml:5400
+msgid "Kurdish (Turkey, Latin Q)"
+msgstr "Kurdų (Turkija, lotyniški rašmenys, Q)"
+
+#: rules/base.xml:5411
+msgid "Kurdish (Turkey, F)"
+msgstr "Kurdų (Turkija, F)"
+
+#: rules/base.xml:5422
+msgid "Kurdish (Turkey, Latin Alt-Q)"
+msgstr "Kurdų (Turkija, lotyniški rašmenys, Alt-Q)"
+
+#: rules/base.xml:5431
+#, fuzzy
+msgid "Turkish (intl., with dead keys)"
+msgstr "Turkų (tarptautinis, su tęsties ženklais)"
+
+#. Keyboard indicator for Crimean Tatar layouts
+#: rules/base.xml:5438 rules/base.xml:5449 rules/base.xml:5460
+#: rules/base.extras.xml:524
+msgid "crh"
+msgstr "crh"
+
+#: rules/base.xml:5439
+msgid "Crimean Tatar (Turkish Q)"
+msgstr "Krymo totorių (turkiškas Q)"
+
+#: rules/base.xml:5450
+msgid "Crimean Tatar (Turkish F)"
+msgstr "Krymo totorių (turkiškas F)"
+
+#: rules/base.xml:5461
+msgid "Crimean Tatar (Turkish Alt-Q)"
+msgstr "Krymo totorių (turkiškas Alt-Q)"
+
+#: rules/base.xml:5474
+msgid "Taiwanese"
+msgstr "Taivaniečių"
+
+#: rules/base.xml:5483
+msgid "Taiwanese (indigenous)"
+msgstr "Taivano (čiabuvių)"
+
+#. Keyboard indicator for Saisiyat layouts
+#: rules/base.xml:5508
+msgid "xsy"
+msgstr "xsy"
+
+#: rules/base.xml:5509
+msgid "Saisiyat (Taiwan)"
+msgstr "Siaisijatų (Taivanas)"
+
+#. Keyboard indicator for Ukranian layouts
+#: rules/base.xml:5521 rules/base.extras.xml:1156
+msgid "uk"
+msgstr "uk"
+
+#: rules/base.xml:5522 rules/base.extras.xml:1157
+msgid "Ukrainian"
+msgstr "Ukrainiečių"
+
+#: rules/base.xml:5531
+msgid "Ukrainian (phonetic)"
+msgstr "Ukrainiečių (fonetinis)"
+
+#: rules/base.xml:5537
+msgid "Ukrainian (typewriter)"
+msgstr "Ukrainiečių (rašomosios mašinėlės išdėstymas)"
+
+#: rules/base.xml:5543
+#, fuzzy
+msgid "Ukrainian (Win keys)"
+msgstr "Ukrainiečių („Windows“)"
+
+#: rules/base.xml:5549
+msgid "Ukrainian (legacy)"
+msgstr "Ukrainiečių (senasis)"
+
+#: rules/base.xml:5555
+msgid "Ukrainian (standard RSTU)"
+msgstr "Ukrainiečių (standartinis RSTU)"
+
+#: rules/base.xml:5561
+msgid "Russian (Ukraine, standard RSTU)"
+msgstr "Rusų (Ukraina, standartinis RSTU)"
+
+#: rules/base.xml:5567
+msgid "Ukrainian (homophonic)"
+msgstr "Ukrainiečių (homofoninis)"
+
+#: rules/base.xml:5577 rules/base.extras.xml:1172
+msgid "English (UK)"
+msgstr "Anglų (JK)"
+
+#: rules/base.xml:5586
+#, fuzzy
+msgid "English (UK, extended, with Win keys)"
+msgstr "Anglų (JK, „Windows“ išplėstasis)"
+
+#: rules/base.xml:5592
+#, fuzzy
+msgid "English (UK, intl., with dead keys)"
+msgstr "Anglų (JK, tarptautinis su tęsties klavišais)"
+
+#: rules/base.xml:5598
+msgid "English (UK, Dvorak)"
+msgstr "Anglų (JK, Dvorako)"
+
+#: rules/base.xml:5604
+#, fuzzy
+msgid "English (UK, Dvorak, with UK punctuation)"
+msgstr "Anglų (JK, Dvorako su JK skyrybos ženklais)"
+
+#: rules/base.xml:5610
+msgid "English (UK, Macintosh)"
+msgstr "Anglų (JK, „Macintosh“)"
+
+#: rules/base.xml:5616
+#, fuzzy
+msgid "English (UK, intl., Macintosh)"
+msgstr "Anglų (JK, „Macintosh“)"
+
+#: rules/base.xml:5622
+msgid "English (UK, Colemak)"
+msgstr "Anglų (JK, „Colemak“)"
+
+#: rules/base.xml:5630
+msgid "Polish (British keyboard)"
+msgstr ""
+
+#: rules/base.xml:5643
+msgid "Uzbek"
+msgstr "Uzbekų"
+
+#: rules/base.xml:5652
+msgid "Uzbek (Latin)"
+msgstr "Uzbekų (lotyniški rašmenys)"
+
+#. Keyboard indicator for Vietnamese layouts
+#: rules/base.xml:5661 rules/base.extras.xml:1202
+msgid "vi"
+msgstr "vi"
+
+#: rules/base.xml:5662 rules/base.extras.xml:1203
+msgid "Vietnamese"
+msgstr "Vietnamiečių"
+
+#: rules/base.xml:5671
+#, fuzzy
+msgid "Vietnamese (US, with Vietnamese letters)"
+msgstr "Lietuvių (JAV Dvorako klaviatūra su lietuviškais rašmenimis)"
+
+#: rules/base.xml:5677
+msgid "Vietnamese (French, with Vietnamese letters)"
+msgstr ""
+
+#. Keyboard indicator for Korean layouts
+#: rules/base.xml:5686 rules/base.extras.xml:1186
+msgid "ko"
+msgstr "ko"
+
+#: rules/base.xml:5687 rules/base.extras.xml:1187
+msgid "Korean"
+msgstr "Korėjiečių"
+
+#: rules/base.xml:5696
+msgid "Korean (101/104 key compatible)"
+msgstr "Korėjiečių (suderinamas su 101/104 klavišų klaviatūra)"
+
+#: rules/base.xml:5706
+#, fuzzy
+msgid "Japanese (PC-98)"
+msgstr "Japonų (PC-98xx serijos)"
+
+#. Keyboard indicator for Irish layouts
+#: rules/base.xml:5719
+msgid "ie"
+msgstr "ie"
+
+#: rules/base.xml:5720
+msgid "Irish"
+msgstr "Airių"
+
+#: rules/base.xml:5729
+msgid "CloGaelach"
+msgstr "„CloGaelach“"
+
+#: rules/base.xml:5738
+msgid "Irish (UnicodeExpert)"
+msgstr "Airių („UnicodeExpert“)"
+
+#: rules/base.xml:5744
+msgid "Ogham"
+msgstr "Ogham"
+
+#: rules/base.xml:5753
+msgid "Ogham (IS434)"
+msgstr "Ogham (IS434)"
+
+#: rules/base.xml:5766
+msgid "Urdu (Pakistan)"
+msgstr "Urdu (Pakistanas)"
+
+#: rules/base.xml:5775
+msgid "Urdu (Pakistan, CRULP)"
+msgstr "Urdu (Pakistanas, CRULP)"
+
+#: rules/base.xml:5781
+msgid "Urdu (Pakistan, NLA)"
+msgstr "Urdu (Pakistanas, NLA)"
+
+#: rules/base.xml:5788
+msgid "Arabic (Pakistan)"
+msgstr "Arabų (Pakistanas)"
+
+#. Keyboard indicator for Sindhi layouts
+#: rules/base.xml:5798
+msgid "sd"
+msgstr "sd"
+
+#: rules/base.xml:5799
+msgid "Sindhi"
+msgstr "Sindų"
+
+#. Keyboard indicator for Dhivehi layouts
+#: rules/base.xml:5811
+msgid "dv"
+msgstr "dv"
+
+#: rules/base.xml:5812
+msgid "Dhivehi"
+msgstr "Maldyviečių"
+
+#: rules/base.xml:5824
+msgid "English (South Africa)"
+msgstr "Anglų (Pietų Afrika)"
+
+#. Keyboard indicator for Esperanto layouts
+#: rules/base.xml:5834
+msgid "eo"
+msgstr "eo"
+
+#: rules/base.xml:5835
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: rules/base.xml:5844
+msgid "Esperanto (displaced semicolon and quote, obsolete)"
+msgstr "Esperanto (perkeltas kabliataškis ir kabutė, nenaudotinas)"
+
+#. Keyboard indicator for Nepali layouts
+#: rules/base.xml:5853
+msgid "ne"
+msgstr "ne"
+
+#: rules/base.xml:5854
+msgid "Nepali"
+msgstr "Nepaliečių"
+
+#: rules/base.xml:5867
+msgid "English (Nigeria)"
+msgstr "Anglų (Nigerija)"
+
+#. Keyboard indicator for Igbo layouts
+#: rules/base.xml:5877
+msgid "ig"
+msgstr "ig"
+
+#: rules/base.xml:5878
+msgid "Igbo"
+msgstr "Igbo"
+
+#. Keyboard indicator for Yoruba layouts
+#: rules/base.xml:5888
+msgid "yo"
+msgstr "yo"
+
+#: rules/base.xml:5889
+msgid "Yoruba"
+msgstr "Jorubų"
+
+#: rules/base.xml:5900
+#, fuzzy
+msgid "Hausa (Nigeria)"
+msgstr "Anglų (Nigerija)"
+
+#. Keyboard indicator for Amharic layouts
+#: rules/base.xml:5912
+msgid "am"
+msgstr "am"
+
+#: rules/base.xml:5913
+msgid "Amharic"
+msgstr "Amharų"
+
+#. Keyboard indicator for Wolof layouts
+#: rules/base.xml:5924
+msgid "wo"
+msgstr "wo"
+
+#: rules/base.xml:5925
+msgid "Wolof"
+msgstr "Volofų"
+
+#. Keyboard indicator for Braille layouts
+#: rules/base.xml:5936
+msgid "brl"
+msgstr "Brl"
+
+#: rules/base.xml:5937
+msgid "Braille"
+msgstr "Brailio terminalas"
+
+#: rules/base.xml:5943
+#, fuzzy
+msgid "Braille (left-handed)"
+msgstr "Brailio terminalas (kairei rankai)"
+
+#: rules/base.xml:5949
+#, fuzzy
+msgid "Braille (left-handed inverted thumb)"
+msgstr "Brailio terminalas (kairei rankai)"
+
+#: rules/base.xml:5955
+#, fuzzy
+msgid "Braille (right-handed)"
+msgstr "Brailio terminalas (dešinei rankai)"
+
+#: rules/base.xml:5961
+#, fuzzy
+msgid "Braille (right-handed inverted thumb)"
+msgstr "Brailio terminalas (dešinei rankai)"
+
+#. Keyboard indicator for Turkmen layouts
+#: rules/base.xml:5970
+msgid "tk"
+msgstr "tk"
+
+#: rules/base.xml:5971
+msgid "Turkmen"
+msgstr "Turkmėnų"
+
+#: rules/base.xml:5980
+msgid "Turkmen (Alt-Q)"
+msgstr "Turkmėnų (Alt-Q)"
+
+#. Keyboard indicator for Bambara layouts
+#: rules/base.xml:5989
+msgid "bm"
+msgstr "bm"
+
+#: rules/base.xml:5990
+msgid "Bambara"
+msgstr "Bambarų"
+
+#: rules/base.xml:6001
+#, fuzzy
+msgid "French (Mali, alt.)"
+msgstr "Prancūzų (Malis, alternatyvus)"
+
+#: rules/base.xml:6012
+#, fuzzy
+msgid "English (Mali, US, Macintosh)"
+msgstr "Anglų (Malis, JAV „Macintosh“)"
+
+#: rules/base.xml:6023
+#, fuzzy
+msgid "English (Mali, US, intl.)"
+msgstr "Anglų (Malis, JAV „Macintosh“)"
+
+#. Keyboard indicator for Swahili layouts
+#: rules/base.xml:6035 rules/base.xml:6073
+msgid "sw"
+msgstr "sw"
+
+#: rules/base.xml:6036
+msgid "Swahili (Tanzania)"
+msgstr "Svahilių (Tanzanija)"
+
+#: rules/base.xml:6045
+msgid "fr-tg"
+msgstr ""
+
+#: rules/base.xml:6046
+#, fuzzy
+msgid "French (Togo)"
+msgstr "Prancūzų (Marokas)"
+
+#: rules/base.xml:6074
+msgid "Swahili (Kenya)"
+msgstr "Svahilių (Kenija)"
+
+#: rules/base.xml:6085
+msgid "Kikuyu"
+msgstr "Kikuyu"
+
+#. Keyboard indicator for Tswana layouts
+#: rules/base.xml:6097
+msgid "tn"
+msgstr "tn"
+
+#: rules/base.xml:6098
+msgid "Tswana"
+msgstr "Tsvanų"
+
+#. Keyboard indicator for Filipino layouts
+#: rules/base.xml:6108
+msgid "ph"
+msgstr "ph"
+
+#: rules/base.xml:6109
+msgid "Filipino"
+msgstr "Filipiniečių"
+
+#: rules/base.xml:6128
+#, fuzzy
+msgid "Filipino (QWERTY, Baybayin)"
+msgstr "Filipiniečių (QWERTY, baibajinas)"
+
+#: rules/base.xml:6146
+#, fuzzy
+msgid "Filipino (Capewell-Dvorak, Latin)"
+msgstr "Filipiniečių (Keipvelo-Dvorako, lotyniški rašmenys)"
+
+#: rules/base.xml:6152
+#, fuzzy
+msgid "Filipino (Capewell-Dvorak, Baybayin)"
+msgstr "Filipiniečių (Keipvelo-Dvorako, baibajinas)"
+
+#: rules/base.xml:6170
+#, fuzzy
+msgid "Filipino (Capewell-QWERF 2006, Latin)"
+msgstr "Filipiniečių (Keipvelo QWERF 2006, lotyniški rašmenys)"
+
+#: rules/base.xml:6176
+#, fuzzy
+msgid "Filipino (Capewell-QWERF 2006, Baybayin)"
+msgstr "Filipiniečių (Keipvelo QWERF 2006, baibajinas)"
+
+#: rules/base.xml:6194
+#, fuzzy
+msgid "Filipino (Colemak, Latin)"
+msgstr "Filipiniečių („Colemak“, lotyniški rašmenys)"
+
+#: rules/base.xml:6200
+#, fuzzy
+msgid "Filipino (Colemak, Baybayin)"
+msgstr "Filipiniečių („Colemak“, baibajinas)"
+
+#: rules/base.xml:6218
+#, fuzzy
+msgid "Filipino (Dvorak, Latin)"
+msgstr "Filipiniečių (Dvorako, lotyniški rašmenys)"
+
+#: rules/base.xml:6224
+#, fuzzy
+msgid "Filipino (Dvorak, Baybayin)"
+msgstr "Filipiniečių (Dvorako, baibajinas)"
+
+#: rules/base.xml:6244
+msgid "md"
+msgstr "md"
+
+#: rules/base.xml:6245
+msgid "Moldavian"
+msgstr "Moldavų"
+
+#: rules/base.xml:6254
+msgid "gag"
+msgstr "gag"
+
+#: rules/base.xml:6255
+msgid "Moldavian (Gagauz)"
+msgstr "Moldavų (gagaūzų)"
+
+#: rules/base.xml:6266
+msgid "id"
+msgstr ""
+
+#: rules/base.xml:6267
+#, fuzzy
+msgid "Indonesian (Arab Melayu, phonetic)"
+msgstr "Rusų (Vokietija, fonetinis)"
+
+#: rules/base.xml:6282
+#, fuzzy
+msgid "Indonesian (Arab Melayu, ext. phonetic)"
+msgstr "Rusų (Vokietija, fonetinis)"
+
+#: rules/base.xml:6290
+msgid "jv"
+msgstr ""
+
+#: rules/base.xml:6291
+msgid "Indonesian (Javanese)"
+msgstr ""
+
+#: rules/base.xml:6301
+msgid "ms"
+msgstr ""
+
+#: rules/base.xml:6302
+msgid "Malay (Jawi, Arabic Keyboard)"
+msgstr ""
+
+#: rules/base.xml:6317
+#, fuzzy
+msgid "Malay (Jawi, phonetic)"
+msgstr "Sinhalų (fonetinis)"
+
+#: rules/base.xml:6328
+msgid "Switching to another layout"
+msgstr "Perjungimas į kitą išdėstymą"
+
+#: rules/base.xml:6333
+msgid "Right Alt (while pressed)"
+msgstr "Dešinysis Alt (kol nuspaustas)"
+
+#: rules/base.xml:6339
+msgid "Left Alt (while pressed)"
+msgstr "Kairysis Alt (kol nuspaustas)"
+
+#: rules/base.xml:6345
+msgid "Left Win (while pressed)"
+msgstr "Kairysis Win (kol nuspaustas)"
+
+#: rules/base.xml:6351
+msgid "Right Win (while pressed)"
+msgstr "Dešinysis Win (kol nuspaustas)"
+
+#: rules/base.xml:6357
+#, fuzzy
+msgid "Any Win (while pressed)"
+msgstr "Bet kuris Win klavišas (kol paspaustas)"
+
+#: rules/base.xml:6363
+msgid "Menu (while pressed), Shift+Menu for Menu"
+msgstr ""
+
+#: rules/base.xml:6369
+#, fuzzy
+msgid ""
+"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Didž (kol nuspaustas); Alt+Didž atlieka pirminę Didž klavišo funkciją"
+
+#: rules/base.xml:6375
+msgid "Right Ctrl (while pressed)"
+msgstr "Dešinysis Vald (kol nuspaustas)"
+
+#: rules/base.xml:6381 rules/base.xml:6605 rules/base.xml:7093
+msgid "Right Alt"
+msgstr "Dešinysis Alt"
+
+#: rules/base.xml:6387 rules/base.xml:6599
+msgid "Left Alt"
+msgstr "Kairysis Alt"
+
+#: rules/base.xml:6393 rules/base.xml:6629 rules/base.xml:6756
+#: rules/base.xml:7159
+msgid "Caps Lock"
+msgstr "Didžiosios raidės"
+
+#: rules/base.xml:6399
+msgid "Shift+Caps Lock"
+msgstr "Lyg2+Didž"
+
+#: rules/base.xml:6405
+#, fuzzy
+msgid "Caps Lock to first layout; Shift+Caps Lock to last layout"
+msgstr "Didž (į pirmąjį išdėstymą), Lyg2+Didž (į paskutinį išdėstymą)"
+
+#: rules/base.xml:6411
+#, fuzzy
+msgid "Left Win to first layout; Right Win/Menu to last layout"
+msgstr ""
+"Kairysis Win (į pirmąjį išdėstymą), dešinysis Win/Meniu (į paskutinį "
+"išdėstymą)"
+
+#: rules/base.xml:6417
+#, fuzzy
+msgid "Left Ctrl to first layout; Right Ctrl to last layout"
+msgstr ""
+"Kairysis Vald (į pirmąjį išdėstymą), dešinysis Vald (į paskutinį išdėstymą)"
+
+#: rules/base.xml:6423
+msgid "Alt+Caps Lock"
+msgstr "Alt+Didž"
+
+#: rules/base.xml:6429
+#, fuzzy
+msgid "Both Shift together"
+msgstr "Vienu metu nuspausti abu Lyg2 klavišai"
+
+#: rules/base.xml:6435
+#, fuzzy
+msgid "Both Alt together"
+msgstr "Vienu metu nuspausti abu Alt klavišai"
+
+#: rules/base.xml:6441
+#, fuzzy
+msgid "Both Ctrl together"
+msgstr "Vienu metu nuspausti abu Vald klavišai"
+
+#: rules/base.xml:6447
+msgid "Ctrl+Shift"
+msgstr "Vald+Lyg2"
+
+#: rules/base.xml:6453
+msgid "Left Ctrl+Left Shift"
+msgstr "Kairysis Vald+kairysis Lyg2"
+
+#: rules/base.xml:6459
+msgid "Right Ctrl+Right Shift"
+msgstr "Dešinysis Vald+dešinysis Lyg2"
+
+#: rules/base.xml:6465
+msgid "Alt+Ctrl"
+msgstr "Alt+Vald"
+
+#: rules/base.xml:6471
+msgid "Alt+Shift"
+msgstr "Alt+Lyg2"
+
+#: rules/base.xml:6477
+msgid "Left Alt+Left Shift"
+msgstr "Kairysis Alt+kairysis Lyg2"
+
+#: rules/base.xml:6483
+msgid "Alt+Space"
+msgstr "Alt+Tarpas"
+
+#: rules/base.xml:6489 rules/base.xml:6569 rules/base.xml:7123
+msgid "Menu"
+msgstr "Meniu"
+
+#: rules/base.xml:6495 rules/base.xml:6581 rules/base.xml:7099
+msgid "Left Win"
+msgstr "Kairysis Win"
+
+#: rules/base.xml:6501
+#, fuzzy
+msgid "Win+Space"
+msgstr "Win+Tarpas"
+
+#: rules/base.xml:6507 rules/base.xml:6587 rules/base.xml:7111
+msgid "Right Win"
+msgstr "Dešinysis Win"
+
+#: rules/base.xml:6513
+msgid "Left Shift"
+msgstr "Kairysis Lyg2"
+
+#: rules/base.xml:6519
+msgid "Right Shift"
+msgstr "Dešinysis Lyg2"
+
+#: rules/base.xml:6525 rules/base.xml:7135
+msgid "Left Ctrl"
+msgstr "Kairysis Vald"
+
+#: rules/base.xml:6531 rules/base.xml:6563 rules/base.xml:7147
+msgid "Right Ctrl"
+msgstr "Dešinysis Vald"
+
+#: rules/base.xml:6537 rules/base.xml:6762 rules/base.xml:7195
+msgid "Scroll Lock"
+msgstr "Ekrano slinkimas"
+
+#: rules/base.xml:6543
+#, fuzzy
+msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
+msgstr ""
+"Kairysis Vald+Kairysis Win (į pirmąjį išdėstymą), Dešinysis Vald+Meniu (į "
+"antrąjį išdėstymą)"
+
+#: rules/base.xml:6549
+#, fuzzy
+msgid "Left Ctrl+Left Win"
+msgstr "Kairysis Vald+kairysis Lyg2"
+
+#: rules/base.xml:6558 rules/base.extras.xml:1280
+#, fuzzy
+msgid "Key to choose the 3rd level"
+msgstr "Klavišai trečiajam lygiui pasirinkti"
+
+#: rules/base.xml:6575
+#, fuzzy
+msgid "Any Win"
+msgstr "Bet kuris Win klavišas"
+
+#: rules/base.xml:6593
+#, fuzzy
+msgid "Any Alt"
+msgstr "Bet kuris Alt klavišas"
+
+#: rules/base.xml:6611
+#, fuzzy
+msgid "Right Alt; Shift+Right Alt as Compose"
+msgstr "Dešinysis Alt; Lyg2+dešinysis Alt atlieka Komponavimo klavišo funkciją"
+
+#: rules/base.xml:6617
+#, fuzzy
+msgid "Right Alt never chooses 3rd level"
+msgstr "Dešinysis Alt niekada neįjungia trečiojo lygio"
+
+#: rules/base.xml:6623
+msgid "Enter on keypad"
+msgstr "Įvedimo klavišas skaitmenų srityje"
+
+#: rules/base.xml:6635
+msgid "Backslash"
+msgstr "Kairinis brūkšnys"
+
+#: rules/base.xml:6641 rules/base.xml:7171
+msgid "&lt;Less/Greater&gt;"
+msgstr "Mažiau/Daugiau"
+
+#: rules/base.xml:6647
+#, fuzzy
+msgid ""
+"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
+"chooser"
+msgstr ""
+"Didž klavišas įjungia trečiąjį lygį; veikia kaip tęsties klavišas, kai "
+"naudojamas kartu su kitu trečiojo lygio parinkimo klavišu"
+
+#: rules/base.xml:6653
+#, fuzzy
+msgid ""
+"Backslash; acts as onetime lock when pressed together with another 3rd level "
+"chooser"
+msgstr ""
+"Kairinio brūkšnio klavišas įjungia trečiąjį lygį; veikia kaip tęsties "
+"klavišas, kai naudojamas kartu su kitu trečiojo lygio parinkimo klavišu"
+
+#: rules/base.xml:6659
+#, fuzzy
+msgid ""
+"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
+"another 3rd level chooser"
+msgstr ""
+"Klavišas „Mažiau/Daugiau“ įjungia trečiąjį lygį; veikia kaip tęsties "
+"klavišas, kai naudojamas kartu su kitu trečiojo lygio parinkimo klavišu"
+
+#: rules/base.xml:6667
+#, fuzzy
+msgid "Ctrl position"
+msgstr "Vald klavišo pozicija"
+
+#: rules/base.xml:6672
+msgid "Caps Lock as Ctrl"
+msgstr "Didž klavišui priskirti Vald funkciją"
+
+#: rules/base.xml:6678
+msgid "Left Ctrl as Meta"
+msgstr "Kairiajam Vald klavišui priskirti Meta funkciją"
+
+#: rules/base.xml:6684
+msgid "Swap Ctrl and Caps Lock"
+msgstr "Sukeisti Vald ir Didž klavišus"
+
+#: rules/base.xml:6690
+#, fuzzy
+msgid "Caps Lock as Control, Control as Hyper"
+msgstr "Didž klavišui priskirti Vald funkciją"
+
+#: rules/base.xml:6696
+msgid "At left of 'A'"
+msgstr "Kairėje nuo klavišo „A“"
+
+#: rules/base.xml:6702
+msgid "At bottom left"
+msgstr "Apačioje kairėje"
+
+#: rules/base.xml:6708
+msgid "Right Ctrl as Right Alt"
+msgstr "Dešiniajam Vald klavišui priskirti dešiniojo Alt funkciją"
+
+#: rules/base.xml:6714
+msgid "Menu as Right Ctrl"
+msgstr "Meniu klavišas veikia kaip Dešinysis Vald"
+
+#: rules/base.xml:6720
+#, fuzzy
+msgid "Swap Left Alt with Left Ctrl"
+msgstr "Sukeisti kairįjį Alt klavišą su kairiuoju Vald klavišu"
+
+#: rules/base.xml:6726
+#, fuzzy
+msgid "Swap Left Win with Left Ctrl"
+msgstr "Sukeisti kairįjį Win klavišą su kairiuoju Vald klavišu"
+
+#: rules/base.xml:6731
+#, fuzzy
+msgid "Swap Right Win with Right Ctrl"
+msgstr "Sukeisti dešinįjį Win klavišą su dešiniuoju Vald klavišu"
+
+#: rules/base.xml:6737
+#, fuzzy
+msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Left Alt"
+msgstr ""
+"Kairiajam Alt suteikti Vald funkciją, kairiajam Vald – Win f-ją, kairiajam "
+"Win – Alt f-ją."
+
+#: rules/base.xml:6745
+msgid "Use keyboard LED to show alternative layout"
+msgstr "Klaviatūros diodu indikuoti nepagrindinius išdėstymus"
+
+#: rules/base.xml:6750
+msgid "Num Lock"
+msgstr "Skaitmenys"
+
+#: rules/base.xml:6770
+#, fuzzy
+msgid "Use keyboard LED to indicate modifiers"
+msgstr "Klaviatūros diodu indikuoti nepagrindinius išdėstymus"
+
+#: rules/base.xml:6775
+msgid "Compose"
+msgstr ""
+
+#: rules/base.xml:6783
+msgid "Layout of numeric keypad"
+msgstr "Skaitmenų srities išdėstymas"
+
+#: rules/base.xml:6788
+msgid "Legacy"
+msgstr "Senasis"
+
+#: rules/base.xml:6794
+msgid "Unicode additions (arrows and math operators)"
+msgstr "Unikodiniai priedai (rodyklės ir matematiniai operatoriai)"
+
+#: rules/base.xml:6800
+msgid ""
+"Unicode additions (arrows and math operators; math operators on default "
+"level)"
+msgstr ""
+"Unikodiniai priedai (rodyklės ir matematiniai operatoriai; matematiniai "
+"operatoriai numatytame lygyje)"
+
+#: rules/base.xml:6806
+msgid "Legacy Wang 724"
+msgstr "Senasis „Wang 724“"
+
+#: rules/base.xml:6812
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
+msgstr ""
+"„Wang 724“ skaitmenų sritis su unikodiniais priedais (rodyklėmis ir "
+"matematiniais operatoriais)"
+
+#: rules/base.xml:6818
+msgid ""
+"Wang 724 keypad with Unicode additions (arrows and math operators; math "
+"operators on default level)"
+msgstr ""
+"„Wang 724“ skaitmenų sritis su unikodiniais priedais (rodyklėmis ir "
+"matematiniais operatoriais; matematiniai operatoriai pagrindiniame lygyje)"
+
+#: rules/base.xml:6824
+msgid "Hexadecimal"
+msgstr "Šešioliktainė"
+
+#: rules/base.xml:6830
+msgid "ATM/phone-style"
+msgstr "Bankomato/telefono tipo"
+
+#: rules/base.xml:6839
+#, fuzzy
+msgid "Numeric keypad Delete behavior"
+msgstr "Skaitmenų srities Šalinimo klavišo veiksena"
+
+#: rules/base.xml:6845
+msgid "Legacy key with dot"
+msgstr "Senojo tipo klavišas su tašku"
+
+#. Actually, with KP_SEPARATOR, as the old keypad(comma)
+#: rules/base.xml:6852
+msgid "Legacy key with comma"
+msgstr "Senojo tipo klavišas su kableliu"
+
+#: rules/base.xml:6858
+msgid "Four-level key with dot"
+msgstr "Keturių lygių, pirmajame taškas"
+
+#: rules/base.xml:6864
+msgid "Four-level key with dot, Latin-9 only"
+msgstr "Keturių lygių, pirmajame taškas, Latin-9 ribojimas"
+
+#: rules/base.xml:6870
+msgid "Four-level key with comma"
+msgstr "Keturių lygių, pirmajame kablelis"
+
+#: rules/base.xml:6876
+msgid "Four-level key with momayyez"
+msgstr "Keturių lygių, pirmajame persiškas skyriklis (momayyez)"
+
+#. This assumes the KP_ abstract symbols are actually useful for some apps
+#. The description needs to be rewritten
+#: rules/base.xml:6884
+msgid "Four-level key with abstract separators"
+msgstr "Keturių lygių, su abstrakčiais skyrikliais"
+
+#: rules/base.xml:6890
+msgid "Semicolon on third level"
+msgstr "Kabliataškis trečiajame lygyje"
+
+#: rules/base.xml:6900
+#, fuzzy
+msgid "Caps Lock behavior"
+msgstr "Didžiųjų raidžių klavišo veiksena"
+
+#: rules/base.xml:6905
+msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
+msgstr ""
+"Didž įjungia įtaisytąjį raidžių vertimą didžiosiomis; Lyg2 pristabdo Didž "
+"klavišo veikimą"
+
+#: rules/base.xml:6911
+#, fuzzy
+msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
+msgstr ""
+"Didž įjungia įtaisytąjį raidžių vertimą didžiosiomis; Lyg2 neįtakoja Didž "
+"klavišo veikimo"
+
+#: rules/base.xml:6917
+msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
+msgstr "Didž klavišas veikia Lyg2 su fiksavimu; Lyg2 pristabdo Didž veikimą"
+
+#: rules/base.xml:6923
+#, fuzzy
+msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
+msgstr ""
+"Didž klavišas veikia kaip Lyg2 su fiksavimu; Lyg2 neįtakoja Didž veikimo"
+
+#: rules/base.xml:6929
+msgid "Caps Lock toggles normal capitalization of alphabetic characters"
+msgstr "Didž klavišas įjungia įprastą raidžių vertimą didžiosiomis"
+
+#: rules/base.xml:6935
+msgid "Caps Lock toggles ShiftLock (affects all keys)"
+msgstr ""
+"Didž klavišas veikia kaip nuolat nuspaustas Lyg2 (įtakoja visus klavišus)"
+
+#: rules/base.xml:6941
+msgid "Swap ESC and Caps Lock"
+msgstr "Sukeisti Gr ir Didž klavišus"
+
+#: rules/base.xml:6947
+#, fuzzy
+msgid "Make Caps Lock an additional Esc"
+msgstr "Didž klavišą paversti papildomu Gr klavišu"
+
+#: rules/base.xml:6953
+msgid ""
+"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
+"like regular Caps Lock"
+msgstr ""
+
+#: rules/base.xml:6959
+msgid "Make Caps Lock an additional Backspace"
+msgstr "Didž klavišą paversti papildomu Naikinimo kairėn klavišu"
+
+#: rules/base.xml:6965
+msgid "Make Caps Lock an additional Super"
+msgstr "Didž klavišą paversti papildomu Super klavišu"
+
+#: rules/base.xml:6971
+msgid "Make Caps Lock an additional Hyper"
+msgstr "Didž klavišą paversti papildomu Hyper klavišu"
+
+#: rules/base.xml:6977
+#, fuzzy
+msgid "Make Caps Lock an additional Menu key"
+msgstr "Didž klavišą paversti papildomu Super klavišu"
+
+#: rules/base.xml:6983
+msgid "Make Caps Lock an additional Num Lock"
+msgstr "Didž klavišą paversti papildomu Skaitm klavišu"
+
+#: rules/base.xml:6989
+#, fuzzy
+msgid "Caps Lock is also a Ctrl"
+msgstr "Didž klavišui priskirti Vald funkciją"
+
+#: rules/base.xml:6995
+msgid "Caps Lock is disabled"
+msgstr "Didž klavišas nenaudojamas"
+
+#: rules/base.xml:7003
+msgid "Alt/Win key behavior"
+msgstr "Alt ir Win klavišų elgsena"
+
+#: rules/base.xml:7008
+msgid "Add the standard behavior to Menu key"
+msgstr "Meniu klavišui priskirti standartinę veikseną"
+
+#: rules/base.xml:7014
+#, fuzzy
+msgid "Menu is mapped to Win"
+msgstr "Win klavišams priskirti Meta funkciją"
+
+#: rules/base.xml:7020
+#, fuzzy
+msgid "Alt and Meta are on Alt"
+msgstr "Alt ir Meta funkcijos priskirtos Alt klavišams"
+
+#: rules/base.xml:7026
+#, fuzzy
+msgid "Alt is mapped to Win and the usual Alt"
+msgstr "Alt funkciją priskirti Win klavišams bei įprastiems Alt klavišams"
+
+#: rules/base.xml:7032
+#, fuzzy
+msgid "Ctrl is mapped to Win and the usual Ctrl keys"
+msgstr "Vald funkciją priskirti Win klavišams ir įprastiems Vald klavišams"
+
+#: rules/base.xml:7038
+#, fuzzy
+msgid "Ctrl is mapped to Alt; Alt is mapped to Win"
+msgstr "Vald funkciją priskirti Alt klavišams, o Alt funkciją – Win klavišams"
+
+#: rules/base.xml:7044
+#, fuzzy
+msgid "Meta is mapped to Win"
+msgstr "Win klavišams priskirti Meta funkciją"
+
+#: rules/base.xml:7050
+msgid "Meta is mapped to Left Win"
+msgstr "Kairiajam Win klavišui priskirti Meta funkciją"
+
+#: rules/base.xml:7056
+#, fuzzy
+msgid "Hyper is mapped to Win"
+msgstr "Win klavišams priskirti Hyper funkciją"
+
+#: rules/base.xml:7062
+msgid "Alt is mapped to Right Win, Super to Menu"
+msgstr ""
+"Dešiniajam Win klavišui priskirti Alt funkciją, o Meniu klavišui – Super "
+"funkciją"
+
+#: rules/base.xml:7068
+#, fuzzy
+msgid "Left Alt is swapped with Left Win"
+msgstr "Sukeisti Alt ir Win klavišų funkcijas vietomis"
+
+#: rules/base.xml:7074
+msgid "Alt is swapped with Win"
+msgstr "Sukeisti Alt ir Win klavišų funkcijas vietomis"
+
+#: rules/base.xml:7080
+#, fuzzy
+msgid "Win is mapped to PrtSc and the usual Win"
+msgstr "Alt funkciją priskirti Win klavišams bei įprastiems Alt klavišams"
+
+#: rules/base.xml:7088
+msgid "Position of Compose key"
+msgstr "Komponavimo klavišo pozicija"
+
+#: rules/base.xml:7105
+msgid "3rd level of Left Win"
+msgstr "Trečiasis kairiojo Win klavišo lygis"
+
+#: rules/base.xml:7117
+msgid "3rd level of Right Win"
+msgstr "Trečiasis dešiniojo Win klavišo lygis"
+
+#: rules/base.xml:7129
+msgid "3rd level of Menu"
+msgstr "Trečiasis Meniu klavišo lygis"
+
+#: rules/base.xml:7141
+msgid "3rd level of Left Ctrl"
+msgstr "Trečiasis kairiojo Vald klavišo lygis"
+
+#: rules/base.xml:7153
+msgid "3rd level of Right Ctrl"
+msgstr "Trečiasis dešiniojo Vald klavišo lygis"
+
+#: rules/base.xml:7165
+msgid "3rd level of Caps Lock"
+msgstr "Trečiasis Didž klavišo lygis"
+
+#: rules/base.xml:7177
+msgid "3rd level of &lt;Less/Greater&gt;"
+msgstr "Trečiasis „Mažiau/Daugiau“ klavišo lygis"
+
+#: rules/base.xml:7183
+msgid "Pause"
+msgstr "Pauzė"
+
+#: rules/base.xml:7189
+msgid "PrtSc"
+msgstr "Sp"
+
+#: rules/base.xml:7202
+msgid "Miscellaneous compatibility options"
+msgstr "Įvairios suderinamumo nuostatos"
+
+#: rules/base.xml:7207
+msgid "Default numeric keypad keys"
+msgstr "Numatytieji skaitmenų srities klavišai"
+
+#: rules/base.xml:7213
+#, fuzzy
+msgid "Numeric keypad always enters digits (as in macOS)"
+msgstr ""
+"Skaitmenų srities klavišais visuomet įvedami skaitmenys (kaip „Mac OS“)"
+
+#: rules/base.xml:7219
+msgid ""
+"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
+"Windows)"
+msgstr ""
+
+#: rules/base.xml:7225
+msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
+msgstr "Lyg2 nepristabdo Skaitm veikimo, bet įjungia trečiąjį lygį"
+
+#: rules/base.xml:7231
+msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
+msgstr "Specialiosios sekos (Vald+Alt+&lt;klavišas&gt;) apdorojamos serveryje"
+
+#: rules/base.xml:7237
+#, fuzzy
+msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
+msgstr ""
+"Apple aliumininė klaviatūra: emuliuoti PC klavišus (Sp, Slinkti, Pauzė, "
+"Skaitm)"
+
+#: rules/base.xml:7243
+msgid "Shift cancels Caps Lock"
+msgstr "Lyg2 nutraukia Didž veikimą"
+
+#: rules/base.xml:7249
+msgid "Enable extra typographic characters"
+msgstr "Įjungti papildomus tipografinius simbolius"
+
+#: rules/base.xml:7255
+#, fuzzy
+msgid "Both Shift together enable Caps Lock"
+msgstr ""
+"Vienu metu nuspausti abu Lyg2 klavišai įjungia / išjungia didžiąsias raides"
+
+#: rules/base.xml:7261
+#, fuzzy
+msgid "Both Shift together enable Caps Lock; one Shift key disables it"
+msgstr ""
+"Vienu metu nuspausti abu Lyg2 klavišai įjungia didžiąsias raides, nuspaustas "
+"vienas Lyg2 jas išjungia"
+
+#: rules/base.xml:7267
+#, fuzzy
+msgid "Both Shift together enable Shift Lock"
+msgstr "Vienu metu nuspausti abu Lyg2 klavišai įjungia / išjungia antrąjį lygį"
+
+#: rules/base.xml:7273
+#, fuzzy
+msgid "Shift + Num Lock enables PointerKeys"
+msgstr ""
+"Lyg2+Skaitm įjungia / išjungia pelės žymeklio valdymą skaitmenų srities "
+"klavišais."
+
+#: rules/base.xml:7279
+msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
+msgstr ""
+"Leisti klaviatūros veiksmais nutraukti jos užvaldymą (įspėjame: saugumo "
+"spraga)"
+
+#: rules/base.xml:7285
+msgid "Allow grab and window tree logging"
+msgstr "Leisti klaviatūros užvaldymo ir langų medžio įrašymą"
+
+#: rules/base.xml:7293
+msgid "Adding currency signs to certain keys"
+msgstr "Valiutų simbolių įvedimas pasirinktais klavišais"
+
+#: rules/base.xml:7298
+msgid "Euro on E"
+msgstr "Euro ženklas klavišo E trečiajame lygyje"
+
+#: rules/base.xml:7304
+msgid "Euro on 2"
+msgstr "Euro ženklas klavišo 2 trečiajame lygyje"
+
+#: rules/base.xml:7310
+msgid "Euro on 4"
+msgstr "Euro ženklas klavišo 4 trečiajame lygyje"
+
+#: rules/base.xml:7316
+msgid "Euro on 5"
+msgstr "Euro ženklas klavišo 5 trečiajame lygyje"
+
+#: rules/base.xml:7322
+msgid "Rupee on 4"
+msgstr "Rupijos ženklas klavišo 4 trečiajame lygyje"
+
+#: rules/base.xml:7329
+msgid "Key to choose 5th level"
+msgstr "Klavišai penktajam lygiui pasirinkti"
+
+#: rules/base.xml:7334
+#, fuzzy
+msgid "&lt;Less/Greater&gt; chooses 5th level"
+msgstr "Mažiau/Daugiau"
+
+#: rules/base.xml:7340
+#, fuzzy
+msgid "Right Alt chooses 5th level"
+msgstr "Klavišai penktajam lygiui pasirinkti"
+
+#: rules/base.xml:7346
+#, fuzzy
+msgid ""
+"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
+"together with another 5th level chooser"
+msgstr ""
+"Klavišas „Mažiau/Daugiau“ įjungia trečiąjį lygį; veikia kaip tęsties "
+"klavišas, kai naudojamas kartu su kitu trečiojo lygio parinkimo klavišu"
+
+#: rules/base.xml:7352
+#, fuzzy
+msgid ""
+"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
+"another 5th level chooser"
+msgstr ""
+"Dešinysis Alt įjungia penktąjį lygį, arba jį užfiksuoja, jeigu naudojamas "
+"kartu su kitu penktojo lygio parinkimo klavišu"
+
+#: rules/base.xml:7358
+#, fuzzy
+msgid ""
+"Left Win chooses 5th level; acts as onetime lock when pressed together with "
+"another 5th level chooser"
+msgstr ""
+"Kairysis Win įjungia penktąjį lygį, arba jį užfiksuoja, jeigu naudojamas "
+"kartu su kitu penktojo lygio parinkimo klavišu"
+
+#: rules/base.xml:7364
+#, fuzzy
+msgid ""
+"Right Win chooses 5th level; acts as onetime lock when pressed together with "
+"another 5th level chooser"
+msgstr ""
+"Dešinysis Win įjungia penktąjį lygį, arba jį užfiksuoja, jeigu naudojamas "
+"kartu su kitu penktojo lygio parinkimo klavišu"
+
+#: rules/base.xml:7410
+#, fuzzy
+msgid "Using space key to input non-breaking space"
+msgstr "Tarpo klavišo naudojimas jungiamajam tarpui įvesti"
+
+#: rules/base.xml:7415
+msgid "Usual space at any level"
+msgstr "Įprastas tarpas visuose lygiuose"
+
+#: rules/base.xml:7421
+#, fuzzy
+msgid "Non-breaking space at the 2nd level"
+msgstr "Jungiamasis tarpas antrajame lygyje"
+
+#: rules/base.xml:7427
+#, fuzzy
+msgid "Non-breaking space at the 3rd level"
+msgstr "Jungiamasis tarpas trečiajame lygyje"
+
+#: rules/base.xml:7433
+#, fuzzy
+msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Jungiamasis tarpas trečiajame lygyje, ketvirtajame lygyje nieko"
+
+#: rules/base.xml:7439
+#, fuzzy
+msgid ""
+"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr ""
+"Jungiamasis tarpas trečiajame lygyje, siauras jungiamasis tarpas "
+"ketvirtajame lygyje"
+
+#: rules/base.xml:7445
+#, fuzzy
+msgid "Non-breaking space at the 4th level"
+msgstr "Jungiamasis tarpas trečiajame lygyje"
+
+#: rules/base.xml:7451
+#, fuzzy
+msgid ""
+"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr ""
+"Jungiamasis tarpas trečiajame lygyje, siauras jungiamasis tarpas "
+"ketvirtajame lygyje"
+
+#: rules/base.xml:7457
+#, fuzzy
+msgid ""
+"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
+"level (via Ctrl+Shift)"
+msgstr ""
+"Jungiamasis tarpas ketvirtajame lygyje, siauras jungiamasis tarpas šeštajame "
+"lygyje (Vald+Lyg2)"
+
+#: rules/base.xml:7463
+#, fuzzy
+msgid "Zero-width non-joiner at the 2nd level"
+msgstr "Nulinio pločio skirtukas antrajame lygyje"
+
+#: rules/base.xml:7469
+#, fuzzy
+msgid ""
+"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr ""
+"Nulinio pločio skirtukas trečiajame lygyje, nulinio pločio jungtukas "
+"ketvirtajame lygyje"
+
+#: rules/base.xml:7475
+#, fuzzy
+msgid ""
+"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
+"non-breaking space at the 4th level"
+msgstr ""
+"Nulinio pločio skirtukas antrajame lygyje, nulinio pločio jungtukas "
+"trečiajame lygyje, jungiamasis tarpas ketvirtajame lygyje"
+
+#: rules/base.xml:7481
+#, fuzzy
+msgid ""
+"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr ""
+"Nulinio pločio skirtukas antrajame lygyje, jungiamasis tarpas trečiajame "
+"lygyje"
+
+#: rules/base.xml:7487
+#, fuzzy
+msgid ""
+"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
+"nothing at the 4th level"
+msgstr ""
+"Nulinio pločio skirtukas antrajame lygyje, jungiamasis tarpas trečiajame "
+"lygyje, ketvirtajame lygyje nieko"
+
+#: rules/base.xml:7493
+#, fuzzy
+msgid ""
+"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
+"zero-width joiner at the 4th level"
+msgstr ""
+"Nulinio pločio skirtukas antrajame lygyje, jungiamasis tarpas trečiajame "
+"lygyje, nulinio pločio jungtukas ketvirtajame lygyje"
+
+#: rules/base.xml:7499
+#, fuzzy
+msgid ""
+"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
+"thin non-breaking space at the 4th level"
+msgstr ""
+"Nulinio pločio skirtukas antrajame lygyje, jungiamasis tarpas trečiajame "
+"lygyje, siauras jungiamasis tarpas ketvirtajame lygyje"
+
+#: rules/base.xml:7505
+#, fuzzy
+msgid ""
+"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr ""
+"Nulinio pločio skirtukas trečiajame lygyje, nulinio pločio jungtukas "
+"ketvirtajame lygyje"
+
+#: rules/base.xml:7512
+msgid "Japanese keyboard options"
+msgstr "Nuostatos japoninei klaviatūrai"
+
+#: rules/base.xml:7517
+msgid "Kana Lock key is locking"
+msgstr "Kana Lock klavišas fiksuojantis"
+
+#: rules/base.xml:7523
+msgid "NICOLA-F style Backspace"
+msgstr "NICOLA-F tipo naikinimas kairėn"
+
+#: rules/base.xml:7529
+#, fuzzy
+msgid "Make Zenkaku Hankaku an additional Esc"
+msgstr "„Zenkaku Hankaku“ klavišą paversti papildomu Gr klavišu"
+
+#: rules/base.xml:7536
+msgid "Korean Hangul/Hanja keys"
+msgstr ""
+
+#: rules/base.xml:7541
+msgid "Make right Alt a Hangul key"
+msgstr ""
+
+#: rules/base.xml:7547
+msgid "Make right Ctrl a Hangul key"
+msgstr ""
+
+#: rules/base.xml:7553
+msgid "Make right Alt a Hanja key"
+msgstr ""
+
+#: rules/base.xml:7559
+msgid "Make right Ctrl a Hanja key"
+msgstr ""
+
+#: rules/base.xml:7566
+msgid "Adding Esperanto supersigned letters"
+msgstr "Esperanto raidžių su diakritikais įvedimas"
+
+#: rules/base.xml:7571
+#, fuzzy
+msgid "To the corresponding key in a QWERTY layout"
+msgstr "Atitinkamais QWERTY išdėstymo klavišais"
+
+#: rules/base.xml:7577
+msgid "To the corresponding key in a Dvorak layout"
+msgstr "Atitinkamais Dvorako išdėstymo klavišais"
+
+#: rules/base.xml:7583
+msgid "To the corresponding key in a Colemak layout"
+msgstr "Atitinkamais „Colemak“ išdėstymo klavišais"
+
+#: rules/base.xml:7590
+msgid "Maintain key compatibility with old Solaris keycodes"
+msgstr "Išlaikyti klavišų suderinamumą su senais „Solaris“ klavišų kodais"
+
+#: rules/base.xml:7595
+msgid "Sun Key compatibility"
+msgstr "Suderinamumas su „Sun“ klavišais"
+
+#: rules/base.xml:7602
+msgid "Key sequence to kill the X server"
+msgstr "Klavišų seka X serverio darbui nutraukti"
+
+#: rules/base.xml:7607
+#, fuzzy
+msgid "Ctrl+Alt+Backspace"
+msgstr "Vald+Alt+Naikinimas iš kairės"
+
+#: rules/base.extras.xml:9
+msgid "apl"
+msgstr "apl"
+
+#: rules/base.extras.xml:10
+msgid "APL"
+msgstr "APL"
+
+#: rules/base.extras.xml:19
+msgid "dlg"
+msgstr "dlg"
+
+#: rules/base.extras.xml:20
+msgid "Dyalog APL complete"
+msgstr ""
+
+#: rules/base.extras.xml:26
+msgid "sax"
+msgstr "sax"
+
+#: rules/base.extras.xml:27
+#, fuzzy
+msgid "APL Keyboard Symbols: sax"
+msgstr "APL klaviatūros simboliai („sax“)"
+
+#: rules/base.extras.xml:33
+msgid "ufd"
+msgstr "ufd"
+
+#: rules/base.extras.xml:34
+#, fuzzy
+msgid "APL Keyboard Symbols: Unified Layout"
+msgstr "APL klaviatūros simboliai (unifikuotieji)"
+
+#: rules/base.extras.xml:40
+msgid "apl2"
+msgstr "apl2"
+
+#: rules/base.extras.xml:41
+#, fuzzy
+msgid "APL Keyboard Symbols: IBM APL2"
+msgstr "APL klaviatūros simboliai (IBM APL2)"
+
+#: rules/base.extras.xml:47
+msgid "aplII"
+msgstr "aplII"
+
+#: rules/base.extras.xml:48
+#, fuzzy
+msgid "APL Keyboard Symbols: Manugistics APL*PLUS II"
+msgstr "APL klaviatūros simboliai („Manugistics APL*PLUS II“)"
+
+#: rules/base.extras.xml:54
+msgid "aplx"
+msgstr "aplx"
+
+#: rules/base.extras.xml:55
+#, fuzzy
+msgid "APL Keyboard Symbols: APLX Unified APL Layout"
+msgstr "APL klaviatūros simboliai (APLX unifikuotieji)"
+
+#: rules/base.extras.xml:73
+msgid "kut"
+msgstr "kut"
+
+#: rules/base.extras.xml:74
+msgid "Kutenai"
+msgstr "Kutenai"
+
+#: rules/base.extras.xml:80
+msgid "shs"
+msgstr "shs"
+
+#: rules/base.extras.xml:81
+msgid "Secwepemctsin"
+msgstr "Šušvapų"
+
+#: rules/base.extras.xml:87
+msgid "Multilingual (Canada, Sun Type 6/7)"
+msgstr "Daugiakalbis (Kanada, „Sun Type 6/7“)"
+
+#: rules/base.extras.xml:105
+#, fuzzy
+msgid "German (US, with German letters)"
+msgstr "Vokiečių (JAV klaviatūra su vokiškomis raidėmis)"
+
+#: rules/base.extras.xml:114
+msgid "German (with Hungarian letters and no dead keys)"
+msgstr "Vokiečių (su vengriškais rašmenimis, be tęsties klavišų)"
+
+#: rules/base.extras.xml:124
+#, fuzzy
+msgid "Polish (Germany, no dead keys)"
+msgstr "Vokiečių (su „Sun“ tęsties klavišais)"
+
+#: rules/base.extras.xml:134
+msgid "German (Sun Type 6/7)"
+msgstr "Vokiečių („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:140
+msgid "German (Aus der Neo-Welt)"
+msgstr "Vokiečių („Aus der Neo-Welt“)"
+
+#: rules/base.extras.xml:146
+#, fuzzy
+msgid "German (KOY)"
+msgstr "Vokiečių (T3)"
+
+#: rules/base.extras.xml:152
+#, fuzzy
+msgid "German (Bone)"
+msgstr "Vokiečių (T3)"
+
+#: rules/base.extras.xml:158
+msgid "German (Bone, eszett home row)"
+msgstr ""
+
+#: rules/base.extras.xml:164
+#, fuzzy
+msgid "German (Neo qwertz)"
+msgstr "Vokiečių (QWERTY)"
+
+#: rules/base.extras.xml:170
+#, fuzzy
+msgid "German (Neo qwerty)"
+msgstr "Vokiečių (QWERTY)"
+
+#: rules/base.extras.xml:178
+#, fuzzy
+msgid "Russian (Germany, recommended)"
+msgstr "Rusų (Vokietija, fonetinis)"
+
+#: rules/base.extras.xml:189
+#, fuzzy
+msgid "Russian (Germany, transliteration)"
+msgstr "Rusų (Vokietija, fonetinis)"
+
+#: rules/base.extras.xml:198
+msgid "de_lld"
+msgstr ""
+
+#: rules/base.extras.xml:199
+#, fuzzy
+msgid "German Ladin"
+msgstr "Vokiečių („Macintosh“)"
+
+#: rules/base.extras.xml:217
+msgid "oldhun"
+msgstr ""
+
+#: rules/base.extras.xml:218
+#, fuzzy
+msgid "Old Hungarian"
+msgstr "Vengrų"
+
+#: rules/base.extras.xml:236
+msgid "Avestan"
+msgstr "Avestos"
+
+#: rules/base.extras.xml:257
+msgid "Lithuanian (US Dvorak with Lithuanian letters)"
+msgstr "Lietuvių (JAV Dvorako klaviatūra su lietuviškais rašmenimis)"
+
+#: rules/base.extras.xml:263
+msgid "Lithuanian (Sun Type 6/7)"
+msgstr "Lietuvių („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:281
+msgid "Latvian (US Dvorak)"
+msgstr "Latvių (JAV Dvorako)"
+
+#: rules/base.extras.xml:287
+msgid "Latvian (US Dvorak, Y variant)"
+msgstr "Latvių (JAV Dvorako, Y variantas)"
+
+#: rules/base.extras.xml:293
+msgid "Latvian (US Dvorak, minus variant)"
+msgstr "Latvių (JAV Dvorako, minuso variantas)"
+
+#: rules/base.extras.xml:299
+msgid "Latvian (programmer US Dvorak)"
+msgstr "Latvių (programuotojų JAV Dvorako)"
+
+#: rules/base.extras.xml:305
+msgid "Latvian (programmer US Dvorak, Y variant)"
+msgstr "Latvių (programuotojų JAV Dvorako, Y variantas)"
+
+#: rules/base.extras.xml:311
+msgid "Latvian (programmer US Dvorak, minus variant)"
+msgstr "Latvių (programuotojų JAV Dvorako, minuso variantas)"
+
+#: rules/base.extras.xml:317
+msgid "Latvian (US Colemak)"
+msgstr "Latvių (JAV „Colemak“)"
+
+#: rules/base.extras.xml:323
+msgid "Latvian (US Colemak, apostrophe variant)"
+msgstr "Latvių (JAV „Colemak“, apostrofo variantas)"
+
+#: rules/base.extras.xml:329
+msgid "Latvian (Sun Type 6/7)"
+msgstr "Latvių („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:347
+msgid "English (US, international AltGr Unicode combining)"
+msgstr "Anglų (JAV, tarptautinis, unikodo ženklai kombinuojami Lyg3 klavišu)"
+
+#: rules/base.extras.xml:353
+msgid "English (US, international AltGr Unicode combining, alternative)"
+msgstr ""
+"Anglų (JAV, tarptautinis, unikodo ženklai kombinuojami Lyg3 klavišu, "
+"alternatyvus)"
+
+#: rules/base.extras.xml:359
+msgid "Atsina"
+msgstr "Atsinų"
+
+#: rules/base.extras.xml:366
+msgid "Coeur d'Alene Salish"
+msgstr "Sališų (Coeur D'Alene)"
+
+#: rules/base.extras.xml:375
+msgid "Czech Slovak and German (US)"
+msgstr "Čekų, slovakų ir vokiečių (JAV)"
+
+#: rules/base.extras.xml:387
+#, fuzzy
+msgid "English (Drix)"
+msgstr "Anglų (Dvorako)"
+
+#: rules/base.extras.xml:393
+#, fuzzy
+msgid "German, Swedish and Finnish (US)"
+msgstr "Vokiečių (Šveicarija, „Macintosh“)"
+
+#: rules/base.extras.xml:405
+#, fuzzy
+msgid "English (US, IBM Arabic 238_L)"
+msgstr "Anglų (Pietų Afrika)"
+
+#: rules/base.extras.xml:411
+msgid "English (US, Sun Type 6/7)"
+msgstr "Anglų (JAV, „Sun Type 6/7“)"
+
+#: rules/base.extras.xml:417
+#, fuzzy
+msgid "English (Carpalx)"
+msgstr "Anglų (Kanada)"
+
+#: rules/base.extras.xml:423
+#, fuzzy
+msgid "English (Carpalx, intl., with dead keys)"
+msgstr "Anglų (Dvorako, tarptautinis, su tęsties klavišais)"
+
+#: rules/base.extras.xml:429
+#, fuzzy
+msgid "English (Carpalx, intl., with AltGr dead keys)"
+msgstr "Anglų (tarptautinis, tęsties klavišai pasiekiami per Lyg3 klavišą)"
+
+#: rules/base.extras.xml:435
+#, fuzzy
+msgid "English (Carpalx, full optimization)"
+msgstr "Anglų (Malis, JAV tarptautinis)"
+
+#: rules/base.extras.xml:441
+#, fuzzy
+msgid "English (Carpalx, full optimization, intl., with dead keys)"
+msgstr "Anglų (Dvorako, tarptautinis, su tęsties klavišais)"
+
+#: rules/base.extras.xml:447
+#, fuzzy
+msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
+msgstr "Anglų (Dvorako, tarptautinis, su tęsties klavišais)"
+
+#: rules/base.extras.xml:453
+#, fuzzy
+msgid "English (3l)"
+msgstr "Anglų (JAV)"
+
+#: rules/base.extras.xml:459
+#, fuzzy
+msgid "English (3l, chromebook)"
+msgstr "Anglų (Kamerūnas)"
+
+#: rules/base.extras.xml:465
+msgid "Sicilian (US keyboard)"
+msgstr ""
+
+#: rules/base.extras.xml:488
+#, fuzzy
+msgid "Polish (intl., with dead keys)"
+msgstr "Lenkų (tarptautinis, su tęsties klavišais)"
+
+#: rules/base.extras.xml:494
+msgid "Polish (Colemak)"
+msgstr "Lenkų („Colemak“)"
+
+#: rules/base.extras.xml:500
+msgid "Polish (Sun Type 6/7)"
+msgstr "Lenkų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:506
+#, fuzzy
+msgid "Polish (Glagolica)"
+msgstr "Lenkų (senasis)"
+
+#: rules/base.extras.xml:525
+msgid "Crimean Tatar (Dobruja Q)"
+msgstr "Krymo totorių (Dobrudža Q)"
+
+#: rules/base.extras.xml:534
+msgid "Romanian (ergonomic Touchtype)"
+msgstr "Rumunų (ergonominis, aklojo rašymo)"
+
+#: rules/base.extras.xml:540
+msgid "Romanian (Sun Type 6/7)"
+msgstr "Rumunų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:558
+msgid "Serbian (combining accents instead of dead keys)"
+msgstr "Serbų (kombinaciniai diakritikai vietoje tęsties klavišų)"
+
+#: rules/base.extras.xml:573
+msgid "Church Slavonic"
+msgstr "Bažnytinė slavų"
+
+#: rules/base.extras.xml:583
+msgid "Russian (with Ukrainian-Belorussian layout)"
+msgstr "Rusų (su ukrainietiškais ir baltarusiškais rašmenimis)"
+
+#: rules/base.extras.xml:594
+#, fuzzy
+msgid "Russian (Rulemak, phonetic Colemak)"
+msgstr "Rusų (Lenkija, fonetinis Dvorako)"
+
+#: rules/base.extras.xml:600
+#, fuzzy
+msgid "Russian (phonetic Macintosh)"
+msgstr "Rusų („Windows“ fonetinis)"
+
+#: rules/base.extras.xml:606
+msgid "Russian (Sun Type 6/7)"
+msgstr "Rusų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:612
+#, fuzzy
+msgid "Russian (with US punctuation)"
+msgstr "Rusų (JAV, fonetinis)"
+
+#: rules/base.extras.xml:619
+#, fuzzy
+msgid "Russian (Polyglot and Reactionary)"
+msgstr "Rusų (Lenkija, fonetinis Dvorako)"
+
+#: rules/base.extras.xml:705
+msgid "Armenian (OLPC phonetic)"
+msgstr "Armėnų (OLPC fonetinis)"
+
+#: rules/base.extras.xml:723
+msgid "Hebrew (Biblical, SIL phonetic)"
+msgstr "Hebrajų (biblinė, SIL fonetinis)"
+
+#: rules/base.extras.xml:741
+msgid "Arabic (Sun Type 6/7)"
+msgstr "Arabų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:747
+msgid ""
+"Arabic (with extensions for Arabic-written other languages and European "
+"digits preferred)"
+msgstr ""
+
+#: rules/base.extras.xml:753
+msgid ""
+"Arabic (with extensions for Arabic-written other languages and Arabic digits "
+"preferred)"
+msgstr ""
+
+#: rules/base.extras.xml:759
+msgid "Ugaritic instead of Arabic"
+msgstr ""
+
+#: rules/base.extras.xml:774
+msgid "Belgian (Sun Type 6/7)"
+msgstr "Belgų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:789
+msgid "Portuguese (Brazil, Sun Type 6/7)"
+msgstr "Portugalų (Brazilija, „Sun Type 6/7“)"
+
+#: rules/base.extras.xml:804
+msgid "Czech (Sun Type 6/7)"
+msgstr "Čekų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:810
+msgid "Czech (programming)"
+msgstr ""
+
+#: rules/base.extras.xml:816
+#, fuzzy
+msgid "Czech (typographic)"
+msgstr "Čekų (QWERTY)"
+
+#: rules/base.extras.xml:822
+#, fuzzy
+msgid "Czech (coder)"
+msgstr "Čekų (QWERTY)"
+
+#: rules/base.extras.xml:828
+msgid "Czech (programming, typographic)"
+msgstr ""
+
+#: rules/base.extras.xml:843
+msgid "Danish (Sun Type 6/7)"
+msgstr "Ispanų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:858
+msgid "Dutch (Sun Type 6/7)"
+msgstr "Olandų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:873
+msgid "Estonian (Sun Type 6/7)"
+msgstr "Estų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:888
+msgid "Finnish (Sun Type 6/7)"
+msgstr "Suomių („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:894
+#, fuzzy
+msgid "Finnish (DAS)"
+msgstr "Suomių"
+
+#: rules/base.extras.xml:900
+#, fuzzy
+msgid "Finnish (Dvorak)"
+msgstr "Danų (Dvorako)"
+
+#: rules/base.extras.xml:915
+msgid "French (Sun Type 6/7)"
+msgstr "Prancūzų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:921
+msgid "French (US, with French letters, with dead keys, alternative)"
+msgstr ""
+
+#: rules/base.extras.xml:927
+#, fuzzy
+msgid "French (US, AZERTY)"
+msgstr "Prancūzų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:942
+msgid "Greek (Sun Type 6/7)"
+msgstr "Graikų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:948
+#, fuzzy
+msgid "Greek (Colemak)"
+msgstr "Norvegų („Colemak“)"
+
+#: rules/base.extras.xml:963
+msgid "Italian (Sun Type 6/7)"
+msgstr "Italų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:969
+msgid "it_lld"
+msgstr ""
+
+#: rules/base.extras.xml:970
+#, fuzzy
+msgid "Italian Ladin"
+msgstr "Italų"
+
+#: rules/base.extras.xml:989
+msgid "Japanese (Sun Type 6)"
+msgstr "Japonų („Sun Type 6“)"
+
+#: rules/base.extras.xml:995
+msgid "Japanese (Sun Type 7 - pc compatible)"
+msgstr "Japonų („Sun Type 7“, suderinamas su PC)"
+
+#: rules/base.extras.xml:1001
+msgid "Japanese (Sun Type 7 - sun compatible)"
+msgstr "Japonų („Sun Type 7“, suderinamas su „Sun“)"
+
+#: rules/base.extras.xml:1016
+msgid "Norwegian (Sun Type 6/7)"
+msgstr "Norvegų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1031
+msgid "Portuguese (Sun Type 6/7)"
+msgstr "Portugalų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1046
+#, fuzzy
+msgid "Portuguese (Colemak)"
+msgstr "Lenkų („Colemak“)"
+
+#: rules/base.extras.xml:1061
+#, fuzzy
+msgid "Slovak (ACC layout, only accented letters)"
+msgstr "Čekų (UCW išdėstymas, tik raidės su diakritikais)"
+
+#: rules/base.extras.xml:1067
+msgid "Slovak (Sun Type 6/7)"
+msgstr "Slovakų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1082
+msgid "Spanish (Sun Type 6/7)"
+msgstr "Ispanų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1097
+msgid "Swedish (Dvorak A5)"
+msgstr "Švedų (Dvorako A5)"
+
+#: rules/base.extras.xml:1103
+msgid "Swedish (Sun Type 6/7)"
+msgstr "Švedų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1109
+msgid "Elfdalian (Swedish, with combining ogonek)"
+msgstr ""
+
+#: rules/base.extras.xml:1127
+msgid "German (Switzerland, Sun Type 6/7)"
+msgstr "Vokiečių (Šveicarija, „Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1133
+msgid "French (Switzerland, Sun Type 6/7)"
+msgstr "Prancūzų (Šveicarija, „Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1148
+msgid "Turkish (Sun Type 6/7)"
+msgstr "Turkų („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1163
+msgid "Ukrainian (Sun Type 6/7)"
+msgstr "Ukrainiečių („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1178
+msgid "English (UK, Sun Type 6/7)"
+msgstr "Anglų (JK, „Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1193
+msgid "Korean (Sun Type 6/7)"
+msgstr "Korėjiečių („Sun Type 6/7“)"
+
+#: rules/base.extras.xml:1212
+#, fuzzy
+msgid "Vietnamese (AÐERTY)"
+msgstr "Vietnamiečių"
+
+#: rules/base.extras.xml:1218
+#, fuzzy
+msgid "Vietnamese (QĐERTY)"
+msgstr "Vietnamiečių"
+
+#. Keyboard indicator for European layouts
+#: rules/base.extras.xml:1227
+msgid "eu"
+msgstr "eu"
+
+#: rules/base.extras.xml:1228
+#, fuzzy
+msgid "EurKEY (US based layout with European letters)"
+msgstr "„EurKEY“ (JAV klaviatūra su Europos kalbų raidėmis)"
+
+#. Keyboard layouts for transcription and transliteration systems
+#: rules/base.extras.xml:1269
+msgid "International Phonetic Alphabet"
+msgstr ""
+
+#: rules/base.extras.xml:1285
+msgid "Number key 4 when pressed in isolation"
+msgstr ""
+
+#: rules/base.extras.xml:1291
+msgid "Number key 9 when pressed in isolation"
+msgstr ""
+
+#: rules/base.extras.xml:1299
+msgid "Parentheses position"
+msgstr ""
+
+#: rules/base.extras.xml:1304
+msgid "Swap with square brackets"
+msgstr ""
+
+#~ msgid "PC-98xx Series"
+#~ msgstr "PC-98xx serijos kompiuterio klaviatūra"
+
+#~ msgid "Cherry Blue Line CyBo@rd (alternate option)"
+#~ msgstr "„Cherry Blue Line CyBo@rd“ (alternatyvus variantas)"
+
+#~ msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
+#~ msgstr "„Compaq“ skreitinio kompiuterio (pvz., „Armada“) klaviatūra"
+
+#~ msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
+#~ msgstr ""
+#~ "„Compaq“ skreitinio kompiuterio (pvz., „Presario“) internetinė klaviatūra"
+
+#~ msgid "Dell Laptop/notebook Inspiron 6xxx/8xxx"
+#~ msgstr "„Dell Inspiron 6xxx/8xxx“ skreitinis kompiuteris"
+
+#~ msgid "Dell Laptop/notebook Precision M series"
+#~ msgstr "„Dell Precision M“ serijos skreitinis kompiuteris"
+
+#~ msgid "HTC Dream"
+#~ msgstr "„HTC Dream“"
+
+#~ msgid "Logitech Generic Keyboard"
+#~ msgstr "„Logitech“ įprastinė klaviatūra"
+
+#~ msgid "Hewlett-Packard Omnibook 5xx"
+#~ msgstr "„Hewlett-Packard Omnibook 5xx“"
+
+#~ msgid "Logitech Media Elite Keyboard"
+#~ msgstr "„Logitech Media Elite“ klaviatūra"
+
+#~ msgid "Logitech Cordless Desktop (alternate option)"
+#~ msgstr "„Logitech Cordless Desktop“ (alternatyvus variantas)"
+
+#~ msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+#~ msgstr ""
+#~ "„Microsoft Natural Keyboard Pro“ / „Microsoft Internet Keyboard Pro“"
+
+#~ msgid "Microsoft Natural Keyboard Elite"
+#~ msgstr "„Microsoft Natural Keyboard Elite“"
+
+#~ msgid "Ortek MCK-800 MM/Internet keyboard"
+#~ msgstr "„Ortek MCK-800“ multimedinė–internetinė klaviatūra"
+
+#~ msgid "SILVERCREST Multimedia Wireless Keyboard"
+#~ msgstr "„SILVERCREST“ belaidė multimedinė klaviatūra"
+
+#~ msgid "Laptop/notebook eMachines m68xx"
+#~ msgstr "„eMachines m68xx“ skreitinis kompiuteris"
+
+#~ msgid "Htc Dream phone"
+#~ msgstr "„HTC Dream“ telefonas"
+
+#~ msgid "English (US, alternative international)"
+#~ msgstr "Anglų (JAV alternatyvus tarptautinis)"
+
+#~ msgid "English (Dvorak alternative international no dead keys)"
+#~ msgstr "Anglų (Dvorako alternatyvus tarptautinis, be tęsties klavišų)"
+
+#~ msgid "English (left handed Dvorak)"
+#~ msgstr "Anglų (Dvorako, kairiarankiams)"
+
+#~ msgid "Arabic (azerty)"
+#~ msgstr "Arabų (AZERTY)"
+
+#~ msgid "Arabic (azerty/digits)"
+#~ msgstr "Arabų (AZERTY/skaitmenys)"
+
+#~ msgid "Arabic (qwerty)"
+#~ msgstr "Arabų (QWERTY)"
+
+#~ msgid "Armenian (alternative phonetic)"
+#~ msgstr "Armenų (alternatyvusis fonetinis)"
+
+#~ msgid "Armenian (alternative eastern)"
+#~ msgstr "Armėnų (Rytų alternatyvusis)"
+
+#~ msgid "German (Austria, eliminate dead keys)"
+#~ msgstr "Vokiečių (Austrija, be tęsties klavišų)"
+
+#~ msgid "Belgian (alternative, Sun dead keys)"
+#~ msgstr "Belgų (alternatyvus, su „Sun“ tęsties klavišais)"
+
+#~ msgid "Belgian (ISO alternate)"
+#~ msgstr "Belgų (ISO alternatyvus)"
+
+#~ msgid "Belgian (eliminate dead keys)"
+#~ msgstr "Belgų (be tęsties klavišų)"
+
+#~ msgid "Tamil (TAB typewriter)"
+#~ msgstr "Tamilų (TAB rašomosios mašinėlės išdėstymas)"
+
+#~ msgid "Tamil (TSCII typewriter)"
+#~ msgstr "Tamilų (TSCII rašomosios mašinėlės išdėstymas)"
+
+#~ msgid "Tamil"
+#~ msgstr "Tamilų"
+
+#~ msgid "Urdu (alternative phonetic)"
+#~ msgstr "Urdu (alternatyvus fonetinis)"
+
+#~ msgid "Bosnian (with guillemets for quotes)"
+#~ msgstr "Bosnių (su kampinėmis kabutėmis)"
+
+#~ msgid "Bosnian (US keyboard with Bosnian digraphs)"
+#~ msgstr "Bosnių (JAV klaviatūra su bosniškais dviraidžiais)"
+
+#~ msgid "Berber (Morocco, Tifinagh alternative)"
+#~ msgstr "Berberų (Marokas, tifinago alternatyvusis)"
+
+#~ msgid "Berber (Morocco, Tifinagh alternative phonetic)"
+#~ msgstr "Berberų (Marokas, tifinago alternatyvusis fonetinis)"
+
+#~ msgid "Cameroon Multilingual (azerty)"
+#~ msgstr "Kamerūno daugiakalbis (AZERTY)"
+
+#~ msgid "Croatian (with guillemets for quotes)"
+#~ msgstr "Kroatų (su kampinėmis kabutėmis)"
+
+#~ msgid "Croatian (US keyboard with Croatian digraphs)"
+#~ msgstr "Kroatų (JAV klaviatūra su kroatiškais dviraidžiais)"
+
+#~ msgid "Danish (eliminate dead keys)"
+#~ msgstr "Danų (be tęsties klavišų)"
+
+#~ msgid "French (eliminate dead keys)"
+#~ msgstr "Prancūzų (be tęsties klavišų)"
+
+#~ msgid "French (alternative, eliminate dead keys)"
+#~ msgstr "Prancūzų (alternatyvus, be tęsties klavišų)"
+
+#~ msgid "French (alternative, Sun dead keys)"
+#~ msgstr "Prancūzų (alternatyvus, su „Sun“ tęsties klavišais)"
+
+#~ msgid "French (legacy, alternative, eliminate dead keys)"
+#~ msgstr "Prancūzų (senasis, alternatyvus, be tęsties klavišų)"
+
+#~ msgid "Hausa"
+#~ msgstr "Hausa"
+
+#~ msgid "German (eliminate dead keys)"
+#~ msgstr "Vokiečių (be tęsties klavišų)"
+
+#~ msgid "Lower Sorbian (qwertz)"
+#~ msgstr "Žemutinių sorbų (QWERTZ)"
+
+#~ msgid "German (legacy)"
+#~ msgstr "Vokiečių (senasis)"
+
+#~ msgid "Hungarian (101/qwertz/comma/eliminate dead keys)"
+#~ msgstr ""
+#~ "Vengrų (101 klavišo, QWERTZ, dešimtainis kablelis, be tęsties klavišų)"
+
+#~ msgid "Hungarian (101/qwertz/dot/eliminate dead keys)"
+#~ msgstr ""
+#~ "Vengrų (101 klavišo, QWERTZ, dešimtainis taškas, be tęsties klavišų)"
+
+#~ msgid "Hungarian (101/qwerty/comma/dead keys)"
+#~ msgstr ""
+#~ "Vengrų (101 klavišo, QWERTY, dešimtainis kablelis, su tęsties klavišais)"
+
+#~ msgid "Hungarian (101/qwerty/comma/eliminate dead keys)"
+#~ msgstr ""
+#~ "Vengrų (101 klavišo, QWERTY, dešimtainis kablelis, be tęsties klavišų)"
+
+#~ msgid "Hungarian (101/qwerty/dot/dead keys)"
+#~ msgstr ""
+#~ "Vengrų (101 klavišo, QWERTY, dešimtainis taškas, su tęsties klavišais)"
+
+#~ msgid "Hungarian (101/qwerty/dot/eliminate dead keys)"
+#~ msgstr ""
+#~ "Vengrų (101 klavišo, QWERTY, dešimtainis taškas, be tęsties klavišų)"
+
+#~ msgid "Hungarian (102/qwertz/comma/eliminate dead keys)"
+#~ msgstr ""
+#~ "Vengrų (102 klavišų, QWERTZ, dešimtainis kablelis, be tęsties klavišų)"
+
+#~ msgid "Hungarian (102/qwertz/dot/eliminate dead keys)"
+#~ msgstr ""
+#~ "Vengrų (102 klavišų, QWERTZ, dešimtainis taškas, be tęsties klavišų)"
+
+#~ msgid "Hungarian (102/qwerty/comma/dead keys)"
+#~ msgstr ""
+#~ "Vengrų (102 klavišų, QWERTY, dešimtainis kablelis, su tęsties klavišais)"
+
+#~ msgid "Hungarian (102/qwerty/comma/eliminate dead keys)"
+#~ msgstr ""
+#~ "Vengrų (102 klavišų, QWERTY, dešimtainis kablelis, be tęsties klavišų)"
+
+#~ msgid "Hungarian (102/qwerty/dot/dead keys)"
+#~ msgstr ""
+#~ "Vengrų (102 klavišų, QWERTY, dešimtainis taškas, su tęsties klavišais)"
+
+#~ msgid "Hungarian (102/qwerty/dot/eliminate dead keys)"
+#~ msgstr ""
+#~ "Vengrų (102 klavišų, QWERTY, dešimtainis taškas, be tęsties klavišų)"
+
+#~ msgid "Icelandic (eliminate dead keys)"
+#~ msgstr "Islandų (be tęsties klavišų)"
+
+#~ msgid "Spanish (Latin American, eliminate dead keys)"
+#~ msgstr "Ispanų (Lotynų Amerika, be tęsties klavišų)"
+
+#~ msgid "Lithuanian (US keyboard with Lithuanian letters)"
+#~ msgstr "Lietuvių (JAV klaviatūra su lietuviškais rašmenimis)"
+
+#~ msgid "Latvian (F variant)"
+#~ msgstr "Latvių (F raidės variantas)"
+
+#~ msgid "Montenegrin (Latin Unicode qwerty)"
+#~ msgstr "Juodkalniečių (lotyniški rašmenys, unikodas, QWERTY)"
+
+#~ msgid "Polish (qwertz)"
+#~ msgstr "Lenkų (QWERTZ)"
+
+#~ msgid "Portuguese (eliminate dead keys)"
+#~ msgstr "Portugalų (be tęsties klavišų)"
+
+#~ msgid "Portuguese (Macintosh, eliminate dead keys)"
+#~ msgstr "Portugalų („Macintosh“, be tęsties klavišų)"
+
+#~ msgid "Serbian (Latin qwerty)"
+#~ msgstr "Serbų (lotyniški rašmenys, QWERTY)"
+
+#~ msgid "Serbian (Latin Unicode qwerty)"
+#~ msgstr "Serbų (lotyniški rašmenys, unikodas, QWERTY)"
+
+#~ msgid "Slovenian (with guillemets for quotes)"
+#~ msgstr "Slovėnų (su kampinėmis kabutėmis)"
+
+#~ msgid "Slovak (qwerty, extended Backslash)"
+#~ msgstr "Slovakų (QWERTY, išplėstas kairinis brūkšnys)"
+
+#~ msgid "Spanish (eliminate dead keys)"
+#~ msgstr "Ispanų (be tęsties klavišų)"
+
+#~ msgid "German (Switzerland, eliminate dead keys)"
+#~ msgstr "Vokiečių (Šveicarija, be tęsties klavišų)"
+
+#~ msgid "French (Switzerland, eliminate dead keys)"
+#~ msgstr "Prancūzų (Šveicarija, be tęsties klavišų)"
+
+#~ msgid "Tamil (Sri Lanka, TAB Typewriter)"
+#~ msgstr "Tamilų (Šri lanka, TAB rašomosios mašinėlės išdėstymas)"
+
+#~ msgid "English (UK, Macintosh international)"
+#~ msgstr "Anglų (JK, „Macintosh“ tarptautinis)"
+
+#~ msgid "Right Alt as Right Ctrl"
+#~ msgstr "Dešiniajam Alt klavišui priskirti dešiniojo Vald funkciją"
+
+#~ msgid "Make Caps Lock an additional Ctrl"
+#~ msgstr "Didž klavišą paversti papildomu Vald klavišu"
+
+#~ msgid "Shift with numeric keypad keys works as in MS Windows"
+#~ msgstr ""
+#~ "Lyg2 su skaitmenų srities klavišais veikia kaip MS Windows sistemoje"
+
+#~ msgid ""
+#~ "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with "
+#~ "another 5th-level-chooser"
+#~ msgstr ""
+#~ "Klavišas „Mažiau/Daugiau“ įjungia penktąjį lygį, arba jį užfiksuoja, "
+#~ "jeigu naudojamas kartu su kitu penktojo lygio parinkimo klavišu"
+
+#~ msgid "Non-breakable space character at fourth level"
+#~ msgstr "Jungiamasis tarpas ketvirtajame lygyje"
+
+#~ msgid ""
+#~ "Non-breakable space character at fourth level, thin non-breakable space "
+#~ "character at sixth level"
+#~ msgstr ""
+#~ "Jungiamasis tarpas ketvirtajame lygyje, siauras jungiamasis tarpas "
+#~ "šeštajame lygyje"
+
+#~ msgid ""
+#~ "Zero-width non-joiner character at second level, zero-width joiner "
+#~ "character at third level"
+#~ msgstr ""
+#~ "Nulinio pločio skirtukas antrajame lygyje, nulinio pločio jungtukas "
+#~ "trečiajame lygyje"
+
+#~ msgid "APL keyboard symbols"
+#~ msgstr "APL klaviatūros simboliai"
+
+#~ msgid "APL keyboard symbols (Dyalog)"
+#~ msgstr "APL klaviatūros simboliai („Dyalog“)"
+
+#~ msgid "English (layout toggle on multiply/divide key)"
+#~ msgstr "Anglų (išdėstymas perjungiamas daugybos/dalybos klavišu)"
+
+#~ msgid "Bengali"
+#~ msgstr "Bengalų"
+
+#~ msgid "Portuguese (Brazil, nativo for Esperanto)"
+#~ msgstr "Portugalų (Brazilija, „Nativo“ esperanto kalbai)"
+
+#~ msgid "Key(s) to change layout"
+#~ msgstr "Klavišai išdėstymui pakeisti"
+
+#~ msgid "Numeric keypad layout selection"
+#~ msgstr "Skaitmenų srities išdėstymo parinkimas"
+
+#~ msgid "Make Caps Lock an additional Control but keep the Caps_Lock keysym"
+#~ msgstr ""
+#~ "Didž klavišą paversti papildomu Vald klavišu, paliekant Caps_Lock klavišo "
+#~ "pavadinimą"
+
+#~ msgid "Compose key position"
+#~ msgstr "Komponavimo klavišo pozicija"
+
+#~ msgid "Toggle PointerKeys with Shift + NumLock."
+#~ msgstr ""
+#~ "Lyg2+Skaitm įjungia / išjungia pelės žymeklio valdymą skaitmenų srities "
+#~ "klavišais."
+
+#~ msgid ""
+#~ "&lt;Less/Greater&gt; chooses 5th level and activates level5-Lock when "
+#~ "pressed together with another 5th-level-chooser, one press releases the "
+#~ "lock"
+#~ msgstr ""
+#~ "Klavišas „Mažiau/Daugiau“ įjungia penktąjį lygį; veikia kaip tęsties "
+#~ "klavišas, kai naudojamas kartu su kitu penktojo lygio parinkimo klavišu"
+
+#~ msgid ""
+#~ "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with "
+#~ "another 5th-level-chooser, one press releases the lock"
+#~ msgstr ""
+#~ "Klavišas „Mažiau/Daugiau“ įjungia penktąjį lygį, arba jį užfiksuoja, "
+#~ "jeigu naudojamas kartu su kitu penktojo lygio parinkimo klavišu. Vieno "
+#~ "klavišo spustelėjimas nutraukia fiksavimą"
+
+#~ msgid "Catalan"
+#~ msgstr "Katalonų"
+
+#~ msgid "English (Cameroon Dvorak)"
+#~ msgstr "Anglų (Kamerūnas, Dvorako)"
+
+#~ msgid ""
+#~ "Left Win chooses 5th level, locks when pressed together with another 5th-"
+#~ "level-chooser, one press releases the lock"
+#~ msgstr ""
+#~ "Kairysis Win įjungia penktąjį lygį, arba jį užfiksuoja, jeigu naudojamas "
+#~ "kartu su kitu penktojo lygio parinkimo klavišu. Vieno klavišo "
+#~ "spustelėjimas nutraukia fiksavimą"
+
+#~ msgid ""
+#~ "Right Alt chooses 5th level and activates level5-Lock when pressed "
+#~ "together with another 5th-level-chooser, one press releases the lock"
+#~ msgstr ""
+#~ "Dešinysis Alt įjungia penktąjį lygį, arba jį užfiksuoja, jeigu naudojamas "
+#~ "kartu su kitu penktojo lygio parinkimo klavišu. Vieno klavišo "
+#~ "spustelėjimas nutraukia fiksavimą"
+
+#~ msgid ""
+#~ "Right Alt chooses 5th level, locks when pressed together with another 5th-"
+#~ "level-chooser, one press releases the lock"
+#~ msgstr ""
+#~ "Dešinysis Alt įjungia penktąjį lygį, arba jį užfiksuoja, jeigu naudojamas "
+#~ "kartu su kitu penktojo lygio parinkimo klavišu. Vieno klavišo "
+#~ "spustelėjimas nutraukia fiksavimą"
+
+#~ msgid ""
+#~ "Right Win chooses 5th level, locks when pressed together with another 5th-"
+#~ "level-chooser, one press releases the lock"
+#~ msgstr ""
+#~ "Dešinysis Win įjungia penktąjį lygį, arba jį užfiksuoja, jeigu naudojamas "
+#~ "kartu su kitu penktojo lygio parinkimo klavišu. Vieno klavišo "
+#~ "spustelėjimas nutraukia fiksavimą"
+
+#~ msgid "Serbian (Z and ZHE swapped)"
+#~ msgstr "Serbų (raidės Z ir Ž sukeistos)"
+
+#~ msgid "(F)"
+#~ msgstr "(F)"
+
+#~ msgid "2"
+#~ msgstr "2"
+
+#~ msgid "4"
+#~ msgstr "4"
+
+#~ msgid "5"
+#~ msgstr "5"
+
+#~ msgid "Afg"
+#~ msgstr "Afg"
+
+#~ msgid "Alb"
+#~ msgstr "Alb"
+
+#~ msgid "Alt-Q"
+#~ msgstr "Alt-Q"
+
+#~ msgid "Alternative"
+#~ msgstr "Alternatyvus"
+
+#~ msgid "Alternative international"
+#~ msgstr "Alternatyvus tarptautinis"
+
+#~ msgid "And"
+#~ msgstr "And"
+
+#~ msgid "Andorra"
+#~ msgstr "Andora"
+
+#~ msgid "Ara"
+#~ msgstr "Ara"
+
+#~ msgid "Arm"
+#~ msgstr "Arm"
+
+#~ msgid "Aze"
+#~ msgstr "Aze"
+
+#~ msgid "Bel"
+#~ msgstr "Bel"
+
+#~ msgid "Bgd"
+#~ msgstr "Bgd"
+
+#~ msgid "Bhutan"
+#~ msgstr "Butanas"
+
+#~ msgid "Bih"
+#~ msgstr "Bih"
+
+#~ msgid "Blr"
+#~ msgstr "Blr"
+
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "Bosnija ir Hercegovina"
+
+#~ msgid "Bra"
+#~ msgstr "Bra"
+
+#~ msgid "Brazil"
+#~ msgstr "Brazilija"
+
+#~ msgid "Breton"
+#~ msgstr "Bretonų"
+
+#~ msgid "Bwa"
+#~ msgstr "Bwa"
+
+#~ msgid "COD"
+#~ msgstr "COD"
+
+#~ msgid "CRULP"
+#~ msgstr "CRULP"
+
+#~ msgid "Canada"
+#~ msgstr "Kanada"
+
+#~ msgid "CapsLock"
+#~ msgstr "Didžiosios raidės"
+
+#~ msgid "Cedilla"
+#~ msgstr "Cedila"
+
+#~ msgid "Chn"
+#~ msgstr "Chn"
+
+#~ msgid "Classic"
+#~ msgstr "Klasikinis"
+
+#~ msgid "Colemak"
+#~ msgstr "Colemak"
+
+#~ msgid "Crimean Tatar (Dobruca-2 Q)"
+#~ msgstr "Krymo totorių (Dobruca-2 Q)"
+
+#~ msgid "Cyrillic"
+#~ msgstr "Kiriliškasis"
+
+#~ msgid "Cze"
+#~ msgstr "Cze"
+
+#~ msgid "DOS"
+#~ msgstr "DOS"
+
+#~ msgid "Dead acute"
+#~ msgstr "Tęsties klavišas – dešininis kirtis"
+
+#~ msgid "Denmark"
+#~ msgstr "Danija"
+
+#~ msgid "Dnk"
+#~ msgstr "Dnk"
+
+#~ msgid "Dvorak"
+#~ msgstr "Dvorako"
+
+#~ msgid "E"
+#~ msgstr "E"
+
+#~ msgid "Eastern"
+#~ msgstr "Rytų"
+
+#~ msgid "Epo"
+#~ msgstr "Epo"
+
+#~ msgid "Esp"
+#~ msgstr "Esp"
+
+#~ msgid "Ethiopia"
+#~ msgstr "Etiopija"
+
+#~ msgid "Extended"
+#~ msgstr "Išplėstasis"
+
+#~ msgid "Finland"
+#~ msgstr "Suomija"
+
+#~ msgid "Fra"
+#~ msgstr "Fra"
+
+#~ msgid "France"
+#~ msgstr "Prancūzija"
+
+#~ msgid "GBr"
+#~ msgstr "GBr"
+
+#~ msgid "GILLBT"
+#~ msgstr "GILLBT"
+
+#~ msgid "Georgia"
+#~ msgstr "Gruzija"
+
+#~ msgid "Ghana"
+#~ msgstr "Gana"
+
+#~ msgid "Gin"
+#~ msgstr "Gin"
+
+#~ msgid "Grc"
+#~ msgstr "Grc"
+
+#~ msgid "Guinea"
+#~ msgstr "Gvinėja"
+
+#~ msgid "Homophonic"
+#~ msgstr "Homofoninė"
+
+#~ msgid "Hrv"
+#~ msgstr "Hrv"
+
+#~ msgid "Hun"
+#~ msgstr "Hun"
+
+#~ msgid "Ind"
+#~ msgstr "Ind"
+
+#~ msgid "Iran"
+#~ msgstr "Iranas"
+
+#~ msgid "Ireland"
+#~ msgstr "Airija"
+
+#~ msgid "Irl"
+#~ msgstr "Irl"
+
+#~ msgid "Irn"
+#~ msgstr "Irn"
+
+#~ msgid "Irq"
+#~ msgstr "Irq"
+
+#~ msgid "Israel"
+#~ msgstr "Izraelis"
+
+#~ msgid "Jpn"
+#~ msgstr "Jpn"
+
+#~ msgid "Kana"
+#~ msgstr "Kana"
+
+#~ msgid "Kenya"
+#~ msgstr "Kenija"
+
+#~ msgid "Kgz"
+#~ msgstr "Kgz"
+
+#~ msgid "Khm"
+#~ msgstr "Khm"
+
+#~ msgid "Korea, Republic of"
+#~ msgstr "Korėjos respublika"
+
+#~ msgid "Ktunaxa"
+#~ msgstr "Kutenajų"
+
+#~ msgid "LAm"
+#~ msgstr "LAm"
+
+#~ msgid "LEKP"
+#~ msgstr "LEKP"
+
+#~ msgid "LEKPa"
+#~ msgstr "LEKPa"
+
+#~ msgid "Laos"
+#~ msgstr "Laosas"
+
+#~ msgid "Latin"
+#~ msgstr "Lotyniškasis"
+
+#~ msgid "Latin unicode"
+#~ msgstr "Lotyniškasis unikodinis"
+
+#~ msgid "Latin unicode qwerty"
+#~ msgstr "Lotyniškasis unikodinis, raidės Z ir Ž sukeistos"
+
+#~ msgid "Left hand"
+#~ msgstr "Kairei rankai"
+
+#~ msgid "Ltu"
+#~ msgstr "Ltu"
+
+#~ msgid "Lva"
+#~ msgstr "Lva"
+
+#~ msgid "MESS"
+#~ msgstr "MESS"
+
+#~ msgid "MNE"
+#~ msgstr "MNE"
+
+#~ msgid "Maldives"
+#~ msgstr "Maldyvai"
+
+#~ msgid "Mali"
+#~ msgstr "Malis"
+
+#~ msgid "Mao"
+#~ msgstr "Mao"
+
+#~ msgid "Mkd"
+#~ msgstr "Mkd"
+
+#~ msgid "Mli"
+#~ msgstr "Mli"
+
+#~ msgid "Mng"
+#~ msgstr "Mng"
+
+#~ msgid "Myanmar"
+#~ msgstr "Mianmaras"
+
+#~ msgid "NLA"
+#~ msgstr "NLA"
+
+#~ msgid "Nativo"
+#~ msgstr "Nativo"
+
+#~ msgid "Neo 2"
+#~ msgstr "Neo 2"
+
+#~ msgid "Netherlands"
+#~ msgstr "Nyderlandai"
+
+#~ msgid "Nigeria"
+#~ msgstr "Nigerija"
+
+#~ msgid "Nld"
+#~ msgstr "Nld"
+
+#~ msgid "Nor"
+#~ msgstr "Nor"
+
+#~ msgid "Norway"
+#~ msgstr "Norvegija"
+
+#~ msgid "OLPC Dari"
+#~ msgstr "OLPC Dari"
+
+#~ msgid "OLPC Pashto"
+#~ msgstr "OLPC Puštų"
+
+#~ msgid "OLPC Southern Uzbek"
+#~ msgstr "OLPC Pietų Uzbekijos"
+
+#~ msgid "Ossetian"
+#~ msgstr "Osetinų"
+
+#~ msgid "Phonetic"
+#~ msgstr "Fonetinis"
+
+#~ msgid "Phonetic Winkeys"
+#~ msgstr "Fonetinis „Windows“ išdėstymas"
+
+#~ msgid "Pol"
+#~ msgstr "Pol"
+
+#~ msgid "Poland"
+#~ msgstr "Lenkija"
+
+#~ msgid "Probhat"
+#~ msgstr "Probhat"
+
+#~ msgid "Prt"
+#~ msgstr "Prt"
+
+#~ msgid "Rou"
+#~ msgstr "Rou"
+
+#~ msgid "Russia"
+#~ msgstr "Rusija"
+
+#~ msgid "SRB"
+#~ msgstr "SRB"
+
+#~ msgid "ScrollLock"
+#~ msgstr "Slinkti"
+
+#~ msgid "Sen"
+#~ msgstr "Sen"
+
+#~ msgid "Senegal"
+#~ msgstr "Senegaliečių"
+
+#~ msgid "Serbia"
+#~ msgstr "Serbija"
+
+#~ msgid "Simple"
+#~ msgstr "Paprastasis"
+
+#~ msgid "Southern Uzbek"
+#~ msgstr "Pietų Uzbekijos"
+
+#~ msgid "Spain"
+#~ msgstr "Ispanija"
+
+#~ msgid "Sri Lanka"
+#~ msgstr "Šri Lanka"
+
+#~ msgid "Standard"
+#~ msgstr "Standartinis"
+
+#~ msgid "Standard RSTU on Russian layout"
+#~ msgstr "Standartinis RSTU ant rusiško išdėstymo"
+
+#~ msgid "Svk"
+#~ msgstr "Svk"
+
+#~ msgid "Svn"
+#~ msgstr "Svn"
+
+#~ msgid "Swe"
+#~ msgstr "Swe"
+
+#~ msgid "Syr"
+#~ msgstr "Syr"
+
+#~ msgid "Syria"
+#~ msgstr "Sirija"
+
+#~ msgid "Tha"
+#~ msgstr "Tha"
+
+#~ msgid "Tifinagh"
+#~ msgstr "Berberų"
+
+#~ msgid "Tjk"
+#~ msgstr "Tjk"
+
+#~ msgid "Typewriter"
+#~ msgstr "Rašomosios mašinėlės išdėstymas"
+
+#~ msgid "Tza"
+#~ msgstr "Tza"
+
+#~ msgid "USA"
+#~ msgstr "JAV"
+
+#~ msgid "Ukr"
+#~ msgstr "Ukr"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Jungtinė karalystė"
+
+#~ msgid "Uzb"
+#~ msgstr "Uzb"
+
+#~ msgid "Vnm"
+#~ msgstr "Vnm"
+
+#~ msgid "Western"
+#~ msgstr "Vakarietiškasis"
+
+#~ msgid "With guillemets"
+#~ msgstr "Su kampinėmis kabutėmis"
+
+#~ msgid "Zaf"
+#~ msgstr "Zaf"
+
+#~ msgid "azerty"
+#~ msgstr "AZERTY"
+
+#~ msgid "digits"
+#~ msgstr "skaitmenys"
+
+#~ msgid "lyx"
+#~ msgstr "lyx"
+
+#~ msgid "qwertz"
+#~ msgstr "QWERTZ"
+
+#~ msgid "ACPI Standard"
+#~ msgstr "Įprastinė ACPI"
+
+#~ msgid "DRC"
+#~ msgstr "DRC"
+
+#~ msgid "Dvorak international"
+#~ msgstr "Dvorako tarptautinis"
+
+#~ msgid "Evdev-managed keyboard"
+#~ msgstr "Evdev valdoma klaviatūra"
+
+#~ msgid "Gre"
+#~ msgstr "Gre"
+
+#~ msgid "Gui"
+#~ msgstr "Gui"
+
+#~ msgid "Lav"
+#~ msgstr "Lav"
+
+#~ msgid "Nep"
+#~ msgstr "Nep"
+
+#~ msgid "SrL"
+#~ msgstr "SrL"
+
+#~ msgid "Baltic+"
+#~ msgstr "Baltic+"
+
+#~ msgid "IBM ThinkPad 560Z/600/600E/A22E, Intl"
+#~ msgstr "IBM ThinkPad 560Z/600/600E/A22E (europinė)"
+
+#~ msgid "Pro"
+#~ msgstr "Pro"
+
+#~ msgid "Pro Keypad"
+#~ msgstr "Pro, Skaitmenų sritis"
+
+#, fuzzy
+#~ msgid "Standard Phonetic"
+#~ msgstr "Urdu, fonetinis"
+
+#~ msgid "Brazilian ABNT2"
+#~ msgstr "Brazilų ABNT2"
+
+#~ msgid "Japanese 106-key"
+#~ msgstr "Japoniška 106 klavišų"
+
+#~ msgid "Kir"
+#~ msgstr "Kir"
+
+#~ msgid "Super is mapped to Win keys"
+#~ msgstr "Win klavišams priskirti Super funkciją"
+
+#~ msgid "US keyboard with Slovenian digraphs"
+#~ msgstr "JAV klaviatūra su slovėniškais dviraidžiais"
+
+#~ msgid "Unicode"
+#~ msgstr "Unikodinis"
+
+#~ msgid "Use Slovenian digraphs"
+#~ msgstr "Slovėniški dviraidžiai"

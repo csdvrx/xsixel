@@ -1,0 +1,6 @@
+fontencc.lo: fontencc.c /usr/include/stdc-predef.h ../../config.h \
+ /usr/include/X11/fonts/fontenc.h ../../include/X11/fonts/fontencc.h
+/usr/include/stdc-predef.h:
+../../config.h:
+/usr/include/X11/fonts/fontenc.h:
+../../include/X11/fonts/fontencc.h:

@@ -1,0 +1,56 @@
+Source: libxfont1
+Section: x11
+Priority: optional
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Uploaders: Timo Aaltonen <tjaalton@debian.org>
+Build-Depends:
+ debhelper (>= 10),
+ quilt,
+ pkg-config,
+ libfontenc-dev (>= 1:1.0.5-2),
+ x11proto-core-dev,
+ xtrans-dev,
+ x11proto-fonts-dev,
+ libfreetype6-dev,
+ zlib1g-dev,
+ libbz2-dev,
+ xutils-dev (>= 1:7.5+4),
+# devel-docs
+ xmlto, xorg-sgml-doctools (>= 1:1.7), w3m,
+Standards-Version: 3.9.8
+Vcs-Git: https://anonscm.debian.org/git/pkg-xorg/lib/libxfont.git
+Vcs-Browser: https://anonscm.debian.org/git/pkg-xorg/lib/libxfont.git
+
+Package: libxfont1
+Section: oldlibs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Breaks: xfs (<< 1:1.1.4)
+Pre-Depends: ${misc:Pre-Depends}
+Multi-Arch: same
+Description: X11 font rasterisation library
+ libXfont provides various services for X servers, most notably font
+ selection and rasterisation (through external libraries).
+ .
+ More information about X.Org can be found at:
+ <URL:https://www.X.org>
+ .
+ This module can be found at
+ git://anongit.freedesktop.org/git/xorg/lib/libXfont
+
+Package: libxfont1-dev
+Section: libdevel
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libxfont1 (= ${binary:Version}), libx11-dev, x11proto-core-dev, x11proto-fonts-dev, libfreetype6-dev, libfontenc-dev (>= 1:1.0.1-1)
+Description: X11 font rasterisation library (development headers)
+ libXfont provides various services for X servers, most notably font
+ selection and rasterisation (through external libraries).
+ .
+ This package contains the development headers for the library found in
+ libxfont1.  Non-developers likely have little use for this package.
+ .
+ More information about X.Org can be found at:
+ <URL:https://www.X.org>
+ .
+ This module can be found at
+ git://anongit.freedesktop.org/git/xorg/lib/libXfont
