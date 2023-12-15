@@ -17,3 +17,7 @@ Use src/xserver-SIXEL/build-xsixel.sh to build from sources into /xorg
 # What's coming next
 
 Make cosmopolitan binaries for a multiplatform Xsixel running inside multiplatforms terminals like Alacritty
+
+# Credits
+
+[Hayaki Saito](https://github.com/saitoha) did most of the work [on xserver-SIXEL in 2014](https://github.com/saitoha/xserver-SIXEL) which was based on [@pelya's Xsdl kdrive server](https://github.com/pelya/xserver-xsdl)
